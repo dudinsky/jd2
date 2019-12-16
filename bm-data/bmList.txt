@@ -6,7 +6,6 @@
 2019-12-11	https://jobs.tut.by/vacancy/34300028	Вайзор Геймз
 2019-12-12	https://jobs.tut.by/vacancy/34979783	Мобикон-Медиа
 2019-12-13	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/130233/	БелХард
-2019-12-05	https://jobs.tut.by/vacancy/34751528	Датахата
 2019-12-16	https://jobs.tut.by/vacancy/35011984	ПромПродИмпекс
 2019-12-11	https://jobs.tut.by/vacancy/30376782	iTechArt Group
 2019-12-11	https://jobs.tut.by/vacancy/34966227	Лейко Д. И.
@@ -27,7 +26,6 @@
 2019-12-11	https://jobs.tut.by/vacancy/34966692	Виппи
 2019-12-06	https://jobs.tut.by/vacancy/34900884	Активные Системы
 2019-12-07	https://jobs.tut.by/vacancy/34738520	Тинд Сервис
-2019-12-05	https://jobs.tut.by/vacancy/34886216	Кондор
 2019-12-05	https://jobs.tut.by/vacancy/34886216	Кондор
 2019-12-11	https://jobs.tut.by/vacancy/34954464	Компания ЯР
 2019-12-09	https://jobs.tut.by/vacancy/34921305	Авем
@@ -56,6 +54,7 @@
 2019-12-05	https://jobs.tut.by/vacancy/34727636	Wargaming.net
 2019-12-13	http://gsz.gov.by/ru/vacancy/967048/	Белтаможсервис
 2019-12-11	https://jobs.tut.by/vacancy/34887766	Маннермода
+2019-12-05	https://jobs.tut.by/vacancy/34362545	Wargaming.net
 2019-12-14	https://jobs.tut.by/vacancy/34265371	Вэил Студио
 2019-12-09	https://jobs.tut.by/vacancy/34933593	Веганс Бай
 2019-12-06	http://gsz.gov.by/ru/vacancy/1021821/	"Радунскаясредняя школа"
@@ -193,6 +192,7 @@
 2019-12-12	https://jobs.tut.by/vacancy/34973813	Михалькевич О.В.
 2019-12-13	https://jobs.tut.by/vacancy/34739666	СантСтар
 2019-12-09	https://jobs.tut.by/vacancy/34916840	Марк Формэль
+2019-12-05	https://jobs.tut.by/vacancy/30544751	Частное предприятие AйФьючер / iFuture
 2019-12-06	https://jobs.tut.by/vacancy/34793341	Техниксофт
 2019-12-16	https://jobs.tut.by/vacancy/35016545	КейТуБи
 2019-12-06	https://jobs.tut.by/vacancy/34898244	Fix Price
@@ -242,7 +242,6 @@
 2019-12-16	https://jobs.tut.by/vacancy/35016328	Справочные системы
 2019-12-09	https://jobs.tut.by/vacancy/34912496	Веб Фокус
 2019-12-16	https://jobs.dev.by/vacancies/18688	Wargaming.net
-2019-12-05	https://jobs.tut.by/vacancy/33257288	ОМА
 2019-12-12	https://jobs.tut.by/vacancy/34983870	Авагро Стайл
 2019-12-05	https://praca.by/vacancy/299057/	Средняя школа № 27 г. Витебска
 2019-12-13	https://jobs.tut.by/vacancy/34786838	БЭС инновэйшн
@@ -357,6 +356,7 @@
 2019-12-09	http://gsz.gov.by/ru/vacancy/1017054/	УЗ "Бобруйская центральная больница"
 2019-12-10	https://jobs.tut.by/vacancy/34932616	Eightydays.me \ ООО Туринг Апп
 2019-12-05	https://rdw.by/vakansii/inzhener-programmist/25281278	Связьинвест
+2019-12-05	https://jobs.tut.by/vacancy/34885660	Терраскейл
 2019-12-12	https://www.belrabota.by/vacancy/dizayn-verstka-smi-massmedia-poligrafiya/71716/	БелХард
 2019-12-11	https://jobs.tut.by/vacancy/33000398	Хелмес Бел
 2019-12-12	https://jobs.tut.by/vacancy/34979943	Научсофт
@@ -497,7 +497,6 @@
 2019-12-06	https://jobs.tut.by/vacancy/34898563	Девстрим
 2019-12-12	https://jobs.tut.by/vacancy/34975084	Skywind Group
 2019-12-13	https://praca.by/vacancy/327889/	Частное предприятие "АЛАВИР"
-2019-12-05	https://jobs.tut.by/vacancy/34727774	Мобеклс
 2019-12-14	https://praca.by/vacancy/316597/	Ооо "Вира"
 2019-12-05	https://jobs.tut.by/vacancy/34878976	Дащинская З.М.
 2019-12-10	https://jobs.tut.by/vacancy/34381392	СК хайникс мемори солюшнс Восточная Европа
