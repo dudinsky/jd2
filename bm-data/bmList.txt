@@ -2,7 +2,6 @@
 2019-12-06	https://jobs.tut.by/vacancy/34488741	Saber Interactive (Minsk)
 2019-12-13	https://jobs.tut.by/vacancy/34998066	VironIT
 2019-12-12	https://jobs.tut.by/vacancy/34975186	IBA Group
-2019-12-12	https://jobs.tut.by/vacancy/34975186	IBA Group
 2019-12-13	https://praca.by/vacancy/307120/	Частное предприятие "Мобеклс"
 2019-12-11	https://jobs.tut.by/vacancy/34300028	Вайзор Геймз
 2019-12-12	https://jobs.tut.by/vacancy/34979783	Мобикон-Медиа
@@ -281,7 +280,6 @@
 2019-12-11	https://jobs.tut.by/vacancy/34961560	IDT Technologies
 2019-12-09	https://jobs.tut.by/vacancy/34923287	ТаргСофт
 2019-12-13	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/inzhener-6/139802/	Транспортно-логистический центр Минск Белорусской железной дороги
-2019-12-05	https://jobs.tut.by/vacancy/32967955	Gismart
 2019-12-11	https://jobs.tut.by/vacancy/34827957	LeverX International
 2019-12-14	https://jobs.tut.by/vacancy/34808164	Датастрим ДЕП
 2019-12-12	https://jobs.tut.by/vacancy/34984233	Белка Геймз
@@ -626,6 +624,7 @@
 2019-12-11	https://jobs.tut.by/vacancy/34945470	БЭС инновэйшн
 2019-12-11	https://jobs.tut.by/vacancy/34966172	Kreado Ohg
 2019-12-16	https://riv.by/minsk/svyaz-it-internet/vakansiya-58474.html	БелХард
+2019-12-05	https://jobs.tut.by/vacancy/34805173	СофтСервис
 2019-12-05	https://jobs.tut.by/vacancy/34351591	БигАрми
 2019-12-05	https://jobs.dev.by/vacancies/18598	Яндекс
 2019-12-09	https://jobs.dev.by/vacancies/16179	AppXite
@@ -640,6 +639,7 @@
 2019-12-16	https://jobs.tut.by/vacancy/35018890	Expert Soft
 2019-12-16	https://jobs.dev.by/vacancies/11730	Itransition
 2019-12-10	https://joblab.by/vac258227.html	ОАО "Гомельхлебпром" филиал Светлогорский хлебозавод
+2019-12-05	https://jobs.tut.by/vacancy/34846501	Мэйк Трэвел
 2019-12-06	https://jobs.tut.by/vacancy/34904716	ПлатформИО / Platform.io
 2019-12-09	https://jobs.tut.by/vacancy/34912581	Веб Фокус
 2019-12-13	http://gsz.gov.by/ru/vacancy/1041021/	Рязанцевский учебно-педагогический комплекс детский сад - средняя школа
@@ -908,7 +908,6 @@
 2019-12-06	https://jobs.tut.by/vacancy/34896428	СофтВек, ЧУП
 2019-12-16	https://www.belrabota.by/vacancy/obrazovanie-nauka/139894/	Средняя школа № 161 г. Минска
 2019-12-05	https://jobs.tut.by/vacancy/34884431	Плэйтика Бел
-2019-12-05	https://jobs.tut.by/vacancy/33638669	Пбфбелком
 2019-12-06	http://gsz.gov.by/ru/vacancy/1036796/	Руп "Главный Расчетный Информационный Центр" Бжд
 2019-12-05	https://jobs.tut.by/vacancy/34664929	Admitad
 2019-12-05	https://jobs.tut.by/vacancy/34806936	Artox media
