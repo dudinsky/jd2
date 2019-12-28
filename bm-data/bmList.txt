@@ -114,7 +114,6 @@
 2019-12-27	https://jobs.tut.by/vacancy/35136646	Веб Формат
 2019-12-24	https://jobs.tut.by/vacancy/35111998	SaM Solutions Самсолюшнс
 2019-12-24	https://jobs.tut.by/vacancy/35111757	Клика Тек
-2019-12-15	https://jobs.tut.by/vacancy/35003043	Дом Технологий
 2019-12-20	https://jobs.tut.by/vacancy/35080368	SaM Solutions Самсолюшнс
 2019-12-21	https://jobs.tut.by/vacancy/35081695	София-Виктория
 2019-12-19	https://jobs.tut.by/vacancy/35066066	Белка Геймз
@@ -307,6 +306,7 @@
 2019-12-18	https://jobs.tut.by/vacancy/35051719	Ноты
 2019-12-18	https://praca.by/vacancy/328484/	ООО "Тэксод Технолоджиз"
 2019-12-27	https://jobs.tut.by/vacancy/35142985	Instinctools
+2019-12-28	https://jobs.tut.by/vacancy/35140328	Касперович Д. В.
 2019-12-16	https://jobs.tut.by/vacancy/35012109	SaM Solutions Самсолюшнс
 2019-12-23	https://jobs.tut.by/vacancy/34994456	Дистанционная торговля
 2019-12-18	https://jobs.tut.by/vacancy/34646818	Сабаба Лэбс
@@ -593,8 +593,8 @@
 2019-12-18	https://jobs.tut.by/vacancy/35053444	СинемаЛаб
 2019-12-27	https://jobs.tut.by/vacancy/35134573	Эксадел
 2019-12-20	https://jobs.tut.by/vacancy/35042795	Евлаер Групп
-2019-12-20	https://jobs.tut.by/vacancy/35080460	Агентство Минск-Новости
 2019-12-20	https://jobs.tut.by/vacancy/35067013	БелКП-ПРЕСС
+2019-12-20	https://jobs.tut.by/vacancy/35080460	Агентство Минск-Новости
 2019-12-27	https://jobs.tut.by/vacancy/34884119	Вайзор Геймз
 2019-12-24	https://jobs.tut.by/vacancy/35105816	Лига Игры
 2019-12-27	http://gsz.gov.by/ru/vacancy/1048031/	КУП "Специализированный комбинат коммунально-бытового обслуживания"
@@ -734,8 +734,8 @@
 2019-12-16	https://jobs.tut.by/vacancy/34983746	Нетекс Консалтинг
 2019-12-19	https://jobs.tut.by/vacancy/35026471	ММПЗ-групп
 2019-12-24	https://joblab.by/vac174115.html	Евро-офис
-2019-12-17	https://jobs.tut.by/vacancy/35030978	Eightydays.me \ ООО Туринг Апп
 2019-12-16	https://jobs.tut.by/vacancy/35019706	Аброникс
+2019-12-17	https://jobs.tut.by/vacancy/35030978	Eightydays.me \ ООО Туринг Апп
 2019-12-26	https://ludi.by/job/administrator-sajta/	Люди Бай ООО
 2019-12-16	https://jobs.tut.by/vacancy/35014265	Велнатс
 2019-12-28	https://jobs.tut.by/vacancy/35140187	Фабрика инноваций и решений
@@ -784,6 +784,7 @@
 2019-12-23	https://jobs.tut.by/vacancy/35090906	Платина-груп
 2019-12-17	https://jobs.tut.by/vacancy/35033197	LeverX International
 2019-12-18	https://jobs.tut.by/vacancy/35039734	Леор Пластик
+2019-12-28	https://jobs.tut.by/vacancy/35140491	АйТиЭф Групп
 2019-12-23	https://jobs.tut.by/vacancy/35037558	Чтуп Олфонет-Сервис
 2019-12-24	https://jobs.tut.by/vacancy/34258295	МайКейс
 2019-12-27	http://gsz.gov.by/ru/vacancy/1048209/	ГУО "Средняя школа №35 имени Н.И.Волкова г.Гродно"
@@ -944,7 +945,6 @@
 2019-12-19	https://jobs.dev.by/vacancies/14657	iCode
 2019-12-24	https://jobs.tut.by/vacancy/34432862	Плэйтика Бел
 2019-12-26	https://jobs.tut.by/vacancy/35104105	Государственная инспекция по испытанию и охране сортов растений, ГУ
-2019-12-16	https://jobs.tut.by/vacancy/35012872	НамвиСофт
 2019-12-20	https://jobs.tut.by/vacancy/35070918	Веб Формат
 2019-12-27	https://joblab.by/vac259848.html	ГУО "Белорусскоязычная гимназия №2 г.Борисова"
 2019-12-17	https://jobs.tut.by/vacancy/35025713	Коммунарка
