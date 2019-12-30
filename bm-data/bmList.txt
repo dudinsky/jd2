@@ -3,8 +3,8 @@
 2019-12-17	https://jobs.tut.by/vacancy/35030267	Парфианович Е. А.
 2019-12-21	https://jobs.tut.by/vacancy/35081610	FORTE Group
 2019-12-23	https://jobs.tut.by/vacancy/35030026	Минские телевизионные информационные сети
-2019-12-18	https://jobs.tut.by/vacancy/34771129	Проект Дилбай
 2019-12-27	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/130233/	БелХард
+2019-12-30	https://jobs.tut.by/vacancy/34771129	Проект Дилбай
 2019-12-19	https://jobs.tut.by/vacancy/35011984	ПромПродИмпекс
 2019-12-28	https://jobs.tut.by/vacancy/35142096	Itransition
 2019-12-28	https://jobs.tut.by/vacancy/35142097	Itransition
@@ -44,7 +44,6 @@
 2019-12-30	https://jobs.tut.by/vacancy/35146470	Денисов Станислав
 2019-12-27	https://jobs.dev.by/vacancies/13639	Viber
 2019-12-30	https://riv.by/minsk/svyaz-it-internet/vakansiya-59498.html	Белорусский протезно-ортопедический восстановительный центр
-2019-12-16	https://jobs.tut.by/vacancy/35019466	Офис-тех плюс
 2019-12-17	https://jobs.tut.by/vacancy/35031588	Берсерк Групп
 2019-12-17	https://jobs.tut.by/vacancy/35029268	Смарт решения
 2019-12-19	https://jobs.tut.by/vacancy/35064078	Andersen
@@ -55,7 +54,6 @@
 2019-12-23	https://jobs.tut.by/vacancy/34533845	Бануба Девелопмент
 2019-12-20	https://jobs.tut.by/vacancy/33881579	Струнные технологии
 2019-12-18	https://jobs.tut.by/vacancy/35053593	ГеоКомКонсалтинг
-2019-12-17	http://gsz.gov.by/ru/vacancy/1026210/	Отдел идеологической работы, культуры по делам молодежи
 2019-12-24	http://gsz.gov.by/ru/vacancy/1046505/	Гимназия № 36 г. Минска
 2019-12-20	https://joblab.by/vac204666.html	АгроЛига
 2019-12-24	http://gsz.gov.by/ru/vacancy/1047040/	Филиал «Инженерный центр» РУП «Гомельэнерго»
@@ -70,7 +68,6 @@
 2019-12-22	https://jobs.tut.by/vacancy/34991635	АйМаркет Трейд
 2019-12-27	https://jobs.tut.by/vacancy/34912404	Идея Хост
 2019-12-20	https://joblab.by/vac204667.html	АгроЛига
-2019-12-16	https://jobs.tut.by/vacancy/35016158	Лефро / kit.by
 2019-12-26	https://jobs.tut.by/vacancy/35129090	СтаркГеймз
 2019-12-26	https://jobs.tut.by/vacancy/35129096	Авентус ИТ
 2019-12-24	https://praca.by/vacancy/329085/	Частное предприятие "АпострофСофт"
@@ -123,7 +120,6 @@
 2019-12-19	https://jobs.tut.by/vacancy/35066066	Белка Геймз
 2019-12-19	https://jobs.tut.by/vacancy/35061855	Gismart
 2019-12-23	https://jobs.tut.by/vacancy/35086915	Белфакта Медиа
-2019-12-24	http://gsz.gov.by/ru/vacancy/978111/	ГУО "Средняя школа №3 г. Скиделя"
 2019-12-20	https://jobs.tut.by/vacancy/35078286	Администрива
 2019-12-17	https://jobs.tut.by/vacancy/35029209	Oxagile
 2019-12-27	https://jobs.tut.by/vacancy/35137914	Белаудитальянс
@@ -174,6 +170,7 @@
 2019-12-18	https://jobs.tut.by/vacancy/35053503	СинемаЛаб
 2019-12-25	https://jobs.tut.by/vacancy/35113978	Технический Дозор
 2019-12-27	https://jobs.tut.by/vacancy/35132892	Syberry CIS
+2019-12-30	https://jobs.tut.by/vacancy/35152025	БиДжи Софт
 2019-12-24	https://jobs.tut.by/vacancy/35112409	Левшунов П.Ю.
 2019-12-26	https://jobs.tut.by/vacancy/35129486	Банк Дабрабыт
 2019-12-17	https://jobs.dev.by/vacancies/18460	Odysseus Data Services Inc.
@@ -182,7 +179,6 @@
 2019-12-19	https://jobs.dev.by/vacancies/17123	EVOKE Systems
 2019-12-20	https://jobs.tut.by/vacancy/35039437	Andersen
 2019-12-23	https://jobs.dev.by/vacancies/17365	Alconost Inc.
-2019-12-16	https://jobs.dev.by/vacancies/18696	Itransition
 2019-12-23	https://jobs.tut.by/vacancy/35015229	АуриусСтудио
 2019-12-23	https://jobs.tut.by/vacancy/35014137	Струнные технологии
 2019-12-19	https://joblab.by/vac216611.html	ООО "ДжоВит"
@@ -201,6 +197,7 @@
 2019-12-19	https://jobs.tut.by/vacancy/33636729	Lappa
 2019-12-20	https://jobs.tut.by/vacancy/34903313	Шори Геймс
 2019-12-20	https://jobs.tut.by/vacancy/35074502	iTechArt Group
+2019-12-30	https://riv.by/pinsk/svyaz-it-internet/vakansiya-54642.html	Креативная студия АникА
 2019-12-18	https://jobs.tut.by/vacancy/35052874	Джейсон
 2019-12-26	http://gsz.gov.by/ru/vacancy/1047632/	Белоруснефть-Особино
 2019-12-27	https://jobs.tut.by/vacancy/35001086	Нпкф Синтомс
@@ -215,7 +212,7 @@
 2019-12-24	https://jobs.dev.by/vacancies/17107	Timvero
 2019-12-27	https://jobs.dev.by/vacancies/18439	EIS Group
 2019-12-27	https://jobs.dev.by/vacancies/18438	Timvero
-2019-12-16	https://jobs.tut.by/vacancy/35018751	ФоксТри
+2019-12-30	http://gsz.gov.by/ru/vacancy/1048419/	ООО "АйтиГарант"
 2019-12-23	https://jobs.tut.by/vacancy/35094114	Хайэнд Системс
 2019-12-27	https://jobs.tut.by/vacancy/35133767	Орион Софт
 2019-12-17	https://jobs.tut.by/vacancy/35029627	Емельянчик В. С.
@@ -259,15 +256,15 @@
 2019-12-24	https://jobs.tut.by/vacancy/34623900	Точные решения
 2019-12-26	https://jobs.tut.by/vacancy/35129107	BP Mobile
 2019-12-29	https://jobs.tut.by/vacancy/34808164	Датастрим ДЕП
-2019-12-16	http://soligorsk.city/rabota/vacancy/2864/	ИП Козловский АМ
 2019-12-25	https://jobs.tut.by/vacancy/34998648	Спол-Брест плюс, ЧПУП
 2019-12-28	https://jobs.tut.by/vacancy/35143645	HiQo Solutions
-2019-12-16	https://jobs.tut.by/vacancy/35018926	Фармлэнд
+2019-12-30	https://jobs.dev.by/vacancies/18752	Flatlogic
 2019-12-19	https://jobs.tut.by/vacancy/35064989	FORTE Group
 2019-12-17	https://jobs.tut.by/vacancy/34939865	Oxagile
 2019-12-26	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/140186/	Wowmaking
 2019-12-20	https://jobs.tut.by/vacancy/35073464	Астомстрой
 2019-12-27	https://jobs.tut.by/vacancy/35131674	Евдосеева А.И.
+2019-12-30	https://jobs.tut.by/vacancy/35151024	ISsoft Solutions
 2019-12-20	https://jobs.tut.by/vacancy/35078912	Andersen
 2019-12-23	https://riv.by/minsk/svyaz-it-internet/vakansiya-64935.html	Ваумэйкинг
 2019-12-22	https://jobs.tut.by/vacancy/35084346	Дейнека А.Л
@@ -364,11 +361,10 @@
 2019-12-18	https://jobs.tut.by/vacancy/34905452	Альфалидер
 2019-12-24	https://jobs.dev.by/vacancies/18729	Scand
 2019-12-24	https://jobs.dev.by/vacancies/18728	HiQo Solutions
-2019-12-17	https://jobs.tut.by/vacancy/35027606	Wargaming.net
 2019-12-20	https://jobs.tut.by/vacancy/35074595	Руп Белнипиэнергопром
+2019-12-30	https://jobs.tut.by/vacancy/35027606	Wargaming.net
 2019-12-17	https://jobs.tut.by/vacancy/35033041	LeverX International
 2019-12-23	https://jobs.tut.by/vacancy/34815552	ТайрПро
-2019-12-16	https://jobs.tut.by/vacancy/35022362	Эксадел
 2019-12-18	https://jobs.tut.by/vacancy/35045243	Зорачка Софт
 2019-12-20	https://jobs.tut.by/vacancy/34303013	Частное предприятие AйФьючер / iFuture
 2019-12-18	https://gderabota.by/vac/1279	Melsoft Games
@@ -381,12 +377,12 @@
 2019-12-18	https://jobs.tut.by/vacancy/35051923	Фингерз Медиа
 2019-12-26	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/140181/	Wowmaking
 2019-12-26	https://jobs.tut.by/vacancy/35127789	Испаер Системс ЛТД
-2019-12-16	https://jobs.tut.by/vacancy/35013885	Создатели мечты
 2019-12-24	https://jobs.tut.by/vacancy/34801153	Точные решения
 2019-12-24	https://jobs.tut.by/vacancy/34966627	Melsoft Games
 2019-12-19	https://jobs.tut.by/vacancy/35063476	Информационные порталы и сервисы
 2019-12-19	https://jobs.tut.by/vacancy/35066744	Изибрэйн
 2019-12-27	https://rdw.by/vakansii/veb-programmist/25285490	АпострофСофт
+2019-12-30	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/71713/	БелХард
 2019-12-23	https://jobs.tut.by/vacancy/35097243	Масштабные решения
 2019-12-19	https://gderabota.by/vac/1280	Melsoft Games
 2019-12-20	https://jobs.tut.by/vacancy/35024307	Янтарь
@@ -428,7 +424,6 @@
 2019-12-23	https://jobs.tut.by/vacancy/34814673	Минсккоммунтеплосеть
 2019-12-24	https://jobs.tut.by/vacancy/34850576	ЮНЛ Солюшнс
 2019-12-24	https://jobs.tut.by/vacancy/35099678	Melsoft Games
-2019-12-17	http://gsz.gov.by/ru/vacancy/1006894/	"Бешенковичский Коммунальник"
 2019-12-20	https://jobs.tut.by/vacancy/35079604	Сакцесс
 2019-12-23	https://jobs.tut.by/vacancy/35095071	GeliosSoft
 2019-12-24	https://jobs.tut.by/vacancy/35106815	Scand
@@ -490,12 +485,13 @@
 2019-12-30	https://praca.by/vacancy/329209/	ИП Драницкий Евгений Георгиевич
 2019-12-19	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/administrator-6/140052/	Искусство созидания
 2019-12-28	https://jobs.tut.by/vacancy/35145187	Профи-Агропарк Групп
-2019-12-16	https://jobs.tut.by/vacancy/35020368	1pt / Уан Поинт
 2019-12-20	https://jobs.tut.by/vacancy/35077450	Emerline
 2019-12-23	https://careers.epam.by/careers/job-listings/job.49482	EPAM Systems
+2019-12-30	https://joblab.by/vac259984.html	Wowmaking
 2019-12-17	https://jobs.tut.by/vacancy/35024974	Визутех Систем
 2019-12-17	https://jobs.tut.by/vacancy/34985381	ТрайдексБелПлюс
 2019-12-19	https://jobs.dev.by/vacancies/14521	Мтс Ит
+2019-12-30	https://riv.by/minsk/svyaz-it-internet/vakansiya-56709.html	БелХард
 2019-12-17	https://jobs.tut.by/vacancy/35031262	Прикладные системы
 2019-12-23	https://jobs.tut.by/vacancy/35088109	Instinctools
 2019-12-24	https://jobs.tut.by/vacancy/35112293	Вебкомпани
@@ -550,9 +546,9 @@
 2019-12-24	https://jobs.tut.by/vacancy/35106096	НТЛаб
 2019-12-22	https://jobs.tut.by/vacancy/35080677	Аквео
 2019-12-24	https://jobs.tut.by/vacancy/34994832	Главмолснаб
+2019-12-30	https://riv.by/minsk/svyaz-it-internet/vakansiya-56711.html	БелХард
 2019-12-18	https://jobs.tut.by/vacancy/34646439	Сабаба Лэбс
 2019-12-17	https://jobs.tut.by/vacancy/35034737	Мердем
-2019-12-16	https://www.moyareklama.by/single/vacancy/208628301	ТехноАгро
 2019-12-27	https://jobs.tut.by/vacancy/34554006	iTechArt Group
 2019-12-16	https://jobs.tut.by/vacancy/35020336	Доминантафарм
 2019-12-18	https://jobs.tut.by/vacancy/35038099	Кожаков Групп
@@ -582,8 +578,8 @@
 2019-12-25	https://jobs.tut.by/vacancy/34977456	Мос Экспресс
 2019-12-24	https://jobs.tut.by/vacancy/35101226	Тимвероу
 2019-12-30	https://praca.by/vacancy/329517/	ДООРД МВД Республики Беларусь
-2019-12-16	https://jobs.tut.by/vacancy/35003192	Эксадел
 2019-12-23	http://gsz.gov.by/ru/vacancy/1018790/	ГУЗ "Гродненская областная клиническая больница медицинской реабилитации"
+2019-12-30	https://riv.by/minsk/smi-foto-video/vakansiya-56788.html	БелХард
 2019-12-23	https://jobs.tut.by/vacancy/35092667	Прогрессив маркетинг
 2019-12-17	http://gsz.gov.by/ru/vacancy/1043224/	БГУФК
 2019-12-18	https://jobs.tut.by/vacancy/35050184	Алотек Бел
@@ -607,18 +603,18 @@
 2019-12-17	https://jobs.tut.by/vacancy/35031410	АйТи Перфоманс
 2019-12-23	https://jobs.tut.by/vacancy/35007104	Галерея вкуса
 2019-12-27	https://jobs.tut.by/vacancy/35136993	Райкири Клауд
-2019-12-16	https://jobs.tut.by/vacancy/35007107	Компания Кронекс
+2019-12-30	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/140358/	Wowmaking
 2019-12-19	https://praca.by/vacancy/323133/	ООО "Тэксод Технолоджиз"
 2019-12-23	https://praca.by/vacancy/328951/	Ооо "Праца Бай"
 2019-12-17	https://jobs.tut.by/vacancy/35029589	Andersen
-2019-12-19	https://jobs.tut.by/vacancy/35065080	Код Инспирэйшн Про
 2019-12-18	https://jobs.tut.by/vacancy/35053434	Строминвест
+2019-12-19	https://jobs.tut.by/vacancy/35065080	Код Инспирэйшн Про
 2019-12-18	https://jobs.tut.by/vacancy/35049173	ГеоКомКонсалтинг
 2019-12-20	https://jobs.tut.by/vacancy/34932126	Агентство Коллекция Открытий
 2019-12-26	https://jobs.tut.by/vacancy/35131073	Корнейчук А.А.
-2019-12-16	https://joblab.by/vac234200.html	ЧП "Спорт-идея"
 2019-12-30	https://jobs.tut.by/vacancy/35122365	Лингвистический софт
 2019-12-28	https://jobs.tut.by/vacancy/35145236	СофтКлуб
+2019-12-30	https://jobs.tut.by/vacancy/35151904	Вайзор Геймз
 2019-12-28	https://jobs.tut.by/vacancy/35144146	Аффайз
 2019-12-20	http://gsz.gov.by/ru/vacancy/1045427/	Гомельский химический завод
 2019-12-18	http://gsz.gov.by/ru/vacancy/1043686/	Республиканский центр экологии и краеведения
@@ -631,6 +627,7 @@
 2019-12-20	https://jobs.tut.by/vacancy/35071771	ПапилиоПродакшн
 2019-12-18	https://jobs.tut.by/vacancy/35051006	Dom.by
 2019-12-30	https://jobs.tut.by/vacancy/35153272	МИНСК КРИСТАЛЛ - управляющая компания холдинга МИНСК КРИСТАЛЛ ГРУПП
+2019-12-30	https://jobs.tut.by/vacancy/35155699	Серволюкс
 2019-12-23	https://riv.by/minsk/svyaz-it-internet/vakansiya-64961.html	Ваумэйкинг
 2019-12-20	https://jobs.tut.by/vacancy/35080002	Admitad
 2019-12-22	https://jobs.tut.by/vacancy/35003161	КлаудКолл БиУай / CloudCall.BY
@@ -656,7 +653,6 @@
 2019-12-27	https://jobs.tut.by/vacancy/35142145	Itransition
 2019-12-27	https://jobs.tut.by/vacancy/35142146	Itransition
 2019-12-27	https://jobs.tut.by/vacancy/35142147	Itransition
-2019-12-16	https://jobs.tut.by/vacancy/35014285	ТелеСтрим, ЧП
 2019-12-22	https://jobs.tut.by/vacancy/35083759	КплюсАВТО
 2019-12-19	https://jobs.tut.by/vacancy/35062835	А-100
 2019-12-24	https://jobs.tut.by/vacancy/35111862	АйКенВеб
@@ -667,6 +663,7 @@
 2019-12-24	https://jobs.tut.by/vacancy/35109776	iTechArt Group
 2019-12-27	https://jobs.tut.by/vacancy/35135865	Системные решения
 2019-12-27	https://jobs.tut.by/vacancy/35134775	ТравоЛаб
+2019-12-30	https://riv.by/minsk/svyaz-it-internet/vakansiya-58474.html	БелХард
 2019-12-24	https://jobs.tut.by/vacancy/35074827	Арлепта
 2019-12-21	https://jobs.tut.by/vacancy/35081594	Корал Тим
 2019-12-27	https://jobs.tut.by/vacancy/35083780	Акор Директ
@@ -686,6 +683,7 @@
 2019-12-19	https://jobs.dev.by/vacancies/17038	BP Mobile
 2019-12-24	https://jobs.tut.by/vacancy/35017338	Кверти Тим
 2019-12-24	https://jobs.tut.by/vacancy/35112930	Itransition
+2019-12-30	https://riv.by/minsk/svyaz-it-internet/vakansiya-57537.html	БелХард
 2019-12-26	https://praca.by/vacancy/329384/	ИП Лукомский Денис Викторович
 2019-12-27	https://joblab.by/vac139908.html	Мобайл Сервис
 2019-12-27	https://jobs.tut.by/vacancy/35132531	Орион Софт
@@ -697,7 +695,6 @@
 2019-12-20	http://gsz.gov.by/ru/vacancy/1045117/	Нафтан
 2019-12-24	https://jobs.tut.by/vacancy/35108273	Плэйтика Бел
 2019-12-23	https://jobs.tut.by/vacancy/35092275	Плэйтика Бел
-2019-12-16	https://jobs.tut.by/vacancy/35020704	Бизнес Решения
 2019-12-23	https://jobs.tut.by/vacancy/35096873	Wargaming.net
 2019-12-17	https://jobs.tut.by/vacancy/34969494	Арникатрейд
 2019-12-24	https://jobs.tut.by/vacancy/34824915	РедСейл
@@ -741,6 +738,7 @@
 2019-12-28	https://jobs.tut.by/vacancy/35140187	Фабрика инноваций и решений
 2019-12-26	https://jobs.tut.by/vacancy/35094225	FORTE Group
 2019-12-22	https://jobs.tut.by/vacancy/34891958	Пневмотехцентр
+2019-12-30	https://jobs.tut.by/vacancy/34593177	Velcom Велком
 2019-12-18	https://vitebsk.biz/rabota/vacancy/35249/	Витконпродукт
 2019-12-24	https://jobs.tut.by/vacancy/35096886	Точные решения
 2019-12-20	https://jobs.tut.by/vacancy/35071135	Аристек Системс
@@ -754,6 +752,7 @@
 2019-12-17	https://jobs.tut.by/vacancy/35036489	РитейлАктив
 2019-12-18	https://jobs.tut.by/vacancy/34365570	Арзамасцев Д.В.
 2019-12-24	https://jobs.tut.by/vacancy/34573532	Avanta / Сампад
+2019-12-30	https://jobs.tut.by/vacancy/35151378	Сингуларт Системс / Singulart
 2019-12-17	https://www.moyareklama.by/single/vacancy/209936780	ООО "БиПиО Сервис"
 2019-12-18	https://jobs.tut.by/vacancy/35050303	Энэка
 2019-12-18	https://jobs.tut.by/vacancy/35051877	Юниверсэлл
@@ -794,6 +793,7 @@
 2019-12-26	https://jobs.tut.by/vacancy/35130465	БаттерБейс
 2019-12-23	https://jobs.tut.by/vacancy/35093173	Зефир Девелопмент / Zephyrmobile
 2019-12-23	https://jobs.tut.by/vacancy/35097537	Инватекс Софтвер
+2019-12-30	https://jobs.tut.by/vacancy/35151387	Сингуларт Системс / Singulart
 2019-12-30	https://ludi.by/job/seo-specialist/	ВебСфера ООО
 2019-12-17	https://jobs.tut.by/vacancy/35025582	Миатон
 2019-12-26	https://jobs.tut.by/vacancy/35027761	СофтКорп
@@ -841,7 +841,6 @@
 2019-12-27	https://jobs.tut.by/vacancy/35133912	Andersen
 2019-12-20	https://jobs.tut.by/vacancy/35072032	БелаФлора
 2019-12-26	https://jobs.tut.by/vacancy/35130644	Е-Вижн
-2019-12-16	https://jobs.tut.by/vacancy/35021176	Wargaming.net
 2019-12-23	https://jobs.tut.by/vacancy/34995694	Фролов О.В.
 2019-12-26	https://jobs.tut.by/vacancy/35127241	Открытый Контакт
 2019-12-26	https://jobs.tut.by/vacancy/35130652	Profitero
@@ -862,7 +861,6 @@
 2019-12-18	https://jobs.tut.by/vacancy/35049734	Инновационная компания Promwad
 2019-12-19	https://riv.by/minsk/svyaz-it-internet/vakansiya-60710.html	Рцурчс Мчс Рб
 2019-12-17	https://jobs.dev.by/vacancies/15335	Redalpha
-2019-12-16	https://jobs.dev.by/vacancies/15573	Itransition
 2019-12-24	https://jobs.tut.by/vacancy/34767140	Интертрансавто
 2019-12-27	https://jobs.tut.by/vacancy/34966910	Oxagile
 2019-12-17	https://jobs.tut.by/vacancy/35036672	Синезис
@@ -883,9 +881,11 @@
 2019-12-19	https://jobs.tut.by/vacancy/35064209	Intetics
 2019-12-23	https://jobs.tut.by/vacancy/35089986	BP Mobile
 2019-12-17	https://jobs.tut.by/vacancy/35033378	Пиар Куб
+2019-12-30	https://riv.by/minsk/svyaz-it-internet/vakansiya-64329.html	БелХард
 2019-12-23	https://jobs.tut.by/vacancy/35098691	Аффайз
 2019-12-18	https://jobs.tut.by/vacancy/35054078	АтлантКонсалт
 2019-12-19	https://jobs.tut.by/vacancy/35057104	Вебернетик
+2019-12-30	https://riv.by/minsk/svyaz-it-internet/vakansiya-56710.html	БелХард
 2019-12-27	https://jobs.tut.by/vacancy/35137228	Эксадел
 2019-12-20	https://joblab.by/vac204660.html	АгроЛига
 2019-12-23	https://jobs.tut.by/vacancy/35098696	ЛанцСистем
@@ -896,6 +896,7 @@
 2019-12-18	https://jobs.tut.by/vacancy/35047774	Открытые Инвестиции
 2019-12-24	https://jobs.tut.by/vacancy/34998334	Волокитина Ю.В.
 2019-12-17	https://jobs.tut.by/vacancy/35024431	СофтКлуб
+2019-12-30	https://riv.by/minsk/svyaz-it-internet/vakansiya-64091.html	БелХард
 2019-12-27	https://jobs.tut.by/vacancy/34696314	БайТехСервис
 2019-12-17	https://praca.by/vacancy/326453/	Белэнергострой
 2019-12-19	https://jobs.tut.by/vacancy/35062034	SaM Solutions Самсолюшнс
@@ -921,7 +922,6 @@
 2019-12-17	https://jobs.tut.by/vacancy/35036623	Oxagile
 2019-12-17	https://jobs.tut.by/vacancy/34849231	Гранд Парк
 2019-12-27	https://jobs.tut.by/vacancy/35131708	МигСофт
-2019-12-16	https://jobs.tut.by/vacancy/34942752	Доктор Сервер
 2019-12-24	https://jobs.tut.by/vacancy/34927136	Лайтера
 2019-12-18	https://jobs.tut.by/vacancy/35044242	Пбфбелком
 2019-12-24	https://jobs.tut.by/vacancy/34973075	ЗИКО-ЗОРКА Групп
@@ -959,7 +959,6 @@
 2019-12-27	https://jobs.tut.by/vacancy/35088447	Региональная экономика
 2019-12-18	https://jobs.tut.by/vacancy/34285017	Сабаба Лэбс
 2019-12-20	https://jobs.tut.by/vacancy/35075142	Шанссервис
-2019-12-17	http://gsz.gov.by/ru/vacancy/895682/	ОАО "Сморгонский завод оптического станкостроения"
 2019-12-18	https://jobs.tut.by/vacancy/35053177	21vek.by
 2019-12-20	http://gsz.gov.by/ru/vacancy/1044833/	ГУО «Средняя школа № 8 г. Кричева»
 2019-12-20	https://jobs.tut.by/vacancy/35079757	Gismart
@@ -973,6 +972,7 @@
 2019-12-17	https://jobs.tut.by/vacancy/34560846	СолбегСофт
 2019-12-23	https://jobs.tut.by/vacancy/35092739	Instinctools
 2019-12-19	https://jobs.tut.by/vacancy/35059941	Аркпоинт
+2019-12-30	https://riv.by/pinsk/svyaz-it-internet/vakansiya-54643.html	Креативная студия АникА
 2019-12-19	https://jobs.dev.by/vacancies/17901	MBicycle
 2019-12-17	https://jobs.tut.by/vacancy/35024853	Ай Ди Эй Технолоджис
 2019-12-16	https://jobs.tut.by/vacancy/35021103	i-Store Apple Premium Reseller
