@@ -36,8 +36,8 @@
 2019-12-31	https://jobs.tut.by/vacancy/34830671	Медиа Куб
 2019-12-27	https://jobs.tut.by/vacancy/35140938	Wargaming.net
 2020-01-02	https://jobs.tut.by/vacancy/35160546	BelVG
-2019-12-27	https://jobs.tut.by/vacancy/34863575	ТравоЛаб
 2019-12-27	https://jobs.tut.by/vacancy/35082727	Микс Маркт Сервис
+2019-12-27	https://jobs.tut.by/vacancy/34863575	ТравоЛаб
 2020-01-02	https://jobs.tut.by/vacancy/35160543	АлексПлей
 2020-01-02	https://jobs.tut.by/vacancy/35160784	BelVG
 2019-12-23	https://praca.by/vacancy/326414/	ООО "Тэксод Технолоджиз"
@@ -469,8 +469,8 @@
 2019-12-24	https://jobs.tut.by/vacancy/35105783	HiQo Solutions
 2019-12-18	https://jobs.tut.by/vacancy/35048701	Табунов А.А.
 2019-12-24	https://jobs.tut.by/vacancy/34370220	Банк ВТБ Беларусь
-2019-12-31	https://jobs.tut.by/vacancy/35157145	Andersen
 2019-12-31	https://jobs.tut.by/vacancy/35157387	Романчук Е С.
+2019-12-31	https://jobs.tut.by/vacancy/35157145	Andersen
 2019-12-24	https://jobs.tut.by/vacancy/35045676	Шацукевич А.В.
 2020-01-02	https://jobs.tut.by/vacancy/35160552	BelVG
 2019-12-24	http://gsz.gov.by/ru/vacancy/1047037/	Филиал «Инженерный центр» РУП «Гомельэнерго»
@@ -813,7 +813,6 @@
 2019-12-24	https://jobs.tut.by/vacancy/35109801	Ай-Тег
 2019-12-19	https://jobs.dev.by/vacancies/18644	Start Matter
 2019-12-19	https://jobs.dev.by/vacancies/18643	Start Matter
-2019-12-29	https://jobs.tut.by/vacancy/34856388	Check Point Software Technologies Ltd
 2019-12-19	https://jobs.dev.by/vacancies/18645	Start Matter
 2019-12-18	https://praca.by/vacancy/327148/	Wargaming.net
 2019-12-19	https://jobs.tut.by/vacancy/35062215	Ермошин Р. Г.
@@ -966,6 +965,7 @@
 2019-12-26	https://jobs.tut.by/vacancy/35125221	Andersen
 2019-12-24	http://gsz.gov.by/ru/vacancy/1047022/	Учреждение образования "Гомельское государственное училище олимпийского резерва"
 2019-12-19	https://www.moyareklama.by/single/vacancy/6193415	ОДО "Альфа-Гомель"
+2020-01-02	https://jobs.tut.by/vacancy/35161314	Трачум А.А
 2019-12-23	https://jobs.tut.by/vacancy/35087147	Атлант
 2019-12-28	https://jobs.tut.by/vacancy/35140856	Айтибо
 2019-12-24	https://jobs.tut.by/vacancy/35105898	Оранж Процесс
