@@ -144,6 +144,7 @@
 2019-12-24	https://jobs.tut.by/vacancy/35016340	ПиплВебКонсалт
 2019-12-30	https://jobs.tut.by/vacancy/35007639	Плэйтика Бел
 2019-12-27	https://jobs.tut.by/vacancy/35134888	Viber
+2020-01-02	https://jobs.tut.by/vacancy/35160943	Кариид
 2019-12-24	https://jobs.tut.by/vacancy/35110644	СофтЭфИкс
 2019-12-27	https://jobs.tut.by/vacancy/35134896	Viber
 2019-12-20	https://jobs.tut.by/vacancy/35070344	Нил Эмс Бгуир
@@ -493,7 +494,6 @@
 2019-12-27	https://jobs.tut.by/vacancy/34995178	Стсо
 2019-12-29	https://jobs.tut.by/vacancy/34669064	Фрионофф Логистик
 2019-12-30	https://jobs.tut.by/vacancy/35150540	Artox media
-2019-12-17	https://jobs.tut.by/vacancy/35031018	Specific-Group
 2019-12-19	https://jobs.tut.by/vacancy/35063294	WM Reply
 2019-12-23	https://jobs.tut.by/vacancy/35088113	Амдбай
 2019-12-30	https://praca.by/vacancy/329209/	ИП Драницкий Евгений Георгиевич
@@ -517,7 +517,6 @@
 2019-12-20	https://praca.by/vacancy/328845/	ООО "Фран-Техно"
 2019-12-28	https://jobs.tut.by/vacancy/35139807	Scand
 2019-12-18	https://jobs.tut.by/vacancy/35045401	BelVG
-2019-12-17	https://jobs.tut.by/vacancy/35033897	Белмона
 2019-12-19	https://jobs.tut.by/vacancy/35065499	КИАТ
 2019-12-17	https://jobs.tut.by/vacancy/35033418	Бануба Девелопмент
 2019-12-17	https://jobs.tut.by/vacancy/35034748	Сингуларт Системс / Singulart
@@ -627,8 +626,8 @@
 2020-01-01	https://jobs.tut.by/vacancy/35159623	Эксадел
 2019-12-23	https://praca.by/vacancy/328951/	Ооо "Праца Бай"
 2019-12-17	https://jobs.tut.by/vacancy/35029589	Andersen
-2019-12-19	https://jobs.tut.by/vacancy/35065080	Код Инспирэйшн Про
 2019-12-18	https://jobs.tut.by/vacancy/35053434	Строминвест
+2019-12-19	https://jobs.tut.by/vacancy/35065080	Код Инспирэйшн Про
 2019-12-18	https://jobs.tut.by/vacancy/35049173	ГеоКомКонсалтинг
 2019-12-20	https://jobs.tut.by/vacancy/34932126	Агентство Коллекция Открытий
 2019-12-26	https://jobs.tut.by/vacancy/35131073	Корнейчук А.А.
@@ -871,8 +870,8 @@
 2019-12-27	https://jobs.tut.by/vacancy/34966910	Oxagile
 2019-12-17	https://jobs.tut.by/vacancy/35036672	Синезис
 2019-12-24	https://jobs.tut.by/vacancy/34813418	Ресилио Блр
-2019-12-26	https://jobs.tut.by/vacancy/35067942	Куксанов И.В
 2019-12-26	https://jobs.dev.by/vacancies/18604	Frontbyte
+2019-12-26	https://jobs.tut.by/vacancy/35067942	Куксанов И.В
 2019-12-23	https://jobs.tut.by/vacancy/34811476	JazzTeam
 2019-12-24	https://jobs.tut.by/vacancy/35102125	Флинг / Fling Ltd.
 2019-12-31	https://jobs.tut.by/vacancy/35036408	Итач-софт
@@ -888,6 +887,7 @@
 2019-12-19	https://jobs.tut.by/vacancy/35057104	Вебернетик
 2019-12-30	https://riv.by/minsk/svyaz-it-internet/vakansiya-56710.html	БелХард
 2019-12-27	https://jobs.tut.by/vacancy/35137228	Эксадел
+2020-01-02	https://praca.by/vacancy/297782/	ИП Вербовская Ирина Николаевна
 2019-12-20	https://joblab.by/vac204660.html	АгроЛига
 2019-12-23	https://jobs.tut.by/vacancy/35098696	ЛанцСистем
 2019-12-18	https://jobs.tut.by/vacancy/35054075	Левшунов Д. В.
