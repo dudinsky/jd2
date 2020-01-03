@@ -36,8 +36,8 @@
 2019-12-31	https://jobs.tut.by/vacancy/34830671	Медиа Куб
 2019-12-27	https://jobs.tut.by/vacancy/35140938	Wargaming.net
 2020-01-02	https://jobs.tut.by/vacancy/35160546	BelVG
-2019-12-27	https://jobs.tut.by/vacancy/35082727	Микс Маркт Сервис
 2019-12-27	https://jobs.tut.by/vacancy/34863575	ТравоЛаб
+2019-12-27	https://jobs.tut.by/vacancy/35082727	Микс Маркт Сервис
 2020-01-02	https://jobs.tut.by/vacancy/35160543	АлексПлей
 2020-01-02	https://jobs.tut.by/vacancy/35160784	BelVG
 2019-12-23	https://praca.by/vacancy/326414/	ООО "Тэксод Технолоджиз"
@@ -658,7 +658,7 @@
 2019-12-30	https://jobs.tut.by/vacancy/34641383	Контрактор
 2019-12-18	https://jobs.tut.by/vacancy/35044715	Экомедсервис - Медицинский центр, СООО
 2019-12-19	https://jobs.tut.by/vacancy/35063914	Люкрай
-2019-12-23	https://jobs.tut.by/vacancy/34909167	Урбан групп
+2020-01-01	https://jobs.tut.by/vacancy/34909167	Урбан групп
 2019-12-23	https://jobs.tut.by/vacancy/35053899	Ключевые решения
 2019-12-24	https://jobs.tut.by/vacancy/35110779	Караван
 2019-12-26	https://jobs.tut.by/vacancy/35054502	Инспиратив
@@ -748,6 +748,7 @@
 2019-12-19	https://jobs.tut.by/vacancy/35026471	ММПЗ-групп
 2019-12-29	https://jobs.tut.by/vacancy/35145639	СвязьПартнер
 2019-12-24	https://joblab.by/vac174115.html	Евро-офис
+2019-12-17	https://jobs.tut.by/vacancy/35030978	Eightydays.me \ ООО Туринг Апп
 2019-12-30	https://jobs.tut.by/vacancy/35148902	Чистый берег
 2019-12-28	https://jobs.tut.by/vacancy/35141273	Инфорсив Консалт / Core5
 2019-12-28	https://jobs.tut.by/vacancy/35140187	Фабрика инноваций и решений
@@ -950,7 +951,6 @@
 2019-12-27	https://joblab.by/vac259848.html	ГУО "Белорусскоязычная гимназия №2 г.Борисова"
 2019-12-24	https://jobs.tut.by/vacancy/35090770	Смарт АйТи
 2019-12-24	https://jobs.tut.by/vacancy/35106992	Инолта
-2019-12-17	https://jobs.tut.by/vacancy/35023781	Белхол
 2019-12-19	https://jobs.tut.by/vacancy/35057537	БелИнвестБанк
 2019-12-24	https://jobs.tut.by/vacancy/35101068	CodeX Software
 2019-12-19	http://gsz.gov.by/ru/vacancy/1007249/	ГНУ "Объединенный институт энергетических и ядерных исследований - Сосны" Национальной академии наук Беларуси
