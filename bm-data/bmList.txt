@@ -36,8 +36,8 @@
 2019-12-31	https://jobs.tut.by/vacancy/34830671	Медиа Куб
 2019-12-27	https://jobs.tut.by/vacancy/35140938	Wargaming.net
 2020-01-02	https://jobs.tut.by/vacancy/35160546	BelVG
-2019-12-27	https://jobs.tut.by/vacancy/34863575	ТравоЛаб
 2019-12-27	https://jobs.tut.by/vacancy/35082727	Микс Маркт Сервис
+2019-12-27	https://jobs.tut.by/vacancy/34863575	ТравоЛаб
 2020-01-02	https://jobs.tut.by/vacancy/35160543	АлексПлей
 2020-01-02	https://jobs.tut.by/vacancy/35160784	BelVG
 2020-01-03	http://gsz.gov.by/ru/vacancy/1025581/	ГУО "Гродненский областной центр туризма и краеведения"
@@ -320,6 +320,7 @@
 2020-01-03	https://jobs.dev.by/vacancies/18764	Social Discovery Ventures
 2019-12-24	https://jobs.tut.by/vacancy/34767213	Интертрансавто
 2020-01-04	https://jobs.dev.by/vacancies/18767	Orion Soft
+2020-01-04	https://jobs.tut.by/vacancy/35167842	Gismart
 2020-01-04	https://jobs.dev.by/vacancies/18766	Системные технологии
 2020-01-04	https://jobs.dev.by/vacancies/18769	НьюАпекс
 2019-12-19	https://jobs.tut.by/vacancy/35061247	Аеа Системс
@@ -762,7 +763,6 @@
 2020-01-04	https://jobs.tut.by/vacancy/35166553	Компьютеры и периферия
 2019-12-26	https://jobs.tut.by/vacancy/35094225	FORTE Group
 2020-01-04	https://jobs.tut.by/vacancy/34984602	Velcom Велком
-2019-12-22	https://jobs.tut.by/vacancy/34891958	Пневмотехцентр
 2019-12-30	https://jobs.tut.by/vacancy/34593177	Velcom Велком
 2019-12-24	https://jobs.tut.by/vacancy/35096886	Точные решения
 2019-12-20	https://jobs.tut.by/vacancy/35071135	Аристек Системс
