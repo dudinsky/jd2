@@ -117,7 +117,6 @@
 2019-12-31	https://jobs.tut.by/vacancy/35124663	Еком Бизнес
 2019-12-19	https://praca.by/vacancy/307125/	Частное предприятие "Мобеклс"
 2020-01-03	https://jobs.tut.by/vacancy/35161823	Белросимпортстрой
-2019-12-19	https://jobs.tut.by/vacancy/35018107	Альфа Аналитика
 2019-12-30	https://jobs.tut.by/vacancy/35149950	BP Mobile
 2019-12-26	https://jobs.tut.by/vacancy/35052461	Эрком Групп
 2019-12-27	https://jobs.tut.by/vacancy/35144262	Евразийская процессинговая компания
@@ -483,8 +482,8 @@
 2020-01-02	https://jobs.tut.by/vacancy/35160557	BelVG
 2019-12-24	https://jobs.tut.by/vacancy/35105783	HiQo Solutions
 2019-12-24	https://jobs.tut.by/vacancy/34370220	Банк ВТБ Беларусь
-2019-12-31	https://jobs.tut.by/vacancy/35157387	Романчук Е С.
 2019-12-31	https://jobs.tut.by/vacancy/35157145	Andersen
+2019-12-31	https://jobs.tut.by/vacancy/35157387	Романчук Е С.
 2019-12-24	https://jobs.tut.by/vacancy/35045676	Шацукевич А.В.
 2020-01-02	https://jobs.tut.by/vacancy/35160552	BelVG
 2019-12-24	http://gsz.gov.by/ru/vacancy/1047037/	Филиал «Инженерный центр» РУП «Гомельэнерго»
@@ -615,6 +614,7 @@
 2019-12-31	http://gsz.gov.by/ru/vacancy/1049471/	Центр информационных систем в животноводстве
 2019-12-18	https://jobs.tut.by/vacancy/35053444	СинемаЛаб
 2019-12-27	https://jobs.tut.by/vacancy/35134573	Эксадел
+2020-01-03	http://gsz.gov.by/ru/vacancy/992450/	Могилевское областное управление финансово-хозяйственного и методического обеспечения учреждений образования
 2019-12-20	https://jobs.tut.by/vacancy/35042795	Евлаер Групп
 2019-12-31	https://joblab.by/vac259830.html	ООО "Нертус-Консалтинг"
 2020-01-03	http://gsz.gov.by/ru/vacancy/1040592/	"Брестский государственный профессиональный лицей строителей"
@@ -871,8 +871,8 @@
 2019-12-24	https://jobs.tut.by/vacancy/34767140	Интертрансавто
 2019-12-27	https://jobs.tut.by/vacancy/34966910	Oxagile
 2019-12-24	https://jobs.tut.by/vacancy/34813418	Ресилио Блр
-2019-12-26	https://jobs.dev.by/vacancies/18604	Frontbyte
 2019-12-26	https://jobs.tut.by/vacancy/35067942	Куксанов И.В
+2019-12-26	https://jobs.dev.by/vacancies/18604	Frontbyte
 2020-01-03	https://jobs.tut.by/vacancy/35162233	Instinctools
 2019-12-23	https://jobs.tut.by/vacancy/34811476	JazzTeam
 2019-12-24	https://jobs.tut.by/vacancy/35102125	Флинг / Fling Ltd.
