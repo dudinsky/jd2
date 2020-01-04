@@ -39,6 +39,7 @@
 2019-12-27	https://jobs.tut.by/vacancy/35082727	Микс Маркт Сервис
 2019-12-27	https://jobs.tut.by/vacancy/34863575	ТравоЛаб
 2020-01-02	https://jobs.tut.by/vacancy/35160543	АлексПлей
+2020-01-04	https://praca.by/vacancy/330161/	ИП Старолатко Татьяна Юрьевна
 2020-01-02	https://jobs.tut.by/vacancy/35160784	BelVG
 2020-01-03	http://gsz.gov.by/ru/vacancy/1025581/	ГУО "Гродненский областной центр туризма и краеведения"
 2019-12-30	http://gsz.gov.by/ru/vacancy/967482/	ОАО "Веста-Борисов"
@@ -319,8 +320,8 @@
 2019-12-22	https://jobs.tut.by/vacancy/35084346	Дейнека А.Л
 2020-01-03	https://jobs.dev.by/vacancies/18764	Social Discovery Ventures
 2019-12-24	https://jobs.tut.by/vacancy/34767213	Интертрансавто
-2020-01-04	https://jobs.dev.by/vacancies/18767	Orion Soft
 2020-01-04	https://jobs.tut.by/vacancy/35167842	Gismart
+2020-01-04	https://jobs.dev.by/vacancies/18767	Orion Soft
 2020-01-04	https://jobs.dev.by/vacancies/18766	Системные технологии
 2020-01-04	https://jobs.dev.by/vacancies/18769	НьюАпекс
 2019-12-19	https://jobs.tut.by/vacancy/35061247	Аеа Системс
@@ -376,7 +377,6 @@
 2019-12-26	https://jobs.tut.by/vacancy/34790261	Элилинк Консалтинг
 2020-01-03	https://jobs.tut.by/vacancy/35163692	21vek.by
 2020-01-03	https://jobs.tut.by/vacancy/35162361	НьюАпекс
-2019-12-19	https://jobs.dev.by/vacancies/18711	Intetics
 2019-12-20	https://jobs.dev.by/vacancies/18713	Appolo
 2019-12-23	https://jobs.dev.by/vacancies/18716	Netcracker
 2019-12-23	https://jobs.dev.by/vacancies/18717	Системные технологии
@@ -440,7 +440,6 @@
 2019-12-24	https://jobs.tut.by/vacancy/35112030	РедЛайнКомпани
 2020-01-03	https://jobs.tut.by/vacancy/35150311	ИТ-МедиаКонсалтинг
 2020-01-04	https://joblab.by/vac260291.html	УП "Торговый дом "Белфут"
-2019-12-19	https://jobs.dev.by/vacancies/18708	Системные технологии
 2019-12-20	https://jobs.tut.by/vacancy/35073058	БайТехСервис
 2019-12-26	https://jobs.tut.by/vacancy/35129742	FORTE Group
 2019-12-23	https://jobs.tut.by/vacancy/35096173	АйСиЭс Бел
@@ -470,7 +469,6 @@
 2019-12-26	https://riv.by/brest/svyaz-it-internet/vakansiya-63810.html	Белтаможсервис
 2019-12-27	https://jobs.tut.by/vacancy/35137374	Гомельский винодельческий завод
 2020-01-03	https://praca.by/vacancy/329866/	Нич Бгуир
-2019-12-19	https://jobs.tut.by/vacancy/35064116	Флекс Медиа
 2019-12-20	https://jobs.tut.by/vacancy/35079840	Godel Technologies Europe
 2019-12-23	https://jobs.tut.by/vacancy/35097251	Профит
 2019-12-30	https://jobs.tut.by/vacancy/35152752	Лайм-Экспресс
@@ -711,6 +709,7 @@
 2019-12-26	https://praca.by/vacancy/329384/	ИП Лукомский Денис Викторович
 2019-12-27	https://joblab.by/vac139908.html	Мобайл Сервис
 2019-12-27	https://jobs.tut.by/vacancy/35132531	Орион Софт
+2020-01-04	https://riv.by/minsk/svyaz-it-internet/vakansiya-57075.html	Белорусский протезно-ортопедический восстановительный центр
 2020-01-03	http://gsz.gov.by/ru/vacancy/891556/	СШ №5 г.Слонима
 2019-12-23	https://praca.by/vacancy/329057/	Марк Формэль
 2020-01-04	https://jobs.tut.by/vacancy/34646403	Specific-Group
@@ -881,8 +880,8 @@
 2019-12-24	https://jobs.tut.by/vacancy/34767140	Интертрансавто
 2019-12-27	https://jobs.tut.by/vacancy/34966910	Oxagile
 2019-12-24	https://jobs.tut.by/vacancy/34813418	Ресилио Блр
-2019-12-26	https://jobs.tut.by/vacancy/35067942	Куксанов И.В
 2019-12-26	https://jobs.dev.by/vacancies/18604	Frontbyte
+2019-12-26	https://jobs.tut.by/vacancy/35067942	Куксанов И.В
 2020-01-03	https://jobs.tut.by/vacancy/35162233	Instinctools
 2019-12-23	https://jobs.tut.by/vacancy/34811476	JazzTeam
 2019-12-24	https://jobs.tut.by/vacancy/35102125	Флинг / Fling Ltd.
@@ -928,6 +927,7 @@
 2020-01-04	https://riv.by/vitebsk/svyaz-it-internet/vakansiya-65178.html	Конструкторское бюро Дисплей
 2019-12-27	https://jobs.tut.by/vacancy/35131708	МигСофт
 2020-01-04	https://jobs.dev.by/vacancies/17706	Teqniksoft
+2020-01-04	https://praca.by/vacancy/330158/	ИП Абрамович Виталий Викторович
 2020-01-04	https://jobs.tut.by/vacancy/34927136	Лайтера
 2019-12-24	https://jobs.tut.by/vacancy/34973075	ЗИКО-ЗОРКА Групп
 2020-01-03	https://jobs.tut.by/vacancy/34933810	Гризли Диджитал Компани
