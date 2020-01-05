@@ -36,8 +36,8 @@
 2019-12-31	https://jobs.tut.by/vacancy/34830671	Медиа Куб
 2019-12-27	https://jobs.tut.by/vacancy/35140938	Wargaming.net
 2020-01-02	https://jobs.tut.by/vacancy/35160546	BelVG
-2019-12-27	https://jobs.tut.by/vacancy/34863575	ТравоЛаб
 2019-12-27	https://jobs.tut.by/vacancy/35082727	Микс Маркт Сервис
+2019-12-27	https://jobs.tut.by/vacancy/34863575	ТравоЛаб
 2020-01-02	https://jobs.tut.by/vacancy/35160543	АлексПлей
 2020-01-04	https://praca.by/vacancy/330161/	ИП Старолатко Татьяна Юрьевна
 2020-01-02	https://jobs.tut.by/vacancy/35160784	BelVG
@@ -651,7 +651,6 @@
 2020-01-03	https://praca.by/vacancy/328951/	Ооо "Праца Бай"
 2019-12-20	https://jobs.tut.by/vacancy/34932126	Агентство Коллекция Открытий
 2019-12-26	https://jobs.tut.by/vacancy/35131073	Корнейчук А.А.
-2020-01-05	https://jobs.tut.by/vacancy/35122365	Лингвистический софт
 2019-12-28	https://jobs.tut.by/vacancy/35145236	СофтКлуб
 2019-12-30	https://jobs.tut.by/vacancy/35151904	Вайзор Геймз
 2020-01-03	https://jobs.tut.by/vacancy/35144146	Аффайз
@@ -750,7 +749,6 @@
 2020-01-03	https://jobs.tut.by/vacancy/35157851	Асоикс
 2020-01-04	https://jobs.tut.by/vacancy/35166569	Наталихэа
 2020-01-03	http://gsz.gov.by/ru/vacancy/923503/	Сеньковщинская СШ
-2019-12-19	https://jobs.tut.by/vacancy/35068188	Шестакова Т.И.
 2019-12-22	https://jobs.tut.by/vacancy/35083342	Пинск Маркет
 2020-01-03	https://jobs.dev.by/vacancies/6884	G-Lock Software
 2020-01-03	https://jobs.tut.by/vacancy/35163297	АйТиЭф Групп
@@ -824,6 +822,7 @@
 2020-01-04	https://jobs.tut.by/vacancy/35167724	ВебБизнес
 2019-12-24	https://jobs.tut.by/vacancy/35109801	Ай-Тег
 2020-01-03	https://jobs.tut.by/vacancy/35164453	Лайм-Экспресс
+2019-12-19	https://jobs.tut.by/vacancy/35062215	Ермошин Р. Г.
 2020-01-03	http://gsz.gov.by/ru/vacancy/1050160/	УО "Бобруйский государственный технологический колледж"
 2019-12-20	https://jobs.tut.by/vacancy/34858565	Группа Компаний Стандарт Качества
 2020-01-04	https://praca.by/vacancy/258767/	ИП Свентуховская Жанна Анатольевна
@@ -921,6 +920,7 @@
 2019-12-20	https://jobs.tut.by/vacancy/33853987	Евлаер Групп
 2019-12-26	https://jobs.tut.by/vacancy/35033380	АйБиБай
 2019-12-29	https://jobs.tut.by/vacancy/35147271	Онилаб
+2019-12-19	https://jobs.tut.by/vacancy/35066643	Строймаркет Борисов
 2019-12-24	https://jobs.tut.by/vacancy/35106705	Scand
 2020-01-03	https://jobs.tut.by/vacancy/35164623	ОнлайнРепетитор
 2019-12-28	https://jobs.tut.by/vacancy/35141989	Wargaming.net
