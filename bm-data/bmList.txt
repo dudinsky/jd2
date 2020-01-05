@@ -36,8 +36,8 @@
 2019-12-31	https://jobs.tut.by/vacancy/34830671	Медиа Куб
 2019-12-27	https://jobs.tut.by/vacancy/35140938	Wargaming.net
 2020-01-02	https://jobs.tut.by/vacancy/35160546	BelVG
-2019-12-27	https://jobs.tut.by/vacancy/35082727	Микс Маркт Сервис
 2019-12-27	https://jobs.tut.by/vacancy/34863575	ТравоЛаб
+2019-12-27	https://jobs.tut.by/vacancy/35082727	Микс Маркт Сервис
 2020-01-02	https://jobs.tut.by/vacancy/35160543	АлексПлей
 2020-01-04	https://praca.by/vacancy/330161/	ИП Старолатко Татьяна Юрьевна
 2020-01-03	http://gsz.gov.by/ru/vacancy/1025581/	ГУО "Гродненский областной центр туризма и краеведения"
@@ -498,7 +498,6 @@
 2019-12-27	https://jobs.tut.by/vacancy/35136457	Консул
 2019-12-27	https://jobs.tut.by/vacancy/34554010	iTechArt Group
 2020-01-03	https://jobs.tut.by/vacancy/34942450	Косметика Плюс
-2019-12-19	https://jobs.tut.by/vacancy/35049808	Номинал Технология
 2019-12-30	https://jobs.tut.by/vacancy/35150525	ЛАЦИТ - Лаборатория цифровых технологий
 2020-01-02	https://jobs.tut.by/vacancy/35160557	BelVG
 2019-12-24	https://jobs.tut.by/vacancy/35105783	HiQo Solutions
@@ -579,6 +578,7 @@
 2020-01-04	https://jobs.tut.by/vacancy/35091563	Softeq Development
 2019-12-24	https://jobs.tut.by/vacancy/35110363	iTechArt Group
 2019-12-20	https://jobs.tut.by/vacancy/35077251	Смарт-центр логистик
+2020-01-05	http://gsz.gov.by/ru/vacancy/975580/	Конюховский ясли-сад - средняя школа
 2019-12-27	https://jobs.tut.by/vacancy/35138749	Intetics
 2019-12-24	https://jobs.tut.by/vacancy/35106096	НТЛаб
 2019-12-22	https://jobs.tut.by/vacancy/35080677	Аквео
@@ -881,8 +881,8 @@
 2019-12-24	https://jobs.tut.by/vacancy/34767140	Интертрансавто
 2019-12-27	https://jobs.tut.by/vacancy/34966910	Oxagile
 2019-12-24	https://jobs.tut.by/vacancy/34813418	Ресилио Блр
-2019-12-26	https://jobs.tut.by/vacancy/35067942	Куксанов И.В
 2019-12-26	https://jobs.dev.by/vacancies/18604	Frontbyte
+2019-12-26	https://jobs.tut.by/vacancy/35067942	Куксанов И.В
 2020-01-03	https://jobs.tut.by/vacancy/35162233	Instinctools
 2019-12-23	https://jobs.tut.by/vacancy/34811476	JazzTeam
 2019-12-24	https://jobs.tut.by/vacancy/35102125	Флинг / Fling Ltd.
