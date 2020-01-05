@@ -175,6 +175,7 @@
 2019-12-21	https://jobs.tut.by/vacancy/35083428	Промкомплекс
 2019-12-23	https://jobs.tut.by/vacancy/35096732	Seobility
 2020-01-03	https://jobs.tut.by/vacancy/35164062	Admitad
+2019-12-20	https://jobs.tut.by/vacancy/34945343	Онтрэвл Солюшенз, Частное предприятие
 2019-12-27	https://jobs.tut.by/vacancy/35133327	Andersen
 2019-12-23	https://jobs.tut.by/vacancy/35094780	CodeX Software
 2019-12-31	https://jobs.tut.by/vacancy/35156433	BelITSoft
@@ -363,7 +364,6 @@
 2019-12-31	https://jobs.tut.by/vacancy/35155806	ИксБи Софтваре
 2019-12-24	https://jobs.tut.by/vacancy/35109733	iTechArt Group
 2019-12-19	https://jobs.tut.by/vacancy/35026500	Джейсон
-2019-12-19	https://jobs.tut.by/vacancy/34526447	СофтКорп
 2019-12-28	https://jobs.tut.by/vacancy/35142516	Белагропромбанк
 2019-12-31	https://rdw.by/vakansii/seo-spetsialist/25285747	Прохоров А. В.
 2019-12-23	https://jobs.tut.by/vacancy/35086571	Витконпродукт
@@ -532,8 +532,8 @@
 2019-12-30	https://joblab.by/vac259984.html	Wowmaking
 2020-01-03	https://jobs.tut.by/vacancy/35162510	Wargaming.net
 2020-01-03	https://jobs.tut.by/vacancy/35162994	Второй национальный телеканал
-2020-01-04	https://jobs.tut.by/vacancy/35163843	Кьюликс Системс
 2020-01-03	https://jobs.tut.by/vacancy/35162511	Осташевский П.С.
+2020-01-04	https://jobs.tut.by/vacancy/35163843	Кьюликс Системс
 2020-01-03	https://jobs.tut.by/vacancy/35162996	ЛедаСофт
 2020-01-03	https://riv.by/minsk/svyaz-it-internet/vakansiya-56709.html	БелХард
 2020-01-03	https://jobs.tut.by/vacancy/35162515	Itransition
@@ -884,8 +884,8 @@
 2019-12-24	https://jobs.tut.by/vacancy/34767140	Интертрансавто
 2019-12-27	https://jobs.tut.by/vacancy/34966910	Oxagile
 2019-12-24	https://jobs.tut.by/vacancy/34813418	Ресилио Блр
-2019-12-26	https://jobs.tut.by/vacancy/35067942	Куксанов И.В
 2019-12-26	https://jobs.dev.by/vacancies/18604	Frontbyte
+2019-12-26	https://jobs.tut.by/vacancy/35067942	Куксанов И.В
 2020-01-03	https://jobs.tut.by/vacancy/35162233	Instinctools
 2019-12-23	https://jobs.tut.by/vacancy/34811476	JazzTeam
 2019-12-24	https://jobs.tut.by/vacancy/35102125	Флинг / Fling Ltd.
