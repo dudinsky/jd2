@@ -332,8 +332,8 @@
 2019-12-22	https://jobs.tut.by/vacancy/35084346	Дейнека А.Л
 2020-01-03	https://jobs.dev.by/vacancies/18764	Social Discovery Ventures
 2019-12-24	https://jobs.tut.by/vacancy/34767213	Интертрансавто
-2020-01-04	https://jobs.dev.by/vacancies/18767	Orion Soft
 2020-01-04	https://jobs.tut.by/vacancy/35167842	Gismart
+2020-01-04	https://jobs.dev.by/vacancies/18767	Orion Soft
 2020-01-04	https://jobs.dev.by/vacancies/18766	Системные технологии
 2020-01-04	https://jobs.dev.by/vacancies/18769	НьюАпекс
 2020-01-04	https://jobs.dev.by/vacancies/18768	НьюАпекс
@@ -634,8 +634,8 @@
 2020-01-02	https://praca.by/vacancy/313309/	Частное предприятие "Дело компани"
 2019-12-22	https://jobs.tut.by/vacancy/35006468	Неро Электроникс
 2019-12-24	https://www.moyareklama.by/single/vacancy/209944303	ООО "БелЕвроБАС"
-2020-01-06	https://jobs.tut.by/vacancy/35172848	iTechArt Group
 2020-01-06	https://ludi.by/job/sistemnyj-administrator/	Брестский рынок ТУП
+2020-01-06	https://jobs.tut.by/vacancy/35172848	iTechArt Group
 2020-01-04	https://jobs.tut.by/vacancy/35165283	Кравченко В.В
 2019-12-30	http://gsz.gov.by/ru/vacancy/1046648/	Конструкторское бюро Дисплей
 2019-12-29	http://gsz.gov.by/ru/vacancy/1025573/	Агрокомбинат Колос
@@ -777,6 +777,7 @@
 2019-12-20	https://jobs.tut.by/vacancy/35071135	Аристек Системс
 2019-12-24	https://jobs.tut.by/vacancy/33613547	Intetics
 2020-01-03	https://jobs.tut.by/vacancy/35163598	Доргрод
+2020-01-07	https://joblab.by/vac260658.html	Реклама
 2019-12-27	https://jobs.tut.by/vacancy/35143748	Фармасервис
 2020-01-04	https://jobs.tut.by/vacancy/35166629	Тектус Медиа
 2019-12-24	https://jobs.tut.by/vacancy/34573532	Avanta / Сампад
@@ -794,7 +795,6 @@
 2020-01-03	https://jobs.tut.by/vacancy/35163583	Интерфармакс
 2020-01-03	https://jobs.tut.by/vacancy/35164431	Profitero
 2020-01-07	https://jobs.tut.by/vacancy/35176688	Белзабор Бай
-2019-12-20	https://jobs.tut.by/vacancy/35073562	ФоксТри
 2019-12-26	https://jobs.tut.by/vacancy/35131536	Wargaming.net
 2019-12-26	https://jobs.tut.by/vacancy/35095332	GeliosSoft
 2019-12-24	https://jobs.tut.by/vacancy/35105453	Северекс Бай
