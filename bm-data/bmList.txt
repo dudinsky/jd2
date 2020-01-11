@@ -479,8 +479,8 @@
 2020-01-03	https://praca.by/vacancy/329994/	Частное предприятие "АпострофСофт"
 2020-01-08	https://jobs.tut.by/vacancy/35182592	Твистеллар
 2020-01-02	https://jobs.tut.by/vacancy/35160557	BelVG
-2019-12-31	https://jobs.tut.by/vacancy/35157387	Романчук Е С.
 2019-12-31	https://jobs.tut.by/vacancy/35157145	Andersen
+2019-12-31	https://jobs.tut.by/vacancy/35157387	Романчук Е С.
 2020-01-02	https://jobs.tut.by/vacancy/35160552	BelVG
 2020-01-04	http://gsz.gov.by/ru/vacancy/1051085/	Руп "Главный Расчетный Информационный Центр" Бжд
 2020-01-03	https://jobs.tut.by/vacancy/35162735	Аристек Системс
@@ -637,6 +637,7 @@
 2020-01-05	https://jobs.tut.by/vacancy/35122365	Лингвистический софт
 2020-01-08	https://rdw.by/vakansii/inzhener-programmist-back-end-oracle-java-qa-engineer/25286108	Белтаможсервис
 2020-01-09	https://jobs.tut.by/vacancy/34632094	Нп Ооо Тодес
+2019-12-30	https://jobs.tut.by/vacancy/35151904	Вайзор Геймз
 2020-01-03	https://jobs.tut.by/vacancy/35144146	Аффайз
 2020-01-10	https://jobs.tut.by/vacancy/35061962	Точные решения
 2020-01-08	https://jobs.tut.by/vacancy/35181500	Хоттелеком
@@ -752,7 +753,6 @@
 2020-01-04	https://jobs.tut.by/vacancy/35166553	Компьютеры и периферия
 2020-01-09	https://praca.by/vacancy/330436/	ИП Якутин Роман Юрьевич
 2020-01-08	https://jobs.tut.by/vacancy/35179856	Zaochnik.com
-2020-01-04	https://jobs.tut.by/vacancy/34984602	Velcom Велком
 2019-12-30	https://jobs.tut.by/vacancy/34593177	Velcom Велком
 2020-01-08	https://jobs.tut.by/vacancy/35096886	Точные решения
 2020-01-10	https://jobs.tut.by/vacancy/35245419	Армтек
