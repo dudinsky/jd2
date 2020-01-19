@@ -227,6 +227,7 @@
 2020-01-16	https://riv.by/pinsk/svyaz-it-internet/vakansiya-54642.html	Креативная студия АникА
 2020-01-10	https://jobs.tut.by/vacancy/35236201	Itransition
 2020-01-13	https://jobs.tut.by/vacancy/35266094	Зорачка Софт
+2020-01-11	https://jobs.dev.by/vacancies/17593	Madcoders
 2020-01-16	https://jobs.dev.by/vacancies/18683	WM Reply
 2020-01-13	https://jobs.tut.by/vacancy/34363498	Melsoft Games
 2020-01-17	https://jobs.tut.by/vacancy/35365658	БайТехСервис
@@ -286,7 +287,6 @@
 2020-01-14	https://jobs.tut.by/vacancy/35281888	ЭйВиЭс Промо
 2020-01-13	https://jobs.tut.by/vacancy/35266458	Северекс Бай
 2020-01-15	https://jobs.tut.by/vacancy/34891245	ЛедаСофт
-2020-01-10	https://jobs.tut.by/vacancy/35225948	ВЭБ Технологии
 2020-01-14	https://jobs.tut.by/vacancy/35295819	Орэнж-Рент
 2020-01-16	https://jobs.tut.by/vacancy/34808164	Датастрим ДЕП
 2020-01-16	https://jobs.tut.by/vacancy/35353907	Емельянчик В. С.
@@ -408,8 +408,8 @@
 2020-01-13	https://jobs.tut.by/vacancy/35257915	Itransition
 2020-01-12	https://jobs.tut.by/vacancy/35250055	Тесленко С.Ю.
 2020-01-14	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/71714/	БелХард
-2020-01-17	http://gsz.gov.by/ru/vacancy/1060321/	Государственное учреждение образования "Коровчинская средняя школа"
 2020-01-17	http://gsz.gov.by/ru/vacancy/1060430/	"Оршанский Инструментальный Завод" Оао
+2020-01-17	http://gsz.gov.by/ru/vacancy/1060321/	Государственное учреждение образования "Коровчинская средняя школа"
 2020-01-17	https://jobs.tut.by/vacancy/35370859	Cedon BLR
 2020-01-13	https://jobs.tut.by/vacancy/35090843	ТрайдексБелПлюс
 2020-01-13	https://jobs.tut.by/vacancy/35251382	ТравоЛаб
@@ -595,9 +595,9 @@
 2020-01-13	https://riv.by/minsk/smi-foto-video/vakansiya-56788.html	БелХард
 2020-01-15	https://jobs.tut.by/vacancy/35309815	Компания, занимающаяся разработкой программно-аппаратных продуктов.
 2020-01-16	https://jobs.tut.by/vacancy/35358822	Покуть Р.Э.
-2020-01-15	https://jobs.tut.by/vacancy/35328546	Scand
-2020-01-15	https://jobs.tut.by/vacancy/35331714	Адани
 2020-01-15	https://jobs.tut.by/vacancy/35287710	Andersen
+2020-01-15	https://jobs.tut.by/vacancy/35331714	Адани
+2020-01-15	https://jobs.tut.by/vacancy/35328546	Scand
 2020-01-17	https://jobs.tut.by/vacancy/35380769	Сотников А.В
 2020-01-17	https://jobs.tut.by/vacancy/35239672	БЭС инновэйшн
 2020-01-14	https://jobs.tut.by/vacancy/35202191	Юикс Майнд
