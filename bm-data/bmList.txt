@@ -153,8 +153,8 @@
 2020-02-13	https://jobs.tut.by/vacancy/35816165	Территория автоматизации
 2020-02-17	https://jobs.tut.by/vacancy/35878670	Реслив
 2020-02-14	https://jobs.tut.by/vacancy/35853131	Драйв Девелопмент
-2020-02-12	https://ludi.by/job/programmist-php-razrabotchik-web-programmist/	ВебСфера ООО
 2020-02-13	https://praca.by/vacancy/336818/	Частное предприятие "Делорри"
+2020-02-12	https://ludi.by/job/programmist-php-razrabotchik-web-programmist/	ВебСфера ООО
 2020-02-17	https://joblab.by/vac278565.html	ООО "Диприз"
 2020-02-10	https://jobs.tut.by/vacancy/35760018	ОМП Систем
 2020-02-12	https://jobs.tut.by/vacancy/35460413	Инэвейт Юроп
@@ -374,8 +374,8 @@
 2020-02-17	https://jobs.tut.by/vacancy/35150311	ИТ-МедиаКонсалтинг
 2020-02-12	https://jobs.tut.by/vacancy/35798562	Торговая Компания Минск Кристалл Трейд
 2020-02-14	https://jobs.tut.by/vacancy/35718097	Минский моторный завод
-2020-02-10	https://jobs.tut.by/vacancy/35759831	Атлант
 2020-02-10	https://praca.by/vacancy/316717/	БелПроектКонсалтинг
+2020-02-10	https://jobs.tut.by/vacancy/35759831	Атлант
 2020-02-14	https://jobs.tut.by/vacancy/35849311	Гафт Д.Г.
 2020-02-17	https://jobs.tut.by/vacancy/35875604	Трикотажторг
 2020-02-16	https://jobs.tut.by/vacancy/35858029	УраканСистемз
@@ -724,6 +724,7 @@
 2020-02-17	https://jobs.tut.by/vacancy/35834947	Википартс
 2020-02-10	https://praca.by/vacancy/210406/	ИП Дубовик Михаил Владимирович
 2020-02-13	https://jobs.tut.by/vacancy/35401315	ГНУ НИЭИ Минэкономики Республики Беларусь
+2020-02-11	https://jobs.tut.by/vacancy/35772411	Онилаб
 2020-02-14	https://joblab.by/vac278289.html	ООО "МегаИндекс"
 2020-02-14	https://jobs.tut.by/vacancy/35853459	Северекс Бай
 2020-02-11	https://jobs.tut.by/vacancy/35792499	Консул
@@ -903,8 +904,8 @@
 2020-02-14	https://jobs.tut.by/vacancy/35853932	ТравоЛаб
 2020-02-12	https://jobs.tut.by/vacancy/35802785	Itransition
 2020-02-13	https://jobs.tut.by/vacancy/35826510	ПСТ Лабс
-2020-02-13	https://jobs.tut.by/vacancy/35826997	Прогреем
 2020-02-13	https://jobs.tut.by/vacancy/34941425	Клуб любителей путешествий и отдыха
+2020-02-13	https://jobs.tut.by/vacancy/35826997	Прогреем
 2020-02-11	https://jobs.tut.by/vacancy/35787780	Лайт Вел Организейшн
 2020-02-17	https://jobs.tut.by/vacancy/35869050	Еком Бизнес
 2020-02-13	http://gsz.gov.by/ru/vacancy/1080050/	Белтелеком
