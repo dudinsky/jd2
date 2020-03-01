@@ -171,7 +171,6 @@
 2020-02-21	https://jobs.tut.by/vacancy/35957580	Oxagile
 2020-02-27	https://jobs.tut.by/vacancy/35977164	Webwin media/ ИП Барановский И.И.
 2020-02-21	https://jobs.dev.by/vacancies/19115	Softline
-2020-02-20	https://jobs.tut.by/vacancy/35909268	Крупная компания
 2020-02-24	https://jobs.tut.by/vacancy/35633981	Волошин Медиа / VOLOSHIN IT AGENCY
 2020-02-24	https://jobs.dev.by/vacancies/19117	AlmusMedia
 2020-02-21	https://jobs.dev.by/vacancies/19116	Amasty
@@ -289,6 +288,7 @@
 2020-02-21	https://jobs.tut.by/vacancy/35965576	Гроднооблавтотранс
 2020-02-25	https://jobs.tut.by/vacancy/35991666	Би-Лоджик
 2020-02-28	https://jobs.tut.by/vacancy/35976222	Гуд Солюшенс
+2020-02-19	https://jobs.tut.by/vacancy/35921557	Andersen
 2020-02-26	https://jobs.tut.by/vacancy/35998298	АуриусСтудио
 2020-02-26	http://gsz.gov.by/ru/vacancy/1088733/	19-я городская детская поликлиника
 2020-02-26	https://jobs.tut.by/vacancy/36004084	Руна Системс
@@ -424,6 +424,7 @@
 2020-02-27	http://gsz.gov.by/ru/vacancy/1089250/	Городская поликлиника 1 г.Гродно
 2020-02-28	http://gsz.gov.by/ru/vacancy/979053/	КУП "ЖКХ Гродненского района"
 2020-02-25	https://jobs.tut.by/vacancy/35978866	Неро Электроникс
+2020-02-20	https://praca.by/vacancy/338089/	Частное предприятие "Матекспром" (ЧП "Матекспром")
 2020-02-20	https://jobs.tut.by/vacancy/35878054	ЗмитроК
 2020-02-25	https://jobs.tut.by/vacancy/35985393	Гапонов М.О.
 2020-02-26	https://jobs.tut.by/vacancy/36019113	Wargaming.net
@@ -474,6 +475,7 @@
 2020-02-26	https://jobs.tut.by/vacancy/34691257	Ресилио Блр
 2020-02-27	https://jobs.tut.by/vacancy/35460707	Syberry CIS
 2020-02-27	https://jobs.tut.by/vacancy/36039614	Сайнс Солюшнс
+2020-02-19	https://jobs.tut.by/vacancy/35928969	Zaochnik.com
 2020-02-26	https://jobs.tut.by/vacancy/36022170	ПронтоМода / Sister`s & Botti
 2020-02-27	https://jobs.tut.by/vacancy/36041935	Создатели мечты
 2020-02-20	https://jobs.tut.by/vacancy/35936346	Artox media
@@ -615,8 +617,8 @@
 2020-02-28	https://jobs.tut.by/vacancy/36050495	Instinctools
 2020-02-21	https://jobs.dev.by/vacancies/18398	Abiatec
 2020-02-24	https://joblab.by/vac282576.html	ЧТУП "Руптела"
-2020-02-27	https://jobs.tut.by/vacancy/36033920	Элилинк Консалтинг
 2020-02-28	https://jobs.tut.by/vacancy/35655871	Системные технологии
+2020-02-27	https://jobs.tut.by/vacancy/36033920	Элилинк Консалтинг
 2020-02-21	https://jobs.tut.by/vacancy/35959637	Itransition
 2020-02-27	https://ludi.by/job/administrator-baz-dannyh/	Минские электрические сети филиал РУП Минскэнерго
 2020-02-24	https://jobs.tut.by/vacancy/35977290	Admitad
@@ -630,7 +632,6 @@
 2020-02-24	https://joblab.by/vac282518.html	Росчерк
 2020-02-27	https://jobs.tut.by/vacancy/36021709	Студия дизайна «Концепт»
 2020-02-21	https://jobs.tut.by/vacancy/35955491	Шишкин А.А. / Zoomos
-2020-02-20	https://jobs.tut.by/vacancy/35934589	Сенла
 2020-02-20	https://jobs.tut.by/vacancy/35937852	ЮКОЛА-ИНФО-Брест
 2020-02-24	https://riv.by/minsk/svyaz-it-internet/vakansiya-65307.html	БелХард
 2020-02-24	https://jobs.tut.by/vacancy/35979216	БелСимТех
@@ -738,8 +739,8 @@
 2020-02-21	https://jobs.tut.by/vacancy/35968120	Альфа-Банк
 2020-02-28	https://jobs.tut.by/vacancy/36060226	Альфасад
 2020-02-25	https://jobs.tut.by/vacancy/35941262	Астерман
-2020-02-28	https://jobs.tut.by/vacancy/36062071	Джет Би Ай
 2020-02-28	https://jobs.tut.by/vacancy/36065340	ПЕРФОРМИЯ Центр-БЛР
+2020-02-28	https://jobs.tut.by/vacancy/36062071	Джет Би Ай
 2020-02-26	https://jobs.tut.by/vacancy/36022610	Бостил Сапарт
 2020-02-21	https://jobs.tut.by/vacancy/35967410	Смарт АйТи
 2020-02-28	https://jobs.tut.by/vacancy/36064490	Skywind Group
@@ -750,6 +751,7 @@
 2020-02-27	https://jobs.tut.by/vacancy/36032419	Бычинов В.Е.
 2020-02-25	https://jobs.tut.by/vacancy/35977457	ЛАЦИТ - Лаборатория цифровых технологий
 2020-02-26	https://jobs.tut.by/vacancy/35798824	Wargaming.net
+2020-02-19	https://jobs.tut.by/vacancy/35921413	Andersen
 2020-02-26	http://gsz.gov.by/ru/vacancy/1088747/	Белорусская Валютно-Фондовая Биржа
 2020-02-27	https://jobs.tut.by/vacancy/36030231	Фабрика инноваций и решений
 2020-02-25	https://praca.by/vacancy/203417/	ООО "Бел Спорт Интернет"
@@ -955,7 +957,6 @@
 2020-02-27	https://jobs.tut.by/vacancy/36045536	Технический Дозор
 2020-02-28	https://jobs.tut.by/vacancy/36047951	Мастер-Импорт
 2020-02-21	https://jobs.tut.by/vacancy/35963481	Он Зэ Спот Девелопмент
-2020-02-20	https://jobs.tut.by/vacancy/35934922	Сенла
 2020-02-21	https://jobs.tut.by/vacancy/35956958	Авто 360
 2020-02-24	https://jobs.tut.by/vacancy/33752290	СофтКорп
 2020-02-27	https://jobs.tut.by/vacancy/36023736	ИнтэксСофт
@@ -974,7 +975,6 @@
 2020-02-27	https://jobs.tut.by/vacancy/36035950	Softeq Development
 2020-02-24	https://jobs.tut.by/vacancy/35906485	Аристек Системс
 2020-02-21	https://jobs.dev.by/vacancies/7179	ТКП-Софт
-2020-02-20	https://jobs.tut.by/vacancy/35934700	Электросила
 2020-02-21	https://jobs.tut.by/vacancy/35963468	Группа Компаний Результат Бел
 2020-02-25	https://jobs.tut.by/vacancy/35681273	Аймис Солюшинс
 2020-02-21	https://jobs.tut.by/vacancy/35543033	СтаркГеймз
