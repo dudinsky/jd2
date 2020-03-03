@@ -70,6 +70,7 @@
 2020-02-25	https://jobs.tut.by/vacancy/35974307	ТКП-Софт
 2020-02-27	https://praca.by/vacancy/339357/	"Гимназия № 7 г. Гродно"
 2020-02-24	https://jobs.tut.by/vacancy/35974304	A1
+2020-02-21	https://jobs.tut.by/vacancy/35815720	Козлов Э.В.
 2020-02-24	https://jobs.tut.by/vacancy/35942712	Вайзор Геймз
 2020-02-26	https://jobs.dev.by/vacancies/19151	Fitbit
 2020-02-28	https://praca.by/vacancy/339660/	Ооо "Старинные Лакомства"
@@ -225,7 +226,6 @@
 2020-02-26	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/44656/	БелХард
 2020-03-02	https://praca.by/vacancy/339993/	ООО "КейСтафф Рекрутмент"
 2020-02-25	https://jobs.tut.by/vacancy/35978289	Валько Д. В.
-2020-02-21	https://rdw.by/vakansii/specialist-otdela-tehnicheskoy-podderzhki-programmist/25292642	Белсотбит
 2020-03-02	https://jobs.tut.by/vacancy/35390818	СерчИнформ
 2020-02-26	https://jobs.tut.by/vacancy/36003116	Индивидуальный предприниматель Коренюк А.В
 2020-03-02	https://joblab.by/vac283478.html	ООО "Спектр-Лайн"
@@ -236,8 +236,8 @@
 2020-02-25	https://jobs.tut.by/vacancy/35988083	Червяк П. Г.
 2020-02-27	https://jobs.tut.by/vacancy/35109683	Пятый элемент
 2020-02-29	https://jobs.tut.by/vacancy/36072565	Астерсофт
-2020-02-25	https://jobs.tut.by/vacancy/35992560	Эксадел
 2020-02-26	https://jobs.tut.by/vacancy/35182902	БайТехСервис
+2020-02-25	https://jobs.tut.by/vacancy/35992560	Эксадел
 2020-02-28	https://jobs.tut.by/vacancy/36061438	Skywind Group
 2020-02-27	https://jobs.tut.by/vacancy/35938613	ПЕРФОРМИЯ Центр-БЛР
 2020-02-27	https://jobs.tut.by/vacancy/36048470	Wargaming.net
@@ -497,8 +497,8 @@
 2020-03-02	https://jobs.tut.by/vacancy/36082250	Атлант-М
 2020-02-23	https://www.moyareklama.by/single/vacancy/209962162	ИП Кузнецов С. В.
 2020-02-28	https://jobs.tut.by/vacancy/35771912	Бьюти Айз
-2020-02-27	https://jobs.tut.by/vacancy/36039869	КомплИТех
 2020-02-27	https://jobs.tut.by/vacancy/36038538	Армтек
+2020-02-27	https://jobs.tut.by/vacancy/36039869	КомплИТех
 2020-03-02	https://jobs.tut.by/vacancy/36085521	iTechArt Group
 2020-02-28	http://gsz.gov.by/ru/vacancy/1048230/	Учреждение здравоохранения "Кореличская центральная районная больница"
 2020-03-02	https://jobs.tut.by/vacancy/36023010	Проюкей
@@ -954,8 +954,8 @@
 2020-02-25	https://jobs.tut.by/vacancy/35978986	Веб Секрет
 2020-02-26	https://jobs.tut.by/vacancy/36013704	Gismart
 2020-02-27	https://jobs.tut.by/vacancy/35500327	WM Reply
-2020-02-28	https://jobs.tut.by/vacancy/36047951	Мастер-Импорт
 2020-02-27	https://jobs.tut.by/vacancy/36045536	Технический Дозор
+2020-02-28	https://jobs.tut.by/vacancy/36047951	Мастер-Импорт
 2020-03-01	https://jobs.tut.by/vacancy/35956958	Авто 360
 2020-03-02	https://jobs.tut.by/vacancy/36088670	ЭгоСекьюр
 2020-02-24	https://jobs.tut.by/vacancy/33752290	СофтКорп
