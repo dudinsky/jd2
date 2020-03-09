@@ -6,6 +6,7 @@
 2020-03-03	https://jobs.tut.by/vacancy/36096520	СуматоСофт
 2020-03-03	https://jobs.dev.by/vacancies/19195	Softeq Development
 2020-03-09	https://jobs.tut.by/vacancy/36189838	Велми-Смарт
+2020-02-27	https://jobs.tut.by/vacancy/36046260	i-Store Apple Premium Reseller
 2020-03-03	https://jobs.dev.by/vacancies/19197	Системные технологии
 2020-03-05	https://jobs.tut.by/vacancy/36156917	Паритетбанк
 2020-03-06	https://jobs.tut.by/vacancy/36141661	ИВЦ Минфина
@@ -445,7 +446,6 @@
 2020-03-04	http://gsz.gov.by/ru/vacancy/1082046/	Государственное предприятие "Информационно-издательский центр по налогам и сборам"
 2020-03-04	https://jobs.tut.by/vacancy/36132075	Эксадел
 2020-03-06	https://jobs.tut.by/vacancy/36175840	Анакреон
-2020-02-28	https://jobs.tut.by/vacancy/36026940	Softeq Development
 2020-03-03	https://praca.by/vacancy/340358/	ООО "ЛАЦИТ - Лаборатория цифровых технологий"
 2020-03-04	https://jobs.tut.by/vacancy/36137593	АйМаркет Трейд
 2020-03-03	https://jobs.tut.by/vacancy/35195432	Qittiq Solutions
@@ -623,6 +623,7 @@
 2020-03-03	http://gsz.gov.by/ru/vacancy/1093179/	ООО "Орион-Бел"
 2020-03-06	https://jobs.tut.by/vacancy/36180508	АдатаСофтваре РД
 2020-03-02	https://jobs.tut.by/vacancy/36091112	Полимастер
+2020-02-27	https://jobs.tut.by/vacancy/35346193	Bamboo Group
 2020-03-02	https://jobs.tut.by/vacancy/36090269	IDT Technologies
 2020-03-06	https://jobs.dev.by/vacancies/19230	Rubyroid Labs
 2020-03-03	https://jobs.tut.by/vacancy/36090268	Apalon
@@ -779,7 +780,6 @@
 2020-03-09	https://jobs.tut.by/vacancy/36122637	Melsoft Games
 2020-03-03	https://jobs.tut.by/vacancy/36101956	Барсуков Медиа
 2020-02-28	https://jobs.tut.by/vacancy/36063732	ЛАЦИТ - Лаборатория цифровых технологий
-2020-02-28	https://jobs.tut.by/vacancy/36062071	Джет Би Ай
 2020-03-04	https://jobs.tut.by/vacancy/36065340	ПЕРФОРМИЯ Центр-БЛР
 2020-03-02	https://praca.by/vacancy/339951/	ИП Дроздов Максим Николаевич
 2020-02-28	https://jobs.tut.by/vacancy/36064490	Skywind Group
