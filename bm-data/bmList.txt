@@ -58,8 +58,8 @@
 2020-03-07	https://jobs.tut.by/vacancy/36186577	Еком Бизнес
 2020-03-09	https://jobs.tut.by/vacancy/36189604	Трофимов Ф.В
 2020-03-04	https://jobs.tut.by/vacancy/36143870	Конте Спа
-2020-03-11	https://jobs.tut.by/vacancy/36218041	ТадамГрупп
 2020-03-11	https://jobs.tut.by/vacancy/36218283	Syberry CIS
+2020-03-11	https://jobs.tut.by/vacancy/36218041	ТадамГрупп
 2020-03-09	https://ludi.by/job/web-programmist/	Лу Бань ЧСУП
 2020-03-09	https://jobs.tut.by/vacancy/36188753	Плэйтика Бел
 2020-03-10	https://riv.by/minsk/svyaz-it-internet/vakansiya-66770.html	Ваумэйкинг
@@ -350,7 +350,6 @@
 2020-03-06	https://jobs.tut.by/vacancy/36182970	Телесфор Софтваре
 2020-03-05	https://jobs.tut.by/vacancy/35882158	Фабрика инноваций и решений
 2020-03-11	https://jobs.tut.by/vacancy/36238102	Буг Транс Континенталь
-2020-03-03	https://jobs.tut.by/vacancy/36109277	RocketData
 2020-03-05	https://jobs.tut.by/vacancy/36143398	ЭНДЖОЙкласс
 2020-03-09	https://jobs.dev.by/vacancies/18970	SaM Solutions Самсолюшнс
 2020-03-11	https://jobs.tut.by/vacancy/36237253	Пинский интернет Провайдер
@@ -399,6 +398,7 @@
 2020-03-04	https://careers.epam.by/careers/job-listings/job.16318	EPAM Systems
 2020-03-06	https://jobs.tut.by/vacancy/36174971	Чиколетта
 2020-03-04	https://jobs.tut.by/vacancy/36133188	Godel Technologies Europe
+2020-03-04	https://jobs.dev.by/vacancies/15408	Viber
 2020-03-04	https://jobs.tut.by/vacancy/35073058	БайТехСервис
 2020-03-11	https://jobs.tut.by/vacancy/36215038	Хайэнд Системс
 2020-03-05	http://gsz.gov.by/ru/vacancy/1095700/	Моготекс
@@ -438,7 +438,6 @@
 2020-03-11	https://www.moyareklama.by/single/vacancy/208922243	Древо знаний
 2020-03-11	https://jobs.tut.by/vacancy/35276238	Девхаб
 2020-03-04	https://jobs.tut.by/vacancy/36137593	АйМаркет Трейд
-2020-03-03	https://jobs.tut.by/vacancy/35195432	Qittiq Solutions
 2020-03-04	https://jobs.tut.by/vacancy/36136027	BelVG
 2020-03-11	https://jobs.tut.by/vacancy/36231789	СуматоСофт
 2020-03-10	https://jobs.tut.by/vacancy/35985393	Гапонов М.О.
@@ -788,6 +787,7 @@
 2020-03-11	https://jobs.tut.by/vacancy/36216848	Softeq Development
 2020-03-06	https://jobs.tut.by/vacancy/35994621	Издательский дом Гревцова
 2020-03-04	https://rdw.by/vakansii/sistemnyy-administrator/25294629	Мебель, Стройматериалы
+2020-03-04	https://joblab.by/vac283875.html	ООО "Образование за границей"
 2020-03-11	https://jobs.tut.by/vacancy/35921066	Аристек Системс
 2020-03-09	https://grodno.in/rabota/vacancy/15432/	ООО «Финистра»
 2020-03-11	https://jobs.tut.by/vacancy/36213584	Wargaming.net
