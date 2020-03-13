@@ -196,8 +196,8 @@
 2020-03-11	https://jobs.tut.by/vacancy/36214516	Фаброс
 2020-03-09	https://jobs.tut.by/vacancy/36190664	Плэйтика Бел
 2020-03-11	https://jobs.tut.by/vacancy/36237886	Буг Транс Континенталь
-2020-03-12	https://jobs.tut.by/vacancy/36256164	Mainsoft
 2020-03-12	https://jobs.tut.by/vacancy/36211498	Софтнетикс
+2020-03-12	https://jobs.tut.by/vacancy/36256164	Mainsoft
 2020-03-09	https://jobs.tut.by/vacancy/36093699	Веб Формат
 2020-03-05	https://praca.by/vacancy/340956/	Межрегиональный Союз Компаний Перевозчиков Пассажиров "МСКПП"
 2020-03-05	http://gsz.gov.by/ru/vacancy/1094890/	Национальная библиотека Беларуси
@@ -750,7 +750,6 @@
 2020-03-10	https://jobs.tut.by/vacancy/36190752	ДэйтаМола
 2020-03-11	https://jobs.tut.by/vacancy/36214649	Национальное кадастровое агентство
 2020-03-06	https://jobs.tut.by/vacancy/36174496	Агентство Коллекция Открытий
-2020-03-04	https://jobs.tut.by/vacancy/36134634	JazzTeam
 2020-03-11	https://jobs.tut.by/vacancy/36069057	Аристек Системс
 2020-03-09	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/48253/	БелХард
 2020-03-10	https://jobs.tut.by/vacancy/36189505	Смайл Лайт
@@ -911,6 +910,7 @@
 2020-03-12	https://riv.by/minsk/svyaz-it-internet/vakansiya-64329.html	БелХард
 2020-03-13	https://jobs.tut.by/vacancy/36263210	Гризли Диджитал Компани
 2020-03-11	https://jobs.tut.by/vacancy/36232713	Ксистор / Xistore
+2020-03-04	https://jobs.tut.by/vacancy/36138524	BelITSoft
 2020-03-11	https://jobs.tut.by/vacancy/36096480	Интелико Системс
 2020-03-12	https://riv.by/minsk/svyaz-it-internet/vakansiya-56710.html	БелХард
 2020-03-06	https://jobs.tut.by/vacancy/36174622	ЛАЦИТ - Лаборатория цифровых технологий
