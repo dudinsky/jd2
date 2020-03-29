@@ -530,7 +530,6 @@
 2020-03-25	https://praca.by/vacancy/302564/	Частное предприятие "АльпПайер"
 2020-03-26	https://jobs.dev.by/vacancies/19293	Frontbyte
 2020-03-27	https://careers.epam.by/careers/job-listings/job.44715	EPAM Systems
-2020-03-18	https://jobs.tut.by/vacancy/36189979	Белорусская нотариальная палата
 2020-03-24	https://jobs.tut.by/vacancy/35838946	Gismart
 2020-03-24	https://joblab.by/vac286512.html	ООО "МаксиГлобал"
 2020-03-18	https://jobs.tut.by/vacancy/36357550	Тимвероу
@@ -945,6 +944,7 @@
 2020-03-28	https://jobs.tut.by/vacancy/36494055	Управляющая компания холдинга Белкоммунмаш
 2020-03-27	https://jobs.tut.by/vacancy/34526504	СофтКорп
 2020-03-24	http://gsz.gov.by/ru/vacancy/1107338/	МКСК Минск-арена
+2020-03-17	https://vitebsk.biz/rabota/vacancy/31091.5871d/	ЧТУП «Доктор Моторс»
 2020-03-23	https://jobs.tut.by/vacancy/36405262	Белка Геймз
 2020-03-18	https://jobs.tut.by/vacancy/36350500	Netcracker Technology Corp.
 2020-03-23	http://gsz.gov.by/ru/vacancy/1077579/	ЗАО "Полыковичское"
