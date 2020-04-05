@@ -54,10 +54,10 @@
 2020-04-02	https://jobs.tut.by/vacancy/36395501	Трендовые товары
 2020-03-25	https://jobs.tut.by/vacancy/36449210	Анакреон
 2020-03-27	https://jobs.tut.by/vacancy/36482017	СофтКорп
-2020-04-01	https://jobs.tut.by/vacancy/36531750	Веб Фокус
 2020-04-01	https://jobs.tut.by/vacancy/36531992	Девхэд
+2020-04-01	https://jobs.tut.by/vacancy/36531750	Веб Фокус
 2020-04-04	https://riv.by/minsk/svyaz-it-internet/vakansiya-66770.html	Ваумэйкинг
-2020-04-01	https://jobs.tut.by/vacancy/36529209	Грицкова Виктория Ивановна
+2020-04-05	https://jobs.tut.by/vacancy/36529209	Грицкова Виктория Ивановна
 2020-03-31	https://jobs.tut.by/vacancy/36141459	SoftSwiss
 2020-04-04	https://jobs.tut.by/vacancy/36232328	Фабрика инноваций и решений
 2020-03-25	https://riv.by/mozyr/rukovoditeli/vakansiya-67280.html	Мозырский ДОК
@@ -110,6 +110,7 @@
 2020-04-03	https://jobs.tut.by/vacancy/36554423	ПлатформИО / Platform.io
 2020-04-01	https://jobs.tut.by/vacancy/36531303	Измерительные технологии
 2020-03-25	https://jobs.dev.by/vacancies/19374	Straut & Skobelev
+2020-04-05	https://joblab.by/vac283216.html	ООО "СтаффБай"
 2020-03-25	https://jobs.dev.by/vacancies/19376	Total Games
 2020-03-24	https://jobs.dev.by/vacancies/19368	Scand
 2020-03-27	https://praca.by/vacancy/344850/	Зао "Нтц Контакт"
@@ -410,6 +411,7 @@
 2020-04-04	http://gsz.gov.by/ru/vacancy/997502/	УО "Новомышский государственный профессиональный лицей сельскохозяйственного производства"
 2020-04-02	http://gsz.gov.by/ru/vacancy/1113573/	Гродненский филиал РУП "Белсоюзпечать"
 2020-03-26	https://jobs.dev.by/vacancies/18912	BP Mobile
+2020-03-23	https://jobs.tut.by/vacancy/36132080	Профессиональные правовые системы
 2020-03-30	https://jobs.dev.by/vacancies/18913	Метрика Девелопмент
 2020-04-04	https://riv.by/minsk/svyaz-it-internet/vakansiya-64942.html	Ваумэйкинг
 2020-03-27	https://jobs.tut.by/vacancy/36475439	Байрил
@@ -703,7 +705,6 @@
 2020-03-25	https://jobs.tut.by/vacancy/36447734	ЦУМ Минск
 2020-04-02	https://jobs.tut.by/vacancy/36550595	Huawei Technologies
 2020-04-03	https://ludi.by/job/glavnyj-buhgalter-16/	Трайпл
-2020-03-26	https://jobs.tut.by/vacancy/36456200	Wargaming.net
 2020-03-30	https://jobs.tut.by/vacancy/36506886	Wargaming.net
 2020-04-04	https://riv.by/minsk/svyaz-it-internet/vakansiya-64936.html	Ваумэйкинг
 2020-03-24	https://jobs.tut.by/vacancy/35096624	A1
@@ -767,7 +768,6 @@
 2020-03-24	https://jobs.tut.by/vacancy/36422890	Белсотбит
 2020-03-30	http://gsz.gov.by/ru/vacancy/1093223/	Филиал "Бобруйские электрические сети" РУП "Могилевэнерго"
 2020-04-03	https://jobs.tut.by/vacancy/36558551	Нил Эмс Бгуир
-2020-03-23	https://joblab.by/vac283211.html	ООО "СтаффБай"
 2020-03-26	https://jobs.tut.by/vacancy/35129691	Кайриба Инжиниринг
 2020-03-31	https://jobs.dev.by/vacancies/10702	Bostil Support
 2020-04-04	https://jobs.tut.by/vacancy/36559404	Сенла
@@ -814,8 +814,8 @@
 2020-03-29	https://jobs.tut.by/vacancy/36378871	Загородный клуб Фестивальный
 2020-03-27	https://jobs.tut.by/vacancy/36463145	Орион Софт
 2020-03-27	https://jobs.tut.by/vacancy/36463384	Вамакс Трейд
-2020-03-26	https://jobs.tut.by/vacancy/36465564	Уайлдспайкс
 2020-03-26	https://jobs.tut.by/vacancy/36465322	Крупеньков Д.Ф.
+2020-03-26	https://jobs.tut.by/vacancy/36465564	Уайлдспайкс
 2020-03-31	https://jobs.tut.by/vacancy/36524101	Системные технологии
 2020-04-01	https://vitebsk.biz/rabota/vacancy/37954/	ИП Абушкевич А.А.
 2020-04-03	https://jobs.tut.by/vacancy/36560677	Центр банковских технологий
@@ -972,8 +972,8 @@
 2020-03-23	https://jobs.tut.by/vacancy/36415292	Веб Солюшенс
 2020-03-26	https://rdw.by/vakansii/programmist-delphi/25297283	Профит
 2020-03-31	http://gsz.gov.by/ru/vacancy/990418/	Житковичский государственный профессиональный лицей
-2020-04-03	https://jobs.tut.by/vacancy/36556327	Горецкая М.В.
 2020-04-03	https://jobs.tut.by/vacancy/36556569	Прикладные системы
+2020-04-03	https://jobs.tut.by/vacancy/36556327	Горецкая М.В.
 2020-04-03	http://gsz.gov.by/ru/vacancy/1114678/	Белгосфилармония
 2020-04-03	https://jobs.tut.by/vacancy/36561918	Admitad
 2020-04-02	https://jobs.tut.by/vacancy/36553055	Фабрика инноваций и решений
