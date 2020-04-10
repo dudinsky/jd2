@@ -15,8 +15,8 @@
 2020-03-30	https://jobs.tut.by/vacancy/36511919	Поспекс
 2020-03-30	https://jobs.tut.by/vacancy/36503042	Спортив
 2020-04-08	https://jobs.tut.by/vacancy/36589986	Альфа-Банк
-2020-04-02	https://jobs.tut.by/vacancy/36350814	Пиар-Инвест
 2020-04-03	http://gsz.gov.by/ru/vacancy/1114582/	Ниэи Министерства Экономики Республики Беларусь
+2020-04-02	https://jobs.tut.by/vacancy/36350814	Пиар-Инвест
 2020-04-09	https://www.moyareklama.by/single/vacancy/209254210	Древо знаний
 2020-04-09	https://jobs.dev.by/vacancies/15835	Foranx Llc
 2020-03-29	https://jobs.tut.by/vacancy/36496422	Пан Паныч
@@ -768,8 +768,8 @@
 2020-03-30	https://jobs.tut.by/vacancy/36502999	Эльфторгстрой
 2020-03-31	https://jobs.tut.by/vacancy/36526723	Авем
 2020-04-06	https://jobs.tut.by/vacancy/36566183	BelITSoft
-2020-03-31	https://jobs.tut.by/vacancy/36521279	Skywind Group
 2020-03-30	https://praca.by/vacancy/342152/	ООО "Бухгалтерские технологии"
+2020-03-31	https://jobs.tut.by/vacancy/36521279	Skywind Group
 2020-04-08	https://jobs.tut.by/vacancy/36600063	Автг
 2020-03-28	https://joblab.by/vac286846.html	ООО "Лешантер"
 2020-04-08	https://jobs.tut.by/vacancy/36590053	Gismart
@@ -866,7 +866,6 @@
 2020-04-03	https://jobs.tut.by/vacancy/36168796	Intetics
 2020-04-08	https://jobs.tut.by/vacancy/36593797	Flo
 2020-04-06	https://praca.by/vacancy/346006/	ООО "Торговая компания "Калипсо"
-2020-03-27	https://jobs.tut.by/vacancy/36487343	Главный информационно-аналитический центр Министерства образования Республики Беларусь
 2020-03-27	https://jobs.tut.by/vacancy/33750049	СофтКорп
 2020-04-10	https://www.moyareklama.by/single/vacancy/210063356	УО "Средняя школа № 41"
 2020-03-30	https://jobs.tut.by/vacancy/36504767	Qittiq Solutions
@@ -912,6 +911,7 @@
 2020-04-01	https://joblab.by/vac287191.html	Wowmaking
 2020-04-06	http://gsz.gov.by/ru/vacancy/1115876/	ОАО "Гомельтранснефть Дружба"
 2020-04-08	https://jobs.tut.by/vacancy/36597091	Apalon
+2020-04-09	http://gsz.gov.by/ru/vacancy/1119482/	ГУК "Гродненский районный культурно-информационный центр"
 2020-04-06	https://jobs.tut.by/vacancy/36578111	БелСваМО
 2020-04-03	http://gsz.gov.by/ru/vacancy/1114650/	ГУО "Рясненская средняя школа"
 2020-04-06	https://praca.by/vacancy/346003/	Частное предприятие "МАСТРЕЙД"
