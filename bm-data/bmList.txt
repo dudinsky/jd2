@@ -86,6 +86,7 @@
 2020-04-01	http://gsz.gov.by/ru/vacancy/1113038/	ОАО "Лидский завод электроизделий"
 2020-04-04	https://jobs.tut.by/vacancy/36564004	Сервис Деск
 2020-04-04	https://jobs.tut.by/vacancy/36563399	Сеть Магазинов ATLANT
+2020-04-12	https://joblab.by/vac176028.html	ТехноАгро
 2020-04-01	https://jobs.tut.by/vacancy/36531579	Вкусвэлл
 2020-04-01	http://gsz.gov.by/ru/vacancy/1057244/	Витебский государственный индустриально-технологический колледж
 2020-04-01	https://jobs.tut.by/vacancy/36539298	ІВА-Гомель
@@ -114,7 +115,6 @@
 2020-03-30	https://jobs.tut.by/vacancy/36517272	ЗИКО-ЗОРКА Групп
 2020-04-01	https://jobs.dev.by/vacancies/19138	Cedon BLR
 2020-04-01	https://jobs.tut.by/vacancy/36535915	СерчИнформ
-2020-03-27	https://jobs.tut.by/vacancy/36493334	Дейнека А.Л
 2020-04-08	https://jobs.tut.by/vacancy/36599770	Вайзор Геймз
 2020-04-03	https://praca.by/vacancy/345855/	Частное предприятие "МАСТРЕЙД"
 2020-04-10	http://gsz.gov.by/ru/vacancy/1063112/	Щучинский филиал ОАО «Молочный Мир»
@@ -307,6 +307,7 @@
 2020-04-10	https://jobs.tut.by/vacancy/36624580	ИТС Партнёр
 2020-03-30	http://gsz.gov.by/ru/vacancy/1110357/	УО "Бобруйский государственный технологический колледж"
 2020-04-10	https://jobs.tut.by/vacancy/36594741	Стар Бьюти Сервис
+2020-04-12	https://praca.by/vacancy/221263/	ИП Алипченко Артем Сергеевич
 2020-04-01	http://gsz.gov.by/ru/vacancy/1112534/	ОАО "Универсалторг" г.Новолукомля
 2020-04-07	https://jobs.tut.by/vacancy/36589153	ПлатформИО / Platform.io
 2020-04-09	https://jobs.dev.by/vacancies/18986	CactusSoft
@@ -381,8 +382,8 @@
 2020-04-09	http://gsz.gov.by/ru/vacancy/1112289/	Банк ВТБ Беларусь
 2020-04-12	https://jobs.tut.by/vacancy/36392889	Paralect
 2020-04-08	https://jobs.tut.by/vacancy/36592531	Эдтехсофт
-2020-04-07	https://jobs.tut.by/vacancy/36556644	ГолдДекор
 2020-04-09	https://jobs.tut.by/vacancy/36610803	Слэмсофт
+2020-04-12	https://jobs.tut.by/vacancy/36556644	ГолдДекор
 2020-04-04	http://gsz.gov.by/ru/vacancy/997502/	УО "Новомышский государственный профессиональный лицей сельскохозяйственного производства"
 2020-04-08	http://gsz.gov.by/ru/vacancy/1118360/	Минский метрополитен
 2020-04-02	http://gsz.gov.by/ru/vacancy/1113573/	Гродненский филиал РУП "Белсоюзпечать"
@@ -826,7 +827,6 @@
 2020-04-03	https://jobs.tut.by/vacancy/36559457	Спекс Инвестментс
 2020-04-10	https://jobs.dev.by/vacancies/15583	Ooo "Эстажема"
 2020-03-29	https://jobs.tut.by/vacancy/36378871	Загородный клуб Фестивальный
-2020-03-27	https://jobs.tut.by/vacancy/36463384	Вамакс Трейд
 2020-04-10	http://gsz.gov.by/ru/vacancy/1017742/	РУП "Белорусский протезно-ортопедический восстановительный центр"
 2020-04-11	https://jobs.tut.by/vacancy/36626416	Домпак
 2020-03-31	https://jobs.tut.by/vacancy/36524101	Системные технологии
@@ -850,6 +850,7 @@
 2020-03-30	https://jobs.tut.by/vacancy/36073148	Тимвероу
 2020-04-03	https://jobs.tut.by/vacancy/36559436	Цифровая Компания
 2020-04-07	https://jobs.tut.by/vacancy/34719646	ПрофКонтакт
+2020-04-12	https://joblab.by/vac288342.html	ООО "МаксиГлобал"
 2020-04-08	https://jobs.tut.by/vacancy/36600482	ХелсМэй
 2020-03-30	https://jobs.dev.by/vacancies/17986	Cortlex
 2020-04-02	https://jobs.tut.by/vacancy/36407274	ЛидБрэйн
@@ -875,8 +876,8 @@
 2020-04-09	https://riv.by/minsk/svyaz-it-internet/vakansiya-68830.html	Ваумэйкинг
 2020-04-02	https://jobs.tut.by/vacancy/36473393	Фаброс
 2020-04-09	https://jobs.tut.by/vacancy/36454638	Синезис
-2020-04-10	https://jobs.tut.by/vacancy/36457904	АпКлиент
 2020-04-09	https://jobs.tut.by/vacancy/36614077	Васильев А. А.
+2020-04-10	https://jobs.tut.by/vacancy/36457904	АпКлиент
 2020-04-01	https://jobs.tut.by/vacancy/36533425	Трекер Технолоджис
 2020-04-06	https://jobs.tut.by/vacancy/36570605	Авангард Лизинг
 2020-03-31	https://jobs.tut.by/vacancy/36520108	Средняя школа № 186 г. Минска
@@ -897,7 +898,6 @@
 2020-04-06	https://jobs.tut.by/vacancy/36576163	Пеленг
 2020-04-06	https://jobs.tut.by/vacancy/36578583	Cedon BLR
 2020-04-08	https://jobs.tut.by/vacancy/36594829	Oxagile
-2020-03-27	https://jobs.tut.by/vacancy/36404361	Заславская кондитерская фабрика
 2020-03-30	https://riv.by/minsk/svyaz-it-internet/vakansiya-64091.html	БелХард
 2020-04-06	https://jobs.tut.by/vacancy/36576168	Пеленг
 2020-04-07	https://praca.by/vacancy/342879/	ИП Шинкарев Дмитрий Владимирович
