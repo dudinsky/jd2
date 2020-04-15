@@ -48,8 +48,8 @@
 2020-04-06	https://jobs.tut.by/vacancy/36268738	Электросила
 2020-04-08	https://jobs.tut.by/vacancy/36577793	Мобильные ТелеСистемы
 2020-04-07	https://jobs.dev.by/vacancies/19184	Timvero
-2020-04-01	https://jobs.tut.by/vacancy/36531992	Девхэд
 2020-04-01	https://jobs.tut.by/vacancy/36531750	Веб Фокус
+2020-04-01	https://jobs.tut.by/vacancy/36531992	Девхэд
 2020-04-15	https://jobs.tut.by/vacancy/36655124	Andersen
 2020-04-13	https://jobs.tut.by/vacancy/36631573	КомплексПро
 2020-04-14	https://riv.by/minsk/svyaz-it-internet/vakansiya-66770.html	Ваумэйкинг
@@ -482,6 +482,7 @@
 2020-04-07	https://jobs.tut.by/vacancy/36587688	Поспекс
 2020-04-03	https://jobs.tut.by/vacancy/36562387	Левшунов П.Ю.
 2020-04-10	https://jobs.tut.by/vacancy/36527375	SoftSwiss
+2020-04-01	https://jobs.tut.by/vacancy/36529312	КомплИТех
 2020-04-09	https://jobs.tut.by/vacancy/36447370	Мобильная аналитика / ТМ SplitMetrics
 2020-04-10	https://jobs.tut.by/vacancy/36622520	Эстажема
 2020-04-14	https://jobs.tut.by/vacancy/36549184	Рекордсмен
@@ -851,7 +852,6 @@
 2020-04-02	https://jobs.tut.by/vacancy/36407274	ЛидБрэйн
 2020-04-15	https://jobs.tut.by/vacancy/36653898	Минский инновационный университет
 2020-03-31	https://jobs.tut.by/vacancy/36522182	BelVG
-2020-03-31	https://jobs.tut.by/vacancy/36527633	Компания ЛБР
 2020-04-14	https://jobs.tut.by/vacancy/36640593	Scand
 2020-04-10	https://jobs.tut.by/vacancy/36623116	И-Экс-Пи Кэпитал
 2020-04-08	https://jobs.tut.by/vacancy/36593797	Flo
