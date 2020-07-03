@@ -1,4 +1,3 @@
-2020-04-01	https://joblab.by/vac287190.html	Wowmaking
 2020-04-27	https://joblab.by/vac289403.html	ООО "АскерВЕБ"
 2020-05-27	https://riv.by/mogilev/svyaz-it-internet/vakansiya-70112.html	АскерВЕБ
 2020-06-05	http://gsz.gov.by/ru/vacancy/1101206/	Геранёнская СШ
@@ -16,7 +15,6 @@
 2020-06-11	http://gsz.gov.by/ru/vacancy/1114582/	Ниэи Министерства Экономики Республики Беларусь
 2020-04-29	https://riv.by/mogilev/ofis/vakansiya-69359.html	АскерВЕБ
 2020-06-22	http://gsz.gov.by/ru/vacancy/1161001/	Руп "Главный Расчетный Информационный Центр" Бжд
-2020-06-02	https://jobs.dev.by/vacancies/15835	Foranx Llc
 2020-06-22	http://gsz.gov.by/ru/vacancy/1155773/	ГУ "Территориальный центр социального обслуживания населения Октябрьского района г.Витебска"
 2020-06-10	http://gsz.gov.by/ru/vacancy/1155664/	ГУ "Гродненский районный территориальный центр социального обслуживания населения"
 2020-06-12	https://www.moyareklama.by/single/vacancy/210096756	Доброном
@@ -58,10 +56,13 @@
 2020-05-28	http://gsz.gov.by/ru/vacancy/1146570/	КУП ЖКХ "Браслав-коммунальник"
 2020-04-23	https://careers.epam.by/careers/job-listings/job.44657	EPAM Systems
 2020-06-18	https://praca.by/vacancy/337178/	Ооо "Виана"
+2020-07-02	http://gsz.gov.by/ru/vacancy/1168039/	Малевичская средняя школа Жлобинского района
 2020-06-12	https://jobs.dev.by/vacancies/19148	Inspectorio
 2020-06-25	http://gsz.gov.by/ru/vacancy/1123568/	Учреждение образования "Могилевский государственный областной лицей №3"
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149161/	ООО АскерВеб
 2020-04-17	http://gsz.gov.by/ru/vacancy/1053968/	Средняя школа № 1 г.Житковичи имени Г.Н.Туровца
 2020-06-03	http://gsz.gov.by/ru/vacancy/1149972/	Филиал «Лукомльская ГРЭС» РУП «Витебскэнерго»
+2020-07-02	http://gsz.gov.by/ru/vacancy/1168365/	ООО "Матрёшка Диджитал Системс"
 2020-05-26	http://gsz.gov.by/ru/vacancy/1027329/	Государственное предприятие "Комплекс по оказанию услуг имени П.М.Машерова"
 2020-06-24	http://gsz.gov.by/ru/vacancy/985462/	Адани
 2020-04-15	http://gsz.gov.by/ru/vacancy/1057244/	Витебский государственный индустриально-технологический колледж
@@ -73,7 +74,6 @@
 2020-06-24	http://gsz.gov.by/ru/vacancy/1079102/	Адани
 2020-06-30	http://gsz.gov.by/ru/vacancy/1166250/	ГИАЦ Минобразования
 2020-06-09	http://gsz.gov.by/ru/vacancy/1154685/	Белметалл
-2020-06-03	https://jobs.dev.by/vacancies/18040	ТКП-Софт
 2020-06-30	http://gsz.gov.by/ru/vacancy/1166189/	ГУ «Чашникский районный учебно-методический кабинет»
 2020-04-30	https://joblab.by/vac225937.html	ООО "Корпитек"
 2020-06-16	https://joblab.by/vac283216.html	ООО "СтаффБай"
@@ -101,9 +101,9 @@
 2020-06-29	https://praca.by/vacancy/357908/	ИП Раткевичюс Ким Антано
 2020-04-29	https://praca.by/vacancy/348777/	Частное предприятие "Кропас"
 2020-06-16	https://jobs.dev.by/vacancies/18264	CodeX Software
-2020-06-05	https://jobs.dev.by/vacancies/19104	Flatlogic
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149165/	ООО АскерВеб
 2020-05-28	https://jobs.dev.by/vacancies/19349	On The Spot Development
-2020-07-01	https://ludi.by/job/inzhener-programmist-front-end-developer/	Белтаможсервис
+2020-07-02	https://ludi.by/job/inzhener-programmist-front-end-developer/	Белтаможсервис
 2020-06-24	http://gsz.gov.by/ru/vacancy/1136833/	УО "Новомышский государственный профессиональный лицей сельскохозяйственного производства"
 2020-05-11	http://gsz.gov.by/ru/vacancy/1052697/	УО "Волковысский государственный аграрный колледж"
 2020-07-01	http://gsz.gov.by/ru/vacancy/1137947/	Средняя школа № 40 г.Могилева
@@ -111,7 +111,7 @@
 2020-06-05	https://careers.epam.by/careers/job-listings/job.45775	EPAM Systems
 2020-06-03	https://praca.by/vacancy/353852/	ТехноАгро
 2020-04-23	https://careers.epam.by/careers/job-listings/job.44682	EPAM Systems
-2020-03-31	https://joblab.by/vac287092.html	Искусство созидания
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149164/	ООО АскерВеб
 2020-05-04	http://gsz.gov.by/ru/vacancy/1131631/	Городская поликлиника 4 г.Гродно
 2020-06-29	https://jobs.dev.by/vacancies/19356	Exposit
 2020-06-24	https://riv.by/mozyr/svyaz-it-internet/vakansiya-70951.html	Мозырский ДОК
@@ -128,6 +128,7 @@
 2020-04-09	https://vitebsk.biz/rabota/vacancy/38063/	ИП Хамицевич В В
 2020-04-29	https://praca.by/vacancy/348779/	Частное предприятие "Кропас"
 2020-05-14	https://jobs.dev.by/vacancies/18484	Atomicus
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149163/	ООО АскерВеб
 2020-06-23	https://careers.epam.by/careers/job-listings/job.24820	EPAM Systems
 2020-06-23	https://jobs.dev.by/vacancies/19565	Axiom Connected
 2020-06-25	https://jobs.dev.by/vacancies/19568	Firedome
@@ -137,7 +138,6 @@
 2020-06-08	http://gsz.gov.by/ru/vacancy/1153794/	ГУЗ "Гомельская центральная городская детская клиническая поликлиника"
 2020-04-23	https://careers.epam.by/careers/job-listings/job.24819	EPAM Systems
 2020-06-29	https://riv.by/minsk/svyaz-it-internet/vakansiya-70125.html	ДевБрэйн
-2020-06-30	https://joblab.by/vac295553.html	ООО "Торговый дом "Радуга-свет"
 2020-04-29	https://riv.by/borisov/ofis/vakansiya-69352.html	АскерВЕБ
 2020-06-17	https://praca.by/vacancy/275514/	ИП Панцелей Василий Иванович
 2020-06-09	http://gsz.gov.by/ru/vacancy/1068469/	Учреждение здравоохранения "Климовичский РайЦГЭ"
@@ -145,6 +145,7 @@
 2020-06-12	https://jobs.dev.by/vacancies/19335	Струнные технологии
 2020-06-29	http://gsz.gov.by/ru/vacancy/1136945/	Академия последипломного образования
 2020-06-16	http://gsz.gov.by/ru/vacancy/1047987/	Белтелеком
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149162/	ООО АскерВеб
 2020-04-27	https://joblab.by/vac289402.html	ООО "АскерВЕБ"
 2020-06-09	http://gsz.gov.by/ru/vacancy/1057905/	"Жабинковский районный центр гигиены и эпидемиологиии"
 2020-06-03	https://praca.by/vacancy/353873/	Ооо "Строймаркет Борисов"
@@ -169,7 +170,7 @@
 2020-06-16	http://gsz.gov.by/ru/vacancy/1134173/	Белтелеком
 2020-06-22	http://gsz.gov.by/ru/vacancy/1160877/	Национальное кадастровое агентство
 2020-06-16	http://gsz.gov.by/ru/vacancy/1158828/	Скидельская птицефабрика
-2020-07-01	https://ludi.by/job/inzhener-programmist-8/	Белтаможсервис
+2020-07-02	https://ludi.by/job/inzhener-programmist-8/	Белтаможсервис
 2020-06-29	http://gsz.gov.by/ru/vacancy/1164912/	Пеленг
 2020-06-25	http://gsz.gov.by/ru/vacancy/1163480/	Ильянский государственный колледж
 2020-05-18	https://jobs.dev.by/vacancies/19797	Плэйтика Бел
@@ -186,6 +187,7 @@
 2020-06-23	https://praca.by/vacancy/357024/	ИП Сальникова Любовь Анатольевна
 2020-04-23	https://careers.epam.by/careers/job-listings/job.49926	EPAM Systems
 2020-06-02	http://gsz.gov.by/ru/vacancy/1148840/	Инспекция МНС по Пуховичскому району
+2020-07-02	https://jobs.dev.by/vacancies/18681	Системные технологии
 2020-05-15	https://jobs.dev.by/vacancies/19773	Cygno Solutions
 2020-04-29	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/44656/	БелХард Девелопмент
 2020-06-16	https://jobs.dev.by/vacancies/19772	CodeX Software
@@ -207,7 +209,6 @@
 2020-06-08	http://gsz.gov.by/ru/vacancy/1153799/	ГУЗ "Гомельская центральная городская детская клиническая поликлиника"
 2020-06-10	https://jobs.dev.by/vacancies/18204	EBS Partners
 2020-06-26	https://joblab.by/vac252845.html	Турбокомпрессор
-2020-06-02	https://jobs.dev.by/vacancies/19536	Syberry
 2020-06-09	http://gsz.gov.by/ru/vacancy/1108948/	Государственное учреждение образования "Средняя школа г.п.Красносельский"
 2020-06-10	https://jobs.dev.by/vacancies/18205	EBS Partners
 2020-05-25	https://riv.by/minsk/svyaz-it-internet/vakansiya-69225.html	Трули Сошиал Геймс БиУай
@@ -218,7 +219,6 @@
 2020-05-28	https://www.proektant.by/job/vodosnabzhenie-kanalizacija/311367.html	null
 2020-06-29	http://gsz.gov.by/ru/vacancy/1165341/	Средняя школа № 13 г.Могилева
 2020-06-04	http://gsz.gov.by/ru/vacancy/1151105/	ГУО ЦДО ДиМ "Ранак" г. Минска
-2020-06-05	https://jobs.dev.by/vacancies/19870	Resilio BLR
 2020-05-08	https://praca.by/vacancy/348955/	ИП Журбенко Екатерина Викторовна
 2020-06-04	https://jobs.dev.by/vacancies/15265	Viber
 2020-07-01	https://jobs.dev.by/vacancies/19872	mediacube
@@ -229,6 +229,7 @@
 2020-06-05	https://joblab.by/vac144903.html	Мобайл Сервис
 2020-05-21	https://praca.by/vacancy/352114/	ООО "Системный администратор"
 2020-06-02	https://jobs.dev.by/vacancies/19627	Finstek
+2020-07-02	https://jobs.dev.by/vacancies/17206	Evolution Gaming
 2020-04-23	https://jobs.dev.by/vacancies/19626	Finstek
 2020-06-03	https://jobs.dev.by/vacancies/17449	Brimit
 2020-06-17	https://jobs.dev.by/vacancies/16119	Viber
@@ -246,22 +247,19 @@
 2020-04-23	https://careers.epam.by/careers/job-listings/job.49858	EPAM Systems
 2020-06-03	https://jobs.dev.by/vacancies/19882	Intetics
 2020-04-23	http://gsz.gov.by/ru/vacancy/1128424/	Август-Бел
-2020-06-02	https://jobs.dev.by/vacancies/19873	Smart IT
-2020-06-02	https://jobs.dev.by/vacancies/19876	Aetsoft
 2020-05-04	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/135589/	Wowmaking
 2020-05-06	http://gsz.gov.by/ru/vacancy/1106745/	ОАО "Псыщево Агро"
 2020-06-17	https://jobs.dev.by/vacancies/17456	Белый кИТ РнД
 2020-05-21	http://gsz.gov.by/ru/vacancy/1095080/	Национальный банк Республики Беларусь
-2020-06-02	https://jobs.dev.by/vacancies/19878	Twistellar
 2020-06-02	https://jobs.dev.by/vacancies/19877	Forte Group
 2020-06-11	http://gsz.gov.by/ru/vacancy/1156481/	ООО "ГенЗед"
 2020-05-04	https://praca.by/vacancy/349491/	ИП Заяц Т. В.
-2020-06-01	https://www.moyareklama.by/single/vacancy/210117091	ИП Раемский В. А.
 2020-04-07	http://gsz.gov.by/ru/vacancy/1117011/	Частное предприятие "ИТСПРО"
 2020-05-07	http://gsz.gov.by/ru/vacancy/1134475/	ГУО "Средняя школа №5 г.Гродно"
 2020-05-20	https://joblab.by/vac253384.html	ООО "Эвис"
 2020-06-16	http://gsz.gov.by/ru/vacancy/1158553/	ЦИТ Минтруда и соцзащиты
 2020-06-05	http://gsz.gov.by/ru/vacancy/1152765/	АСБ Беларусбанк
+2020-07-01	https://joblab.by/vac248053.html	ООО "БелАкваМир"
 2020-05-26	https://jobs.dev.by/vacancies/19841	CactusSoft
 2020-05-26	https://jobs.dev.by/vacancies/19840	Плэйтика Бел
 2020-05-07	https://riv.by/volkovysk/svyaz-it-internet/vakansiya-69541.html	СШ 4 г.Волковыска
@@ -305,15 +303,13 @@
 2020-06-09	http://gsz.gov.by/ru/vacancy/1126990/	Средняя школа №3 г.Сморгони
 2020-05-26	https://jobs.dev.by/vacancies/19836	SolbegSoft
 2020-06-15	https://praca.by/vacancy/355644/	ООО "ЕвроМонтаж-Групп"
-2020-07-01	http://gsz.gov.by/ru/vacancy/1166410/	Средняя школа №3 г.Солигорска
 2020-05-26	https://jobs.dev.by/vacancies/19835	SolbegSoft
 2020-06-24	http://gsz.gov.by/ru/vacancy/1162610/	Международный университет МИТСО
 2020-06-22	https://praca.by/vacancy/336104/	Унитарное предприятие "Табак"
 2020-06-05	https://joblab.by/vac292569.html	Искусство созидания
 2020-06-09	https://jobs.dev.by/vacancies/13025	Rednavis
 2020-05-07	https://praca.by/vacancy/350154/	ИП Журбенко Екатерина Викторовна
-2020-06-18	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149345/	БелХард Девелопмент
-2020-04-29	http://gsz.gov.by/ru/vacancy/1077036/	Белагропромбанк
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149345/	БелХард Девелопмент
 2020-06-24	https://praca.by/vacancy/320564/	ИП Лагута Сергей Анатольевич
 2020-04-22	http://gsz.gov.by/ru/vacancy/1128209/	Смиловичский сельскохозяйственный профессиональный лицей
 2020-06-18	https://praca.by/vacancy/294791/	Ооо "Эльфторгстрой"
@@ -325,7 +321,6 @@
 2020-05-20	https://jobs.dev.by/vacancies/19804	БПС-Сбербанк
 2020-05-20	https://jobs.dev.by/vacancies/19806	БПС-Сбербанк
 2020-06-09	https://joblab.by/vac251286.html	ООО "АкриКам"
-2020-06-03	https://vitebsk.biz/rabota/vacancy/31091.a86d3/	ЧТУП «Доктор Моторс»
 2020-06-16	https://joblab.by/vac136280.html	ООО "Скролл Медиа Солюшнс"
 2020-04-30	http://gsz.gov.by/ru/vacancy/1130669/	Центр дополнительного образования детей и молодёжи "Контакт" г. Минска
 2020-06-23	https://praca.by/vacancy/356952/	ЮКОЛА-ИНФО-Брест
@@ -333,9 +328,7 @@
 2020-04-23	https://careers.epam.by/careers/job-listings/job.48783	EPAM Systems
 2020-04-30	http://gsz.gov.by/ru/vacancy/1131180/	Уз "9-Я Городская Детская Поликлиника Г.Минска"
 2020-05-25	https://jobs.dev.by/vacancies/15456	SK hynix memory solutions Eastern Europe
-2020-04-29	http://gsz.gov.by/ru/vacancy/1077035/	Белагропромбанк
 2020-04-24	http://gsz.gov.by/ru/vacancy/1059031/	ГУВД Мингорисполкома
-2020-05-21	https://jobs.dev.by/vacancies/19814	Ciklum
 2020-05-20	https://jobs.dev.by/vacancies/19813	Intetics
 2020-06-22	https://riv.by/minsk/svyaz-it-internet/vakansiya-70873.html	Верный курс Медиа
 2020-06-23	https://vitebsk.biz/rabota/vacancy/39481/	Школа программирования для детей CODDY
@@ -349,8 +342,9 @@
 2020-05-26	http://gsz.gov.by/ru/vacancy/1027330/	Государственное предприятие "Комплекс по оказанию услуг имени П.М.Машерова"
 2020-06-03	https://www.belrabota.by/vacancy/dizayn-verstka-smi-massmedia-poligrafiya/71716/	БелХард Девелопмент
 2020-06-08	http://gsz.gov.by/ru/vacancy/1153704/	Средняя школа № 23 г. Минска
-2020-04-13	http://gsz.gov.by/ru/vacancy/1121212/	Дятловская районная библиотека
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/140181/	Wowmaking
 2020-05-04	https://praca.by/vacancy/349498/	ИП Заяц Т. В.
+2020-07-02	http://gsz.gov.by/ru/vacancy/1121212/	Дятловская районная библиотека
 2020-06-16	https://joblab.by/vac293899.html	ООО "Донат проф"
 2020-06-03	https://jobs.dev.by/vacancies/17840	ТКП-Софт
 2020-06-29	https://vitebsk.biz/rabota/vacancy/39579/	Propellers
@@ -361,6 +355,7 @@
 2020-04-27	https://joblab.by/vac289404.html	ООО "АскерВЕБ"
 2020-06-05	https://praca.by/vacancy/354333/	ИП Мулярчук Елена Филипповна
 2020-05-19	http://gsz.gov.by/ru/vacancy/1105019/	МТЗ
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/140180/	Wowmaking
 2020-06-25	https://joblab.by/vac295035.html	ООО "АС Форос"
 2020-06-30	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/71714/	БелХард Девелопмент
 2020-05-20	https://jobs.dev.by/vacancies/18943	Intetics
@@ -377,10 +372,10 @@
 2020-05-20	http://gsz.gov.by/ru/vacancy/1112289/	Банк ВТБ Беларусь
 2020-04-22	http://gsz.gov.by/ru/vacancy/1127903/	СветомирБай
 2020-04-08	http://gsz.gov.by/ru/vacancy/1118360/	Минский метрополитен
+2020-07-02	https://joblab.by/vac295826.html	ЧП "Спорт-идея"
 2020-05-25	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/71715/	БелХард Девелопмент
 2020-06-22	https://jobs.dev.by/vacancies/16971	Techvice LLC
 2020-06-29	http://gsz.gov.by/ru/vacancy/1164650/	Мозырьсоль
-2020-04-02	http://gsz.gov.by/ru/vacancy/1113573/	Гродненский филиал РУП "Белсоюзпечать"
 2020-05-30	https://joblab.by/vac292026.html	ОДО "Проектное бюро г. Борисов"
 2020-06-03	https://jobs.dev.by/vacancies/18912	BP Mobile
 2020-06-04	http://gsz.gov.by/ru/vacancy/1150655/	Гимназия №3
@@ -407,6 +402,7 @@
 2020-06-17	http://gsz.gov.by/ru/vacancy/1069044/	Полоцкий колледж УО "ВГУ имени П.М.Машерова"
 2020-05-13	http://gsz.gov.by/ru/vacancy/1076128/	Инспекция Министерства по налогам и сборам Республики Беларусь по Центральному району г. Минска
 2020-06-08	https://praca.by/vacancy/247580/	ИП Кабанова Екатерина Анатольевна
+2020-07-02	http://gsz.gov.by/ru/vacancy/1167944/	Минский Завод Колесных Тягачей
 2020-05-17	https://www.moyareklama.by/single/vacancy/207680939	Ооо "Торгбел"
 2020-04-27	https://joblab.by/vac289411.html	ООО "АскерВЕБ"
 2020-06-16	https://praca.by/vacancy/333257/	ООО "Тэксод Технолоджиз"
@@ -430,8 +426,10 @@
 2020-05-31	https://joblab.by/vac292056.html	Wildberries
 2020-06-10	http://gsz.gov.by/ru/vacancy/1052150/	Толочинская централизованная библиотечная система
 2020-04-27	https://joblab.by/vac289401.html	ООО "АскерВЕБ"
-2020-06-01	http://gsz.gov.by/ru/vacancy/1082112/	Стравита
+2020-07-02	http://gsz.gov.by/ru/vacancy/1082112/	Стравита
 2020-04-29	https://praca.by/vacancy/348780/	Частное предприятие "Кропас"
+2020-07-02	http://gsz.gov.by/ru/vacancy/1167945/	Минский Завод Колесных Тягачей
+2020-07-02	https://vitebsk.biz/rabota/vacancy/31091.cfe60/	ЧТУП «Доктор Моторс»
 2020-06-22	https://joblab.by/vac294520.html	ЗападХимСервис
 2020-06-29	https://riv.by/minsk/svyaz-it-internet/vakansiya-56709.html	БелХард Девелопмент
 2020-05-13	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/148107/	Левальд Сервисиз
@@ -459,10 +457,10 @@
 2020-06-29	https://jobs.dev.by/vacancies/20058	Orion Soft
 2020-06-29	https://jobs.dev.by/vacancies/20057	Exposit
 2020-06-29	http://gsz.gov.by/ru/vacancy/1164765/	УО "Гродненский музыкальный колледж"
-2020-04-09	http://gsz.gov.by/ru/vacancy/924631/	Уз "Вомрэк"
+2020-07-02	https://jobs.dev.by/vacancies/20052	InTouch Health
 2020-06-30	https://jobs.dev.by/vacancies/20051	Stacklevel
 2020-06-26	https://jobs.dev.by/vacancies/20050	Eon Games
-2020-07-01	https://ludi.by/job/menedzher-internet-magazina-3/	Дрим тойз ЧТУП
+2020-07-02	https://ludi.by/job/menedzher-internet-magazina-3/	Дрим тойз ЧТУП
 2020-06-26	https://jobs.dev.by/vacancies/20054	Gismart
 2020-06-26	https://jobs.dev.by/vacancies/20053	Syberry
 2020-05-27	https://joblab.by/vac291779.html	ООО "АскерВЕБ"
@@ -494,7 +492,6 @@
 2020-06-24	https://jobs.dev.by/vacancies/20030	SolveIt
 2020-06-24	https://jobs.dev.by/vacancies/20033	Амариллис Солюшнс
 2020-06-24	https://jobs.dev.by/vacancies/20032	Амариллис Солюшнс
-2020-06-30	https://jobs.dev.by/vacancies/20031	Orion Soft
 2020-04-23	https://jobs.dev.by/vacancies/14608	SK hynix memory solutions Eastern Europe
 2020-05-20	http://gsz.gov.by/ru/vacancy/1112282/	Банк ВТБ Беларусь
 2020-06-30	http://gsz.gov.by/ru/vacancy/1166283/	ГИАЦ Минобразования
@@ -529,6 +526,7 @@
 2020-06-22	https://jobs.dev.by/vacancies/20016	Specific-Group
 2020-05-28	https://www.proektant.by/job/avtomatizacija-sviaz/311366.html	null
 2020-06-22	https://jobs.dev.by/vacancies/20014	ID Finance
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149173/	ООО АскерВеб
 2020-06-03	https://joblab.by/vac292370.html	ИП Мулярчук Е.Ф.
 2020-06-23	https://jobs.dev.by/vacancies/20019	И-Экс-Пи Кэпитал
 2020-04-23	https://careers.epam.by/careers/job-listings/job.24918	EPAM Systems
@@ -552,6 +550,7 @@
 2020-06-24	https://www.moyareklama.by/single/vacancy/210143751	ИП Янушко Г. Б.
 2020-06-23	https://jobs.dev.by/vacancies/20027	SolveIt
 2020-06-29	https://riv.by/minsk/smi-foto-video/vakansiya-56788.html	БелХард Девелопмент
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149172/	ООО АскерВеб
 2020-06-08	https://www.belrabota.by/vacancy/torgovlya-snabzhenie-prodazhi/menedzher-26/150136/	ИП Чернявский СВ
 2020-06-24	http://gsz.gov.by/ru/vacancy/1043224/	БГУФК
 2020-06-24	https://jobs.dev.by/vacancies/20029	Credentially
@@ -573,6 +572,7 @@
 2020-04-15	https://jobs.dev.by/vacancies/19498	НьюАпекс
 2020-06-12	https://jobs.dev.by/vacancies/19255	A1QA
 2020-06-29	https://jobs.dev.by/vacancies/19246	SaM Solutions Самсолюшнс
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149171/	ООО АскерВеб
 2020-05-14	https://praca.by/vacancy/351093/	ООО "Автосбытзапчасть"
 2020-05-22	http://gsz.gov.by/ru/vacancy/1143098/	Атлант
 2020-04-17	http://gsz.gov.by/ru/vacancy/1125866/	Кваторский ясли-сад - базовая школа
@@ -589,7 +589,7 @@
 2020-06-18	https://praca.by/vacancy/275764/	ИП Панцелей Василий Иванович
 2020-06-26	http://gsz.gov.by/ru/vacancy/1086812/	ООО "Акитама"
 2020-04-29	https://riv.by/vitebsk/ofis/vakansiya-69351.html	АскерВЕБ
-2020-04-01	http://gsz.gov.by/ru/vacancy/1112924/	Сеньковщинская СШ
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149170/	ООО АскерВеб
 2020-04-15	https://jobs.dev.by/vacancies/19499	НьюАпекс
 2020-06-08	http://gsz.gov.by/ru/vacancy/1153367/	ГУЗ "Городская поликлиника №5 г.Гродно"
 2020-06-16	https://careers.epam.by/careers/job-listings/job.51020	EPAM Systems
@@ -619,8 +619,9 @@
 2020-06-10	https://jobs.dev.by/vacancies/18391	SoftSwiss
 2020-06-16	https://jobs.dev.by/vacancies/19483	SVAPS Systems
 2020-05-26	https://jobs.dev.by/vacancies/19487	Intetics
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149176/	ООО АскерВеб
 2020-05-07	https://joblab.by/vac282576.html	ЧТУП "Руптела"
-2020-07-01	https://ludi.by/job/inzhener-konstruktor-15/	АрсеналМеталл ООО
+2020-07-02	https://ludi.by/job/inzhener-konstruktor-15/	АрсеналМеталл ООО
 2020-06-30	https://riv.by/minsk/svyaz-it-internet/vakansiya-71054.html	Турбокомпрессор
 2020-06-25	http://gsz.gov.by/ru/vacancy/1156724/	КУП "ЖКХ Гродненского района"
 2020-05-15	https://joblab.by/vac290806.html	ООО "НВП Модем"
@@ -630,6 +631,7 @@
 2020-06-29	https://riv.by/minsk/svyaz-it-internet/vakansiya-58474.html	БелХард Девелопмент
 2020-06-17	https://jobs.dev.by/vacancies/19451	Cedon BLR
 2020-06-24	https://praca.by/vacancy/357149/	ИП Аскерко Александр Иванович
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149175/	ООО АскерВеб
 2020-05-06	https://jobs.dev.by/vacancies/19696	Customertimes
 2020-05-08	https://jobs.dev.by/vacancies/19211	Finstek
 2020-06-10	https://jobs.dev.by/vacancies/18114	Научсофт
@@ -645,6 +647,7 @@
 2020-06-10	https://www.belrabota.by/vacancy/drugoe/150279/	ИП Старостенко Наталья Алексеевна
 2020-06-24	https://jobs.dev.by/vacancies/16192	Smartym Pro
 2020-04-09	https://jobs.dev.by/vacancies/19460	Finstek
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149174/	ООО АскерВеб
 2020-04-23	https://careers.epam.by/careers/job-listings/job.24710	EPAM Systems
 2020-04-26	https://joblab.by/vac289377.html	ИП Киушкин А.В.
 2020-05-06	https://jobs.dev.by/vacancies/19699	Mitto
@@ -656,15 +659,15 @@
 2020-05-22	http://gsz.gov.by/ru/vacancy/1143124/	Атлант
 2020-05-27	https://joblab.by/vac291786.html	ООО "АскерВЕБ"
 2020-05-03	https://joblab.by/vac139908.html	Мобайл Сервис
-2020-04-02	http://gsz.gov.by/ru/vacancy/1113729/	Государственное Предприятие "Ик 12-Вал"
 2020-05-18	https://praca.by/vacancy/351557/	ОАО "Гомельская мебельная фабрика "Прогресс"
+2020-07-02	https://jobs.dev.by/vacancies/11942	Targetprocess
 2020-06-30	https://www.moyareklama.by/single/vacancy/209767517	ГУО "Гимназия №51 г.Гомеля"
 2020-06-19	https://jobs.dev.by/vacancies/19670	Profitero
 2020-06-30	http://gsz.gov.by/ru/vacancy/1131991/	Главное статистическое управление города Минска
+2020-07-02	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/145789/	ООО АскерВеб
 2020-07-01	https://jobs.dev.by/vacancies/17494	Bsl
 2020-06-23	https://jobs.dev.by/vacancies/18100	launchOptions
 2020-06-29	https://jobs.dev.by/vacancies/19667	Belhard
-2020-06-02	https://jobs.dev.by/vacancies/19666	1Pt
 2020-06-12	https://jobs.dev.by/vacancies/15072	DataMola
 2020-06-22	https://jobs.dev.by/vacancies/19669	Forte Group
 2020-04-30	https://jobs.dev.by/vacancies/19668	Truly Social Games
@@ -687,10 +690,9 @@
 2020-05-05	https://jobs.dev.by/vacancies/19681	Resilio BLR
 2020-06-15	https://praca.by/vacancy/355823/	Фирма Мока
 2020-07-01	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/48253/	БелХард Девелопмент
-2020-05-18	https://jobs.dev.by/vacancies/17264	Godel Technologies Europe
 2020-04-23	https://careers.epam.by/careers/job-listings/job.49815	EPAM Systems
 2020-06-29	http://gsz.gov.by/ru/vacancy/1091838/	Конструкторское бюро Дисплей
-2020-07-01	https://ludi.by/job/master-po-remontu-i-montazhu/	Центроэнергомонтаж
+2020-07-02	https://ludi.by/job/master-po-remontu-i-montazhu/	Центроэнергомонтаж
 2020-06-30	http://gsz.gov.by/ru/vacancy/998481/	Могилевский государственный политехнический колледж
 2020-04-10	http://gsz.gov.by/ru/vacancy/1088881/	ОАО "АГАТ-системы управления"- управляющая компания холдинга "Геоинформационные системы управления"
 2020-06-10	https://jobs.dev.by/vacancies/18108	Научсофт
@@ -714,6 +716,7 @@
 2020-06-23	https://jobs.dev.by/vacancies/19404	Appservice
 2020-05-11	https://joblab.by/vac246606.html	ООО "Виктория Мебель"
 2020-06-22	https://careers.epam.by/careers/job-listings/job.51099	EPAM Systems
+2020-07-02	http://gsz.gov.by/ru/vacancy/1167796/	ГУК "Гродненская областная научная библиотека имени Е.Ф. Карского
 2020-05-06	https://praca.by/vacancy/349836/	ООО "КейСтафф Рекрутмент"
 2020-04-27	https://joblab.by/vac289407.html	ООО "АскерВЕБ"
 2020-06-05	https://vitebsk.biz/rabota/vacancy/38526.a4762/	Лаборатория Икс
@@ -724,7 +727,6 @@
 2020-06-17	http://gsz.gov.by/ru/vacancy/1159353/	Унитарное предприятие "Центр социальных работ"
 2020-05-06	http://gsz.gov.by/ru/vacancy/1133600/	Докшицкий отдел Департамента охраны МВД РБ
 2020-05-29	https://joblab.by/vac15.html	БелХард
-2020-06-28	https://bobr.by/job/vacancy2/3690411	null
 2020-06-30	http://gsz.gov.by/ru/vacancy/1069852/	ГУО "Поречский ДС-СШ"
 2020-05-12	https://jobs.dev.by/vacancies/19411	Customertimes
 2020-06-05	https://jobs.dev.by/vacancies/19895	Finstek
@@ -755,6 +757,7 @@
 2020-05-12	https://jobs.dev.by/vacancies/19745	Synesis sport
 2020-07-01	https://joblab.by/vac295217.html	ООО "АйтиГарант"
 2020-06-18	https://jobs.dev.by/vacancies/19989	Akveo
+2020-07-02	http://gsz.gov.by/ru/vacancy/1167798/	ГУК "Гродненская областная научная библиотека имени Е.Ф. Карского
 2020-04-17	http://gsz.gov.by/ru/vacancy/1125361/	Республиканская Научная Медицинская Библиотека
 2020-06-22	https://joblab.by/vac294584.html	ООО "Верный курс Медиа"
 2020-07-02	https://ludi.by/job/inzhener-programmist-10/	Молоко
@@ -772,7 +775,6 @@
 2020-05-27	https://joblab.by/vac291789.html	ООО "АскерВЕБ"
 2020-04-29	https://praca.by/vacancy/348064/	ИП Маркевич Александра Алексеевна
 2020-04-23	https://careers.epam.by/careers/job-listings/job.48871	EPAM Systems
-2020-04-21	http://gsz.gov.by/ru/vacancy/1127018/	ОАО "Брестский автобусный парк"
 2020-06-16	https://jobs.dev.by/vacancies/19971	Affise
 2020-05-27	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/140706/	БелХард Девелопмент
 2020-06-16	https://jobs.dev.by/vacancies/19962	iCode
@@ -795,7 +797,6 @@
 2020-06-19	https://jobs.dev.by/vacancies/17310	ISsoft Solutions
 2020-06-16	https://jobs.dev.by/vacancies/18885	Abiatec
 2020-06-22	https://jobs.dev.by/vacancies/19974	IBA Group
-2020-06-30	https://jobs.dev.by/vacancies/18643	Start Matter
 2020-06-17	https://jobs.dev.by/vacancies/19977	Melsoft Games
 2020-06-17	https://jobs.dev.by/vacancies/19979	Resliv
 2020-05-27	https://riv.by/brest/svyaz-it-internet/vakansiya-70118.html	АскерВЕБ
@@ -829,7 +830,6 @@
 2020-06-05	https://careers.epam.by/careers/job-listings/job.45184	EPAM Systems
 2020-06-12	https://jobs.dev.by/vacancies/19949	WorkFusion
 2020-06-24	https://vitebsk.biz/rabota/vacancy/39494/	ООО «АскерВеб»
-2020-04-01	https://vitebsk.biz/rabota/vacancy/37954/	ИП Абушкевич А.А.
 2020-04-16	https://joblab.by/vac288701.html	ИП Прокопчик И.Л.
 2020-05-04	https://joblab.by/vac289573.html	ИП Нестеренко В.В.
 2020-04-23	https://careers.epam.by/careers/job-listings/job.46022	EPAM Systems
@@ -875,8 +875,8 @@
 2020-06-16	http://gsz.gov.by/ru/vacancy/1158478/	Белгосфилармония
 2020-07-01	https://www.moyareklama.by/single/vacancy/210063356	УО "Средняя школа № 41"
 2020-05-13	https://joblab.by/vac273848.html	Zoomos.By
-2020-06-10	https://praca.by/vacancy/352587/	ООО "ПТД ИМпласт"
 2020-06-11	https://jobs.dev.by/vacancies/19933	Texode Technologies
+2020-06-10	https://praca.by/vacancy/352587/	ООО "ПТД ИМпласт"
 2020-05-22	https://jobs.dev.by/vacancies/17997	Rovensys
 2020-06-01	https://joblab.by/vac292166.html	ООО "Карилья"
 2020-06-16	https://praca.by/vacancy/355961/	Ооо "Гравиго"
@@ -889,7 +889,6 @@
 2020-07-01	https://gderabota.by/vac/3333	ООО АскерВеб
 2020-07-01	https://gderabota.by/vac/3332	ООО АскерВеб
 2020-07-01	https://riv.by/minsk/svyaz-it-internet/vakansiya-68830.html	Ваумэйкинг
-2020-07-01	https://gderabota.by/vac/3331	ООО АскерВеб
 2020-07-01	https://gderabota.by/vac/3330	ООО АскерВеб
 2020-07-01	https://gderabota.by/vac/3334	ООО АскерВеб
 2020-04-10	http://gsz.gov.by/ru/vacancy/1042765/	Гаасу "Авиация"
@@ -899,6 +898,7 @@
 2020-06-16	http://gsz.gov.by/ru/vacancy/1120647/	Белтелеком
 2020-06-08	https://jobs.dev.by/vacancies/19904	ООО "Рифтэк"
 2020-06-29	https://riv.by/minsk/svyaz-it-internet/vakansiya-64329.html	БелХард Девелопмент
+2020-07-02	https://jobs.dev.by/vacancies/18814	ТКП-Софт
 2020-06-05	http://gsz.gov.by/ru/vacancy/1152844/	БГСХА
 2020-05-04	https://joblab.by/vac184707.html	ООО "Корпитек"
 2020-06-08	https://jobs.dev.by/vacancies/19905	Paralect
@@ -914,9 +914,8 @@
 2020-06-16	https://vitebsk.biz/rabota/vacancy/39302/	Лаборатория Икс
 2020-06-08	https://jobs.dev.by/vacancies/19910	Abiatec
 2020-06-09	https://jobs.dev.by/vacancies/19913	Яндекс
-2020-07-01	https://ludi.by/job/nachalnik-upravlenija-informacionnyh-tehnologij-i-svjazi/	Белтаможсервис
+2020-07-02	https://ludi.by/job/nachalnik-upravlenija-informacionnyh-tehnologij-i-svjazi/	Белтаможсервис
 2020-06-09	https://jobs.dev.by/vacancies/19915	Rednavis
-2020-04-01	https://joblab.by/vac287191.html	Wowmaking
 2020-05-27	https://riv.by/orsha/svyaz-it-internet/vakansiya-70116.html	АскерВЕБ
 2020-05-04	http://gsz.gov.by/ru/vacancy/1132222/	БГЭУ
 2020-06-08	https://praca.by/vacancy/346003/	Частное предприятие "МАСТРЕЙД"
@@ -935,11 +934,13 @@
 2020-04-04	http://gsz.gov.by/ru/vacancy/1059944/	Прудковская средняя школа Мозырского района
 2020-04-23	https://careers.epam.by/careers/job-listings/job.49315	EPAM Systems
 2020-04-23	https://careers.epam.by/careers/job-listings/job.49316	EPAM Systems
+2020-07-02	http://gsz.gov.by/ru/vacancy/1168185/	Оао "Бэз"
 2020-06-09	http://gsz.gov.by/ru/vacancy/1137751/	ГУО "Субочский учебно-педагогический комплекс детский сад - средняя школа"
 2020-05-21	http://gsz.gov.by/ru/vacancy/1142698/	Инспекция Мнс По Московскому Району
 2020-06-23	https://riv.by/minsk/ekspluataciya-stroitelstvo/vakansiya-70938.html	Архитектурно-проектное бюро Формат
 2020-04-23	https://careers.epam.by/careers/job-listings/job.50371	EPAM Systems
 2020-05-06	http://gsz.gov.by/ru/vacancy/1035200/	Речицкий комбинат хлебопродуктов
+2020-07-02	https://jobs.dev.by/vacancies/17953	Evolution Gaming
 2020-05-27	https://riv.by/borisov/svyaz-it-internet/vakansiya-70110.html	АскерВЕБ
 2020-06-22	http://gsz.gov.by/ru/vacancy/1161358/	МГУ имени А.А.Кулешова
 2020-06-21	https://praca.by/vacancy/356658/	ООО "ЭнниМаркетОнлайн"
@@ -963,36 +964,36 @@
 2020-07-01	https://jobs.dev.by/vacancies/12486	ID Finance
 2020-07-01	http://gsz.gov.by/ru/vacancy/1166999/	ОАО "Банк Дабрабыт"
 2020-04-17	https://praca.by/vacancy/347682/	Камволь
-2020-06-09	http://gsz.gov.by/ru/vacancy/1084455/	Свислочская районная библиотека
 2020-06-09	http://gsz.gov.by/ru/vacancy/895682/	ОАО "Сморгонский завод оптического станкостроения"
 2020-06-26	https://bobr.by/job/vacancy2/3681055	null
+2020-07-02	https://jobs.dev.by/vacancies/20080	GP Solutions
 2020-04-27	https://joblab.by/vac289406.html	ООО "АскерВЕБ"
 2020-05-15	https://jobs.dev.by/vacancies/19093	БПС-Сбербанк
 2020-06-10	http://gsz.gov.by/ru/vacancy/1155560/	Осиповичский Рупс
 2020-04-23	https://careers.epam.by/careers/job-listings/job.42731	EPAM Systems
+2020-07-02	https://jobs.dev.by/vacancies/20079	ООО "АпГруп"
 2020-06-26	https://riv.by/pinsk/svyaz-it-internet/vakansiya-54643.html	Креативная студия АникА
+2020-07-02	https://jobs.dev.by/vacancies/20074	Highcore Games
 2020-06-08	https://jobs.dev.by/vacancies/17903	CleverLabs
 2020-07-01	https://jobs.dev.by/vacancies/20072	Teqniksoft
 2020-06-19	http://gsz.gov.by/ru/vacancy/1145196/	Инспекция МНС по г. Минску
 2020-06-25	https://joblab.by/vac295037.html	ООО "АС Форос"
 2020-07-01	https://jobs.dev.by/vacancies/20071	SolbegSoft
+2020-07-02	https://jobs.dev.by/vacancies/20078	Start Matter
 2020-04-23	https://careers.epam.by/careers/job-listings/job.16208	EPAM Systems
+2020-07-02	https://jobs.dev.by/vacancies/20077	Godel Technologies Europe
 2020-04-13	https://praca.by/vacancy/347027/	ИП Слободчик Ольга Николаевна
+2020-07-02	https://jobs.dev.by/vacancies/20076	Брайт Солюшенз
 2020-04-23	https://careers.epam.by/careers/job-listings/job.30512	EPAM Systems
 2020-05-13	https://praca.by/vacancy/102927/	ИП Целинин Игорь Аркадьевич
 2020-04-24	http://gsz.gov.by/ru/vacancy/1129676/	ГУО "Средняя школа № 5 г. Светлогорска"
 2020-06-17	http://gsz.gov.by/ru/vacancy/1159309/	ГУО "Гимназия №9 им. Ф.П.Кириченко г.Гродно"
-2020-07-01	https://gderabota.by/vac/3326	ООО АскерВеб
-2020-07-01	https://gderabota.by/vac/3325	ООО АскерВеб
 2020-04-15	http://gsz.gov.by/ru/vacancy/1122732/	ООО "Инком интер"
-2020-07-01	https://gderabota.by/vac/3324	ООО АскерВеб
 2020-04-03	http://gsz.gov.by/ru/vacancy/1114871/	АСБ Беларусбанк
-2020-07-01	https://gderabota.by/vac/3323	ООО АскерВеб
 2020-05-20	https://praca.by/vacancy/351936/	ИП Клочко Наталья Анатольевна
-2020-07-01	https://gderabota.by/vac/3329	ООО АскерВеб
 2020-04-09	https://joblab.by/vac288055.html	ОДО "Проектное бюро г. Борисов"
-2020-07-01	https://gderabota.by/vac/3328	ООО АскерВеб
 2020-07-01	https://gderabota.by/vac/3327	ООО АскерВеб
 2020-06-10	https://joblab.by/vac293269.html	ИП Гречанюк В.С.
+2020-07-02	https://jobs.dev.by/vacancies/20082	SolbegSoft
 2020-05-15	http://gsz.gov.by/ru/vacancy/1139738/	Национальное кадастровое агентство
 2020-06-23	https://www.moyareklama.by/single/vacancy/209449907	ООО "Бостил сапарт"
