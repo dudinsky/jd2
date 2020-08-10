@@ -86,6 +86,7 @@
 2020-08-07	https://jobs.dev.by/vacancies/20373	Wargaming.net
 2020-08-07	https://jobs.dev.by/vacancies/20372	Wargaming.net
 2019-07-29	https://joblab.by/vac173070.html	ООО "Скролл Медиа Солюшнс"
+2019-05-21	https://joblab.by/vac224733.html	Игмавира
 2020-07-30	http://gsz.gov.by/ru/vacancy/1057244/	Витебский государственный индустриально-технологический колледж
 2020-07-13	https://jobs.dev.by/vacancies/20148	Вайзор Геймз
 2020-07-13	https://jobs.dev.by/vacancies/20147	SolbegSoft
@@ -101,7 +102,6 @@
 2020-07-21	https://riv.by/minsk/svyaz-it-internet/vakansiya-56974.html	АрмСтронг Групп
 2020-08-04	https://www.moyareklama.by/single/vacancy/209274079	Зачетка
 2020-07-13	http://gsz.gov.by/ru/vacancy/1154685/	Белметалл
-2020-06-11	https://jobisto.by/v/qvvk/5dz8dg?utm_campaign=aggregators&utm_source=belmeta.com&utm_medium=organic	ООО СофтМикс-системс
 2019-09-12	https://joblab.by/vac215278.html	Игмавира
 2020-04-30	https://joblab.by/vac225937.html	ООО "Корпитек"
 2020-06-16	https://joblab.by/vac283216.html	ООО "СтаффБай"
@@ -114,7 +114,6 @@
 2020-07-14	https://careers.epam.by/careers/job-listings/job.51372	EPAM Systems
 2020-07-30	https://riv.by/mozyr/svyaz-it-internet/vakansiya-67280.html	Мозырский ДОК
 2020-08-06	https://jobs.dev.by/vacancies/20359	LeverX International
-2020-07-09	https://jobs.dev.by/vacancies/20116	Afrans
 2019-12-05	https://joblab.by/vac257901.html	ЧП "Гарантшинсервис"
 2020-01-30	https://joblab.by/vac259615.html	ООО "Мишель стиль"
 2020-07-27	http://gsz.gov.by/ru/vacancy/1130230/	Моготекс
@@ -237,7 +236,6 @@
 2020-07-22	https://jobs.dev.by/vacancies/19786	SolbegSoft
 2020-07-22	https://jobs.dev.by/vacancies/18455	ib.by
 2020-07-22	https://jobs.dev.by/vacancies/19788	SolbegSoft
-2020-07-09	https://jobs.dev.by/vacancies/16038	Applied Systems
 2020-07-13	http://gsz.gov.by/ru/vacancy/807226/	Буда-Кошелевский РОО
 2020-08-04	http://gsz.gov.by/ru/vacancy/1186805/	Филиал "Пружанские электрические сети" РУП "Брестэнерго"
 2020-07-31	http://gsz.gov.by/ru/vacancy/1184935/	АСБ Беларусбанк
@@ -532,7 +530,6 @@
 2020-07-30	https://jobs.dev.by/vacancies/19296	Arkvit
 2020-02-11	https://jobs.dev.by/vacancies/19053	НьюАпекс
 2020-07-01	https://joblab.by/vac295644.html	ОДО "Мастак-сервис"
-2020-07-09	https://jobs.dev.by/vacancies/19055	Eis
 2020-07-23	https://www.moyareklama.by/single/vacancy/209783415	ООО "УчетАнализАудит"
 2020-07-28	https://jobs.dev.by/vacancies/20279	"SpurIT"
 2020-07-28	https://jobs.dev.by/vacancies/20278	RINGL Technologies
@@ -624,8 +621,8 @@
 2020-07-31	https://careers.epam.by/careers/job-listings/job.51020	EPAM Systems
 2020-07-22	https://jobs.dev.by/vacancies/20249	Kontur
 2020-06-09	http://gsz.gov.by/ru/vacancy/1154565/	ГУО «Средняя школа № 8 г. Кричева»
-2020-07-22	https://jobs.dev.by/vacancies/20001	Smartym Pro
 2020-07-22	https://jobs.dev.by/vacancies/20243	EVOKE Systems
+2020-07-22	https://jobs.dev.by/vacancies/20001	Smartym Pro
 2020-03-30	https://joblab.by/vac286948.html	ИП Ермачков В.О.
 2020-05-27	https://joblab.by/vac291778.html	ООО "АскерВЕБ"
 2020-07-22	https://jobs.dev.by/vacancies/20240	Ciklum
@@ -697,8 +694,8 @@
 2020-07-20	https://jobs.dev.by/vacancies/20209	iMedia Solutions
 2020-04-09	https://jobs.dev.by/vacancies/19460	Finstek
 2020-07-31	https://vitebsk.biz/rabota/vacancy/40431/	ДевБрэйн
-2020-04-23	https://careers.epam.by/careers/job-listings/job.24710	EPAM Systems
 2020-04-26	https://joblab.by/vac289377.html	ИП Киушкин А.В.
+2020-04-23	https://careers.epam.by/careers/job-listings/job.24710	EPAM Systems
 2020-07-17	https://jobs.dev.by/vacancies/20202	ООО "Эдтехсофт"
 2020-05-06	https://jobs.dev.by/vacancies/19699	Mitto
 2020-07-17	https://jobs.dev.by/vacancies/20200	НьюАпекс
@@ -978,6 +975,7 @@
 2020-07-31	https://careers.epam.by/careers/job-listings/job.42731	EPAM Systems
 2020-07-16	https://jobs.dev.by/vacancies/7179	ТКП-Софт
 2020-06-26	https://riv.by/pinsk/svyaz-it-internet/vakansiya-54643.html	Креативная студия АникА
+2019-07-20	https://vitebsk.biz/rabota/vacancy/30222/	Ооо «Ивина»
 2020-07-27	https://jobs.dev.by/vacancies/20073	Klika Tech
 2020-07-17	https://jobs.dev.by/vacancies/17903	CleverLabs
 2020-06-25	https://joblab.by/vac295037.html	ООО "АС Форос"
