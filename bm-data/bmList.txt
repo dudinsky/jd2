@@ -42,6 +42,7 @@
 2019-09-23	https://joblab.by/vac250130.html	Филиал УЧПП "КУВО", г.Могилев
 2020-07-24	https://jobs.dev.by/vacancies/20155	Coinmatics
 2020-06-03	http://gsz.gov.by/ru/vacancy/1139206/	Государственное предприятие "Теплоэнергетика г. Бобруйск"
+2020-08-18	https://jobs.dev.by/vacancies/20396	Lemel Labs
 2020-05-15	https://joblab.by/vac290790.html	ЧП "Спорт-идея"
 2020-07-24	https://joblab.by/vac294856.html	ООО "АС Форос"
 2020-07-28	https://www.moyareklama.by/single/vacancy/210178971	ООО "АскерВЕБ"
@@ -60,7 +61,6 @@
 2020-08-04	https://www.moyareklama.by/single/vacancy/209587686	КУП "Расчётно-справочный центр г. Гомеля"
 2020-08-12	http://gsz.gov.by/ru/vacancy/1018563/	ГУО "Островецкий центр творчества детей и молодежи"
 2020-08-04	https://riv.by/minsk/svyaz-it-internet/vakansiya-66770.html	Ваумэйкинг
-2020-07-23	http://gsz.gov.by/ru/vacancy/1180426/	Учреждение здравоохранения "Кореличская центральная районная больница"
 2019-09-12	https://joblab.by/vac213798.html	Игмавира
 2020-06-14	https://joblab.by/vac226423.html	Мобайл Сервис
 2020-03-27	https://jobs.dev.by/vacancies/19390	Scand
@@ -126,7 +126,7 @@
 2020-08-07	https://jobs.dev.by/vacancies/20367	Rubyroid Labs
 2020-07-10	https://jobs.dev.by/vacancies/20123	SoftSwiss
 2020-07-16	https://jobs.dev.by/vacancies/20129	Ciklum
-2020-08-17	https://ludi.by/job/mladshij-razrabotchik-magento-junior-magento-developer/	Скандивеб Бел ООО
+2020-08-18	https://ludi.by/job/mladshij-razrabotchik-magento-junior-magento-developer/	Скандивеб Бел ООО
 2020-08-07	https://jobs.dev.by/vacancies/20369	ООО "ХС Роботикс"
 2020-08-10	http://gsz.gov.by/ru/vacancy/1085603/	Могилевский мясокомбинат
 2020-08-12	https://jobs.dev.by/vacancies/20364	Lansoft
@@ -139,8 +139,6 @@
 2020-03-04	https://jobs.dev.by/vacancies/18024	Scand
 2020-08-04	https://jobs.dev.by/vacancies/20334	Smart IT
 2020-08-04	https://jobs.dev.by/vacancies/20333	Softacom
-2020-08-04	https://jobs.dev.by/vacancies/20332	Owls' Group
-2020-05-28	https://jobs.dev.by/vacancies/19349	On The Spot Development
 2020-01-10	https://vitebsk.biz/rabota/vacancy/35541/	ИП Микула
 2020-08-04	https://jobs.dev.by/vacancies/20331	Owls' Group
 2020-08-13	http://gsz.gov.by/ru/vacancy/1052697/	УО "Волковысский государственный аграрный колледж"
@@ -157,7 +155,7 @@
 2020-07-20	https://jobs.dev.by/vacancies/19356	Exposit
 2020-08-05	https://jobs.dev.by/vacancies/20345	ISsoft Solutions
 2020-07-29	https://jobs.dev.by/vacancies/20101	ISsoft Solutions
-2020-08-17	https://ludi.by/job/menedzher-po-rabote-s-klientami-hr-udalennaja-rabota/	Online Marketing
+2020-08-18	https://ludi.by/job/menedzher-po-rabote-s-klientami-hr-udalennaja-rabota/	Online Marketing
 2020-07-30	https://riv.by/mozyr/svyaz-it-internet/vakansiya-70951.html	Мозырский ДОК
 2020-07-24	https://jobs.dev.by/vacancies/20107	Axiom Connected
 2020-08-05	https://jobs.dev.by/vacancies/20349	VRP Consulting
@@ -181,7 +179,7 @@
 2020-07-31	https://jobs.dev.by/vacancies/20313	iMedia Solutions
 2020-08-17	http://gsz.gov.by/ru/vacancy/1194147/	Могилёвская поликлиника № 10
 2020-07-31	https://jobs.dev.by/vacancies/20311	1Pt
-2020-08-17	https://jobs.dev.by/vacancies/20317	GP Solutions
+2020-08-18	https://jobs.dev.by/vacancies/20317	GP Solutions
 2020-08-13	https://jobs.dev.by/vacancies/20316	ООО "ЕвроЛомбард"
 2020-02-20	https://joblab.by/vac280879.html	ООО "РИА "Калипсо"
 2020-08-05	https://jobs.dev.by/vacancies/20315	Profitero
@@ -332,7 +330,7 @@
 2020-07-30	https://www.moyareklama.by/single/vacancy/206632267	ЧТУП "Вираж и к "
 2020-07-14	https://jobs.dev.by/vacancies/19613	Forte Group
 2020-07-13	https://jobs.dev.by/vacancies/19859	Масштабные решения
-2020-08-17	https://joblab.by/vac301767.html	ИП Пачков Евгений Андреевич
+2020-08-18	https://joblab.by/vac301767.html	ИП Пачков Е.А.
 2020-02-04	https://joblab.by/vac274381.html	ООО "Идеал Моторс"
 2020-07-24	http://gsz.gov.by/ru/vacancy/1180594/	Гимназия №1 г.Дятлово
 2020-08-12	http://gsz.gov.by/ru/vacancy/1186735/	УО "Гродненский государственный университет имени Янки Купалы"
@@ -343,6 +341,7 @@
 2020-08-11	http://gsz.gov.by/ru/vacancy/1187824/	МАЗ управляющая компания холдинга БелавтоМАЗ
 2020-08-12	https://jobs.dev.by/vacancies/19829	On The Spot Development
 2020-08-17	https://riv.by/minsk/svyaz-it-internet/vakansiya-68483.html	ДевБрэйн
+2020-08-18	http://gsz.gov.by/ru/vacancy/1195000/	Белсудэкспертобеспечение
 2020-08-14	http://gsz.gov.by/ru/vacancy/1134496/	УКП Магазин N: 1 "Дом торговли" г. Лида
 2020-02-05	https://joblab.by/vac167660.html	Стальная линия
 2020-08-06	http://gsz.gov.by/ru/vacancy/1189387/	Инспекция МНС по Октябрьскому району г.Могилева
@@ -376,12 +375,12 @@
 2020-06-09	https://joblab.by/vac251286.html	ООО "АкриКам"
 2020-08-04	https://www.moyareklama.by/single/vacancy/207559783	Ооо "Хайтек Системс"
 2020-07-28	https://joblab.by/vac136280.html	ООО "Скролл Медиа Солюшнс"
-2020-08-17	https://ludi.by/job/razrabotchik-pwa-pwa-developer/	Скандивеб Бел ООО
+2020-08-18	https://ludi.by/job/razrabotchik-pwa-pwa-developer/	Скандивеб Бел ООО
 2020-07-31	https://careers.epam.by/careers/job-listings/job.48783	EPAM Systems
 2019-10-10	https://joblab.by/vac252319.html	ООО "Футураутфит"
 2020-05-20	https://jobs.dev.by/vacancies/19813	Intetics
-2020-06-22	https://riv.by/minsk/svyaz-it-internet/vakansiya-70873.html	Верный курс Медиа
 2020-06-23	https://vitebsk.biz/rabota/vacancy/39481/	Школа программирования для детей CODDY
+2020-06-22	https://riv.by/minsk/svyaz-it-internet/vakansiya-70873.html	Верный курс Медиа
 2020-02-07	https://vitebsk.biz/rabota/vacancy/36480/	ИП Кляус
 2020-04-21	https://vitebsk.biz/rabota/vacancy/38247/	ДевБрэйн
 2020-02-17	https://gderabota.by/vac/1273	Melsoft Games
@@ -404,7 +403,7 @@
 2020-07-13	https://joblab.by/vac297086.html	ЗАО "СМУ №7 г.Лида"
 2020-01-28	https://joblab.by/vac270439.html	ИП Медникова А.Л.
 2020-07-08	https://careers.epam.by/careers/job-listings/job.51318	EPAM Systems
-2020-07-29	http://gsz.gov.by/ru/vacancy/1183463/	Унитарное предприятие "Центр социальных работ"
+2020-08-18	http://gsz.gov.by/ru/vacancy/1183463/	Унитарное предприятие "Центр социальных работ"
 2020-03-17	https://joblab.by/vac285783.html	Гризли Диджитал Компани
 2020-06-25	https://joblab.by/vac295035.html	ООО "АС Форос"
 2020-07-15	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/71714/	БелХард
@@ -426,6 +425,7 @@
 2020-07-31	http://gsz.gov.by/ru/vacancy/1185118/	Ольса
 2020-05-30	https://joblab.by/vac292026.html	ОДО "Проектное бюро г. Борисов"
 2019-10-24	https://joblab.by/vac218506.html	Bostil Support
+2020-08-18	http://gsz.gov.by/ru/vacancy/1195062/	ИП Завьялова Екатерина Александровна
 2020-08-14	http://gsz.gov.by/ru/vacancy/1192893/	Уо « Вгптк Лп"
 2020-06-04	http://gsz.gov.by/ru/vacancy/1150655/	Гимназия №3
 2020-08-04	https://riv.by/minsk/svyaz-it-internet/vakansiya-64942.html	Ваумэйкинг
@@ -436,16 +436,15 @@
 2019-10-10	https://joblab.by/vac252261.html	ООО "Футураутфит"
 2020-08-06	http://gsz.gov.by/ru/vacancy/1137763/	Чериковский РЦСОН
 2019-10-15	https://joblab.by/vac251000.html	ОДО "Брестмедиа"
-2020-08-03	https://riv.by/minsk/svyaz-it-internet/vakansiya-72422.html	Средняя школа № 169
-2020-06-22	https://joblab.by/vac294465.html	ГУО "Средняя школа №169 г. Минска"
-2020-06-23	https://riv.by/brest/svyaz-it-internet/vakansiya-63810.html	Белтаможсервис
 2020-07-31	https://careers.epam.by/careers/job-listings/job.42802	EPAM Systems
+2020-08-18	https://riv.by/brest/svyaz-it-internet/vakansiya-63810.html	Белтаможсервис
 2020-06-18	https://www.moyareklama.by/single/vacancy/210044929	ГП "Советское"
 2020-04-27	https://joblab.by/vac289408.html	ООО "АскерВЕБ"
 2020-06-03	https://joblab.by/vac292363.html	ИП Мулярчук Е.Ф.
 2019-07-22	https://joblab.by/vac69483.html	БелХард
-2020-08-17	https://ludi.by/job/programmist/	Санаторий Альфа Радон
+2020-08-18	https://ludi.by/job/programmist/	Санаторий Альфа Радон
 2019-10-25	https://joblab.by/vac217504.html	Искусство созидания
+2020-08-18	https://jobs.dev.by/vacancies/16506	Onde
 2020-08-17	http://gsz.gov.by/ru/vacancy/1194081/	Евроопт
 2020-08-03	http://gsz.gov.by/ru/vacancy/512080/	ГУ "Территориальный центр социального обслуживания населения Россонского района"
 2020-01-23	https://joblab.by/vac267785.html	ИП Кутузова Л.А.
@@ -467,12 +466,12 @@
 2020-07-31	http://gsz.gov.by/ru/vacancy/1052150/	Толочинская централизованная библиотечная система
 2020-04-27	https://joblab.by/vac289401.html	ООО "АскерВЕБ"
 2019-10-23	https://joblab.by/vac173059.html	ООО "Скролл Медиа Солюшнс"
+2020-08-18	https://joblab.by/vac301920.html	ЧУП "Электрон Мастер"
 2020-08-10	http://gsz.gov.by/ru/vacancy/1082112/	Стравита
 2020-07-17	https://jobs.dev.by/vacancies/20192	Banuba
 2020-08-07	https://joblab.by/vac300732.html	ООО "СлавПак"
 2020-07-27	https://jobs.dev.by/vacancies/20196	ООО “Йондер Медиа Мобайл БиУай"
 2020-07-02	https://vitebsk.biz/rabota/vacancy/31091.cfe60/	ЧТУП «Доктор Моторс»
-2020-08-11	http://gsz.gov.by/ru/vacancy/1188628/	Минский Завод Колесных Тягачей
 2020-08-17	https://riv.by/minsk/svyaz-it-internet/vakansiya-56709.html	БелХард
 2020-06-24	https://joblab.by/vac294854.html	ООО "АС Форос"
 2020-01-15	https://joblab.by/vac261659.html	ООО "Нетекс Консалтинг"
@@ -512,7 +511,6 @@
 2020-06-16	https://riv.by/minsk/ekonomika-predpriyatiya/vakansiya-70662.html	Ас-Эфк
 2020-07-30	http://gsz.gov.by/ru/vacancy/1184288/	ООО "Детейл Софт"
 2020-07-06	https://www.belrabota.by/vacancy/dizayn-verstka-smi-massmedia-poligrafiya/dizayner-4/152566/	ООО "Виктория Мебель"
-2020-08-04	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/administrator-6/153710/	Искусство созидания
 2020-05-21	https://jobs.dev.by/vacancies/19052	НьюАпекс
 2020-06-03	https://joblab.by/vac289537.html	ИП Дымар А.Д.
 2020-07-31	https://careers.epam.by/careers/job-listings/job.44715	EPAM Systems
@@ -523,13 +521,13 @@
 2020-07-28	https://jobs.dev.by/vacancies/20279	"SpurIT"
 2020-07-28	https://jobs.dev.by/vacancies/20278	RINGL Technologies
 2020-07-28	https://jobs.dev.by/vacancies/20277	RINGL Technologies
-2020-08-17	https://ludi.by/job/programmist-3/	Санаторий Альфа Радон
+2020-08-18	https://ludi.by/job/programmist-3/	Санаторий Альфа Радон
 2020-07-27	https://jobs.dev.by/vacancies/20272	ExonIT
 2020-08-12	https://jobs.dev.by/vacancies/20270	SplitmediaLabs
 2020-07-27	https://jobs.dev.by/vacancies/20033	Амариллис Солюшнс
-2020-07-27	https://jobs.dev.by/vacancies/20274	Плэйтика Бел
 2020-08-06	https://jobs.dev.by/vacancies/20032	Амариллис Солюшнс
 2020-08-14	http://gsz.gov.by/ru/vacancy/1193138/	Руп "Главный Расчетный Информационный Центр" Бжд
+2020-08-18	https://jobs.dev.by/vacancies/20274	Плэйтика Бел
 2020-01-05	http://gsz.gov.by/ru/vacancy/975580/	Конюховский ясли-сад - средняя школа
 2020-07-30	http://gsz.gov.by/ru/vacancy/1112282/	Банк ВТБ Беларусь
 2019-09-12	https://joblab.by/vac199488.html	Игмавира
@@ -539,7 +537,7 @@
 2020-07-31	https://joblab.by/vac299719.html	ООО "АртБрэин"
 2020-07-23	http://gsz.gov.by/ru/vacancy/1016591/	ОАО "НИКА" г.Витебск
 2020-07-29	https://jobs.dev.by/vacancies/20288	Ciklum
-2020-08-17	https://ludi.by/job/programmist-2/	Санаторий Альфа Радон
+2020-08-18	https://ludi.by/job/programmist-2/	Санаторий Альфа Радон
 2020-06-05	https://careers.epam.by/careers/job-listings/job.49155	EPAM Systems
 2020-06-24	https://jobs.dev.by/vacancies/20041	Ciklum
 2020-07-28	https://jobs.dev.by/vacancies/20282	PST Labs LLC
@@ -555,7 +553,7 @@
 2020-05-20	http://gsz.gov.by/ru/vacancy/1112287/	Банк ВТБ Беларусь
 2020-08-07	http://gsz.gov.by/ru/vacancy/1189756/	ООО "Зов-плита"
 2020-08-12	http://gsz.gov.by/ru/vacancy/1036952/	Чуо "Институт Современных Знаний Имени А.М.Широкова"
-2020-08-17	https://ludi.by/job/programmist-6/	Санаторий Альфа Радон
+2020-08-18	https://ludi.by/job/programmist-6/	Санаторий Альфа Радон
 2020-07-24	https://jobs.dev.by/vacancies/20257	АлюсофтБел
 2020-06-03	https://joblab.by/vac292370.html	ИП Мулярчук Е.Ф.
 2020-08-17	https://joblab.by/vac301677.html	ООО "Торговый дом "Радуга-свет"
@@ -570,7 +568,7 @@
 2020-08-07	http://gsz.gov.by/ru/vacancy/1002363/	Дотишская средняя школа
 2020-07-23	https://jobs.dev.by/vacancies/20251	Системные технологии
 2020-07-31	https://careers.epam.by/careers/job-listings/job.45853	EPAM Systems
-2020-08-17	https://ludi.by/job/programmist-5/	Санаторий Альфа Радон
+2020-08-18	https://ludi.by/job/programmist-5/	Санаторий Альфа Радон
 2020-07-31	https://careers.epam.by/careers/job-listings/job.43435	EPAM Systems
 2020-05-27	https://joblab.by/vac291787.html	ООО "АскерВЕБ"
 2020-05-07	https://joblab.by/vac289924.html	ИП Саксон Т.И. (Anli)
@@ -580,7 +578,7 @@
 2020-07-27	https://jobs.dev.by/vacancies/20267	Visutech Plating
 2020-08-17	https://riv.by/minsk/smi-foto-video/vakansiya-56788.html	БелХард
 2020-06-24	http://gsz.gov.by/ru/vacancy/1043224/	БГУФК
-2020-08-17	https://ludi.by/job/programmist-4/	Санаторий Альфа Радон
+2020-08-18	https://ludi.by/job/programmist-4/	Санаторий Альфа Радон
 2020-06-23	https://jobs.dev.by/vacancies/20022	Яндекс
 2020-06-23	https://jobs.dev.by/vacancies/20021	GlowByte Consulting
 2020-07-31	https://careers.epam.by/careers/job-listings/job.43667	EPAM Systems
@@ -622,6 +620,7 @@
 2020-01-09	https://joblab.by/vac13.html	БелХард
 2020-04-10	https://jobs.dev.by/vacancies/19472	Banuba
 2020-07-20	https://jobs.dev.by/vacancies/20219	АтлантКонсалт
+2020-08-18	http://gsz.gov.by/ru/vacancy/1155611/	Леор Пластик
 2019-11-01	https://joblab.by/vac254462.html	ЧУ ДОВ "Учебный центр 7 ОБРАЗОВ"
 2020-08-13	http://gsz.gov.by/ru/vacancy/1170056/	Бизнес-центр Столица
 2020-08-06	https://jobs.dev.by/vacancies/19225	Finstek
@@ -633,7 +632,7 @@
 2020-02-07	http://gsz.gov.by/ru/vacancy/1076284/	ГУО "Шерешевская СШ"
 2020-06-12	https://www.moyareklama.by/single/vacancy/210121098	ИП Алешкевич И. А.
 2020-07-22	https://jobs.dev.by/vacancies/20215	LeverX International
-2020-08-17	https://ludi.by/job/starshij-razrabotchik-magento-senior-magento-developer/	Скандивеб Бел ООО
+2020-08-18	https://ludi.by/job/starshij-razrabotchik-magento-senior-magento-developer/	Скандивеб Бел ООО
 2020-05-27	https://joblab.by/vac291781.html	ООО "АскерВЕБ"
 2020-06-24	https://joblab.by/vac294853.html	ООО "АС Форос"
 2020-07-20	https://jobs.dev.by/vacancies/20210	LeverX International
@@ -647,7 +646,6 @@
 2020-05-07	https://joblab.by/vac282576.html	ЧТУП "Руптела"
 2020-07-20	https://jobs.dev.by/vacancies/20224	LeverX International
 2020-07-20	https://jobs.dev.by/vacancies/20223	LeverX International
-2020-07-20	https://jobs.dev.by/vacancies/20222	Akveo
 2020-07-20	https://jobs.dev.by/vacancies/20228	LeverX International
 2020-01-09	https://vitebsk.biz/rabota/vacancy/35663/	ИП Кузнецов С.В.
 2020-07-20	https://jobs.dev.by/vacancies/20221	LeverX International
@@ -702,6 +700,7 @@
 2020-02-21	https://joblab.by/vac209601.html	ООО "Скролл Медиа Солюшнс"
 2020-07-28	https://vmogileve.by/rabota/vacancy/4866/	Ооо «Мама Дома»
 2020-08-13	http://gsz.gov.by/ru/vacancy/1084508/	Государственное учреждение образования "Средняя школа №2 г.п. Россь"
+2020-08-18	http://gsz.gov.by/ru/vacancy/1195007/	Белсудэкспертобеспечение
 2020-05-12	https://joblab.by/vac289538.html	ИП Дымар А.Д.
 2020-04-23	https://careers.epam.by/careers/job-listings/job.45214	EPAM Systems
 2020-07-31	https://careers.epam.by/careers/job-listings/job.21266	EPAM Systems
@@ -745,26 +744,29 @@
 2020-03-04	https://joblab.by/vac283875.html	ООО "Образование за границей"
 2020-06-03	http://gsz.gov.by/ru/vacancy/1150256/	Могилевдрев
 2020-07-28	https://vitebsk.biz/rabota/vacancy/40342/	Средняя школа 12
+2020-08-19	https://jobs.dev.by/vacancies/20407	SolbegSoft
+2020-08-18	https://jobs.dev.by/vacancies/20406	Owls' Group
 2020-07-17	https://joblab.by/vac15.html	БелХард
 2020-06-30	http://gsz.gov.by/ru/vacancy/1069852/	ГУО "Поречский ДС-СШ"
 2020-05-12	https://jobs.dev.by/vacancies/19411	Customertimes
 2020-06-05	https://jobs.dev.by/vacancies/19895	Finstek
 2020-05-12	https://jobs.dev.by/vacancies/19413	Customertimes
+2020-08-18	https://jobs.dev.by/vacancies/20405	Букмекерская компания Maxline
 2020-05-15	https://jobs.dev.by/vacancies/19415	Customertimes
 2020-07-24	https://vitebsk.biz/rabota/vacancy/40257/	ООО «АскерВеб»
+2020-08-18	https://jobs.dev.by/vacancies/20404	Geomotiv
 2019-09-15	https://joblab.by/vac235420.html	ООО "Тиква Групп"
-2020-08-03	https://joblab.by/vac300074.html	ЗАО "Х-Крафт"
+2020-08-18	https://joblab.by/vac300074.html	ЗАО "Х-Крафт"
 2020-08-06	https://joblab.by/vac300609.html	ООО "Спектр-Лайн"
 2020-08-03	http://gsz.gov.by/ru/vacancy/335839/	Россонская ЦРБ
 2020-08-04	https://jobs.dev.by/vacancies/19991	Inspectorio
 2019-10-10	https://joblab.by/vac252340.html	ООО "Футураутфит"
 2020-08-05	http://gsz.gov.by/ru/vacancy/1187395/	Атлант
-2020-07-20	https://jobs.dev.by/vacancies/19992	Coinmatics
 2020-08-13	http://gsz.gov.by/ru/vacancy/1088747/	Белорусская Валютно-Фондовая Биржа
+2020-08-18	https://jobs.dev.by/vacancies/19500	Firedome
 2020-07-01	https://jobs.dev.by/vacancies/19986	ArasCorp Development Center
-2020-06-12	https://riv.by/grodno/svyaz-it-internet/vakansiya-69910.html	Консалт
-2020-06-22	https://joblab.by/vac284469.html	ООО "АС Форос"
 2020-06-17	https://jobs.dev.by/vacancies/19985	Scand
+2020-06-22	https://joblab.by/vac284469.html	ООО "АС Форос"
 2020-05-12	https://jobs.dev.by/vacancies/19745	Synesis sport
 2020-07-01	https://joblab.by/vac295217.html	ООО "АйтиГарант"
 2019-09-24	https://joblab.by/vac250380.html	ООО "Ньюпэкс"
@@ -776,7 +778,6 @@
 2020-05-27	https://joblab.by/vac291782.html	ООО "АскерВЕБ"
 2020-07-23	https://jobs.dev.by/vacancies/16494	ООО "Софткорп"
 2020-07-21	https://jobs.dev.by/vacancies/19995	Onilab
-2020-07-30	https://jobs.dev.by/vacancies/19511	Banuba
 2019-09-12	https://joblab.by/vac199483.html	Игмавира
 2020-07-24	https://jobs.dev.by/vacancies/19515	Forte Group
 2020-05-13	https://jobs.dev.by/vacancies/19758	Melsoft Games
@@ -799,7 +800,6 @@
 2020-07-29	http://gsz.gov.by/ru/vacancy/1138292/	ОАО "Красный Мозырянин"
 2019-10-16	http://gsz.gov.by/ru/vacancy/1004043/	УО "Пинский государственный профессиональный лицей сельскохозяйственного производства"
 2019-11-21	https://joblab.by/vac256497.html	ООО "Фиджи-Кофе"
-2020-08-04	https://vitebsk.biz/rabota/vacancy/40132/	НПЦ «Спецсистема»
 2020-08-13	http://gsz.gov.by/ru/vacancy/1107820/	Областной спортивный комплекс "Брестский"
 2020-07-24	https://jobs.dev.by/vacancies/19982	On The Spot Development
 2019-09-13	https://joblab.by/vac248679.html	Филиал "Жлобинавтотранс" ОАО "Гомельоблавтотранс"
@@ -818,7 +818,7 @@
 2020-08-12	http://gsz.gov.by/ru/vacancy/1060900/	УО "Щучинский государственный сельскохозяйственный профессиональный лицей"
 2020-06-10	https://joblab.by/vac293203.html	ООО "АкриКам"
 2020-06-04	https://jobs.dev.by/vacancies/17764	Viber
-2020-08-04	https://joblab.by/vac298275.html	Искусство созидания
+2020-08-18	https://joblab.by/vac298275.html	Искусство созидания
 2020-07-24	https://jobs.dev.by/vacancies/19704	Евразийская процессинговая компания
 2020-05-07	https://jobs.dev.by/vacancies/19703	Globant
 2019-09-12	https://joblab.by/vac199487.html	Игмавира
@@ -850,7 +850,7 @@
 2020-08-14	https://careers.epam.by/careers/job-listings/job.51801	EPAM Systems
 2020-07-22	https://jobisto.by/v/qwvo/g29p6j?utm_campaign=aggregators&utm_source=belmeta.com&utm_medium=organic	ООО АкриКам
 2020-08-04	http://gsz.gov.by/ru/vacancy/1186616/	ООО "Ньюпэкс"
-2020-08-17	https://ludi.by/job/inzhener-programmist-11/	Вяснянка ЗАО
+2020-08-18	https://ludi.by/job/inzhener-programmist-11/	Вяснянка ЗАО
 2020-07-30	https://www.moyareklama.by/single/vacancy/209830293	ОАО "САЛЕО-Гомель"
 2020-07-31	https://jobs.dev.by/vacancies/16893	Techvice LLC
 2020-07-30	https://www.moyareklama.by/single/vacancy/209830290	ОАО "Гидропривод"
@@ -861,8 +861,9 @@
 2020-08-07	https://www.moyareklama.by/single/vacancy/210155280	ГУ "Учреждение "ГОДЦМР "Верасок"
 2020-07-22	https://jobs.dev.by/vacancies/19927	Eon Games
 2019-10-13	https://joblab.by/vac252489.html	Салон татуировки и перманентного макияжа "Freestyle"
+2020-08-18	http://brest.myjob.by/sales/8705364?srcid=ya_rabota&utm_source=ya_rabota&utm_medium=agregator&utm_campaign=list	Ева-ЛэндАгротехника
 2020-07-31	http://gsz.gov.by/ru/vacancy/1184767/	Мозырский ДОК
-2020-08-17	https://ludi.by/job/inzhener-programmist-12/	Борисовский завод медицинских препаратов
+2020-08-18	https://ludi.by/job/inzhener-programmist-12/	Борисовский завод медицинских препаратов
 2020-06-16	https://joblab.by/vac293817.html	Ооо "Ас-Эфк"
 2020-05-13	https://joblab.by/vac273848.html	Zoomos.By
 2020-07-09	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/135579/	Wowmaking
@@ -879,7 +880,7 @@
 2020-07-21	http://gsz.gov.by/ru/vacancy/1178513/	Национальная Государственная Телерадиокомпания Республики Беларусь
 2020-08-04	https://riv.by/minsk/svyaz-it-internet/vakansiya-68830.html	Ваумэйкинг
 2020-02-13	https://vitebsk.biz/rabota/vacancy/35739/	ИП Абушкевич А.А.
-2020-08-12	http://gsz.gov.by/ru/vacancy/1169719/	Филиал "Бобруйские электрические сети" РУП "Могилевэнерго"
+2020-08-18	http://gsz.gov.by/ru/vacancy/1169719/	Филиал "Бобруйские электрические сети" РУП "Могилевэнерго"
 2020-07-24	https://vitebsk.biz/rabota/vacancy/40260/	ООО «АскерВеб»
 2019-10-10	https://joblab.by/vac252341.html	ООО "Футураутфит"
 2020-04-23	https://careers.epam.by/careers/job-listings/job.35187	EPAM Systems
@@ -892,13 +893,15 @@
 2020-08-13	https://jobs.dev.by/vacancies/19907	Firedome
 2020-08-06	https://www.moyareklama.by/single/vacancy/210108438	ООО "АльфаЮрКонсалт"
 2020-08-17	https://joblab.by/vac296830.html	Бжд
-2020-08-17	https://ludi.by/job/sistemnyj-administrator-2/	Борисовский завод медицинских препаратов
+2020-08-18	https://ludi.by/job/sistemnyj-administrator-2/	Борисовский завод медицинских препаратов
 2019-09-12	https://joblab.by/vac198310.html	Игмавира
 2020-08-12	http://gsz.gov.by/ru/vacancy/1124733/	Изабелинский детский сад - средняя школа
 2020-02-06	https://joblab.by/vac275538.html	ООО "Овернокс"
+2020-08-18	https://joblab.by/vac301807.html	ИООО "Горецкий пищевой комбинат"
 2020-08-06	http://gsz.gov.by/ru/vacancy/1189262/	Белпочта
 2020-07-20	http://gsz.gov.by/ru/vacancy/1177992/	Белгосфилармония
 2020-06-09	https://jobs.dev.by/vacancies/19913	Яндекс
+2020-08-18	https://vitebsk.biz/rabota/vacancy/40813/	Лайт Сайт
 2020-02-20	https://joblab.by/vac281035.html	СООО "Пласттрейд"
 2020-08-04	https://jobs.dev.by/vacancies/17737	Banuba
 2020-04-01	https://joblab.by/vac287191.html	Wowmaking
@@ -919,6 +922,7 @@
 2020-08-12	http://gsz.gov.by/ru/vacancy/1170525/	Издательский дом "Беларусь сегодня"
 2020-08-12	http://gsz.gov.by/ru/vacancy/1137751/	ГУО "Субочский учебно-педагогический комплекс детский сад - средняя школа"
 2020-08-06	http://gsz.gov.by/ru/vacancy/1142698/	Инспекция Мнс По Московскому Району
+2020-08-18	http://gsz.gov.by/ru/vacancy/1194732/	ГСУ "Кировская ДЮСШ"
 2020-06-23	https://riv.by/minsk/ekspluataciya-stroitelstvo/vakansiya-70938.html	Архитектурно-проектное бюро Формат
 2020-07-31	https://careers.epam.by/careers/job-listings/job.50371	EPAM Systems
 2020-07-02	https://jobs.dev.by/vacancies/17953	Evolution Gaming
