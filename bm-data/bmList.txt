@@ -30,6 +30,7 @@
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/84855/detail-public/	АСБ Беларусбанк
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/79261/detail-public/	АСБ Беларусбанк
 2021-01-06	https://www.moyareklama.by/single/vacancy/208551836	ИП Сатыров Д. А.
+2021-01-18	https://ludi.by/job/smm-specialist/	Декмол
 2021-01-14	https://www.vjober.org/job/specialist-po-rabote-s-klientami-39/	АктивТелеком
 2020-12-29	https://www.vjober.org/job/devops-engineer-2/	ИТС Партнёр
 2020-12-30	http://gsz.gov.by/registration/employer/vacancy/58210/detail-public/	Государственное учреждение образования "Средняя школа №19 г.Гродно"
@@ -53,7 +54,7 @@
 2021-01-05	https://jobs.dev.by/vacancies/21498	Mifort
 2021-01-12	http://gsz.gov.by/registration/employer/vacancy/87475/detail-public/	Государственное учреждение "Пружанский районный центр гигиены и эпидемиологии"
 2021-01-05	http://gsz.gov.by/registration/employer/vacancy/31902/detail-public/	Государственное учреждение культуры "Березовская районная библиотечная система"
-2021-01-11	https://riv.by/minsk/svyaz-it-internet/vakansiya-66770.html	Ваумэйкинг
+2021-01-18	https://riv.by/minsk/svyaz-it-internet/vakansiya-66770.html	Ваумэйкинг
 2021-01-11	https://jobs.dev.by/vacancies/21493	Software Development Laboratories Inc. Удалённо
 2021-01-16	https://jobs.dev.by/vacancies/20162	IDT Belarus Удалённо
 2021-01-15	https://jobs.dev.by/vacancies/21250	Unet.By
@@ -77,14 +78,12 @@
 2021-01-11	https://www.vjober.org/job/unity-developer-middle-senior-igrovye-konsoli/	Saber Interactive (Minsk)
 2021-01-04	https://jobs.dev.by/vacancies/21464	Wellnuts Удалённо
 2021-01-11	https://www.vjober.org/job/middle-devops-engineer/	ID Finance
-2020-12-28	https://jobs.dev.by/vacancies/21461	TravelAsk Удалённо
 2021-01-04	https://www.vjober.org/job/qa-engineer-4/	Номари продакшн
 2021-01-12	https://jobs.dev.by/vacancies/12525	Targetprocess
 2020-12-22	http://gsz.gov.by/registration/employer/vacancy/54840/detail-public/	Инспекция Министерства по налогам и сборам Республики Беларусь по Московскому району г.Минска
 2020-12-19	https://www.vjober.org/job/golang-senior-razrabotchik/	2Relocate.com
 2020-12-29	https://www.vjober.org/job/junior-php-software-developer-full-stack/	Девхэд
 2021-01-08	https://joblab.by/vac319530.html	ЧУП "К-Видео АИВА"
-2020-12-17	https://www.vjober.org/job/prepodavatel-matematiki-i-informatiki/	Ревинский Д. О.
 2021-01-06	https://www.vjober.org/job/seo-specialist-3/	Люкрай
 2021-01-11	https://www.vjober.org/job/senior-c-developer/	Орион Софт
 2021-01-04	https://www.vjober.org/job/vedushhij-biznes-analitik-1c/	Электронная экономика
@@ -99,6 +98,7 @@
 2020-12-29	https://jobs.dev.by/vacancies/21470	Ciklum
 2021-01-14	https://www.vjober.org/job/programmist-mikrokontrollerov/	МИРТЕК-инжиниринг
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/89916/detail-public/	АСБ Беларусбанк
+2021-01-18	https://www.moyareklama.by/single/vacancy/208526891	Гомельский завод станочных узлов
 2021-01-12	https://www.vjober.org/job/programmist-1s/	Частное предприятие ЭлитКомСервис
 2021-01-13	https://jobisto.by/v/qzmb/gvw03j?utm_campaign=aggregators&utm_source=belmeta.com&utm_medium=organic	ООО Берсерк Групп
 2020-12-29	https://jobs.dev.by/vacancies/21473	Redalpha
@@ -132,19 +132,18 @@
 2020-12-23	http://gsz.gov.by/registration/employer/vacancy/79785/detail-public/	Государственное учреждение здравоохранения "Городская поликлиника №7 г.Гродно"
 2020-12-28	https://www.vjober.org/job/unity-developer-razrabotchik-middle/	Трули Сошиал Геймс БиУай
 2021-01-13	https://www.vjober.org/job/seo-specialist-5/	Пневмотехцентр
-2020-12-21	https://riv.by/brest/snabzhenie-klient-trade/vakansiya-74819.html	МишЕль стиль
 2020-12-28	https://www.vjober.org/job/qa-engineer-na-mobilnye-proekty-middle-senior/	Apalon
+2021-01-18	https://riv.by/brest/snabzhenie-klient-trade/vakansiya-74819.html	МишЕль стиль
 2021-01-11	https://www.vjober.org/job/game-analyst-igrovoj-analitik-minsk/	ZiMAD
 2021-01-13	https://www.vjober.org/job/angular-2-developer/	Instinctools
-2020-12-28	https://jobs.dev.by/vacancies/21454	Ciklum
 2020-12-28	https://jobs.dev.by/vacancies/21212	1Pt
+2020-12-28	https://jobs.dev.by/vacancies/21454	Ciklum
 2020-12-30	https://jobs.dev.by/vacancies/20123	SoftSwiss
 2021-01-04	http://gsz.gov.by/registration/employer/vacancy/63829/detail-public/	Филиал учреждения образования "Брестский государственный технический университет" Пинский индустриально-педагогический колледж
 2021-01-11	https://jobs.dev.by/vacancies/21217	Truly Social Games Удалённо
 2020-12-28	https://jobs.dev.by/vacancies/21458	Finstek Удалённо
 2021-01-05	https://www.vjober.org/job/front-end-developer-react/	Территория Айти
 2021-01-08	https://www.vjober.org/job/senior-php-developer-2/	Телесфор Софтваре
-2020-12-17	https://jobs.dev.by/vacancies/20364	Lansoft
 2020-12-21	https://jobs.dev.by/vacancies/20363	Lansoft Удалённо
 2021-01-11	https://www.vjober.org/job/menedzher-proektov/	АлюсофтБел
 2020-12-17	http://gsz.gov.by/registration/employer/vacancy/76830/detail-public/	Государственное учреждение образования "Средняя школа № 2 г.Дубровно"
@@ -173,7 +172,6 @@
 2020-12-30	https://careers.epam.by/careers/job-listings/job.55363	EPAM Systems
 2020-12-22	https://jobs.dev.by/vacancies/21433	A1
 2021-01-11	http://gsz.gov.by/registration/employer/vacancy/4164/detail-public/	Государственное учреждение образования "Верхнедвинская гимназия"
-2020-12-18	https://www.vjober.org/job/full-stack-developer-vue-js-php-laravel/	GP Solutions
 2020-12-14	https://jobs.dev.by/vacancies/20107	Axiom Connected
 2020-12-24	https://vitebsk.biz/rabota/vacancy/43564/	Propellers
 2020-12-28	https://jobs.dev.by/vacancies/21437	"SpurIT" Удалённо
@@ -190,10 +188,8 @@
 2021-01-12	https://www.moyareklama.by/single/vacancy/210348357	ООО "Центр правовой помощи"
 2021-01-15	http://gsz.gov.by/registration/employer/vacancy/90815/detail-public/	Государственное учреждение образования "Средняя школа № 23 г. Минска"
 2021-01-15	https://www.vjober.org/job/senior-javascript-developer-react/	Эксадел
-2020-12-12	https://joblab.by/vac311208.html	ОАО "Универмаг "Центральный"
 2020-12-18	https://jobs.dev.by/vacancies/21409	AIS Novations Удалённо
 2021-01-04	https://www.vjober.org/job/kontent-menedzher-menedzher-internet-magazina/	Фабрика детской безопасности
-2020-12-17	https://jobs.dev.by/vacancies/21407	Lomray Software Удалённо
 2020-12-24	http://gsz.gov.by/registration/employer/vacancy/62488/detail-public/	Государственное природоохранное учреждение "Республиканский ландшафтный заказник "Озёры"
 2020-12-27	https://riv.by/grodno/svyaz-it-internet/vakansiya-76800.html	АскерВЕБ
 2021-01-06	https://www.moyareklama.by/single/vacancy/209671987	ЧТУП "Амнезия"
@@ -201,17 +197,16 @@
 2020-12-16	https://jobs.dev.by/vacancies/21401	On The Spot Development
 2020-12-29	https://careers.epam.by/careers/job-listings/job.57552	EPAM Systems
 2020-12-24	https://www.vjober.org/job/setevoj-administrator-cisco/	АСБ Беларусбанк
+2021-01-18	https://jobs.dev.by/vacancies/20553	Belatragames
+2021-01-18	https://jobs.dev.by/vacancies/21400	ID Finance Удалённо
 2021-01-13	https://www.vjober.org/job/specialist-po-snabzheniju-3/	Вираж и К
 2021-01-10	https://www.vjober.org/job/kopirajter-kontent-menedzher/	Еком Бизнес
 2021-01-04	https://jobs.dev.by/vacancies/20316	ООО "ЕвроЛомбард" Удалённо
 2021-01-12	https://jobs.dev.by/vacancies/21405	Cogniteq Удалённо
-2020-12-17	https://jobs.dev.by/vacancies/21404	DashBouquet Development Удалённо
 2021-01-12	http://gsz.gov.by/registration/employer/vacancy/52484/detail-public/	Учреждение образования "Рогачевский государственный педагогический колледж"
 2020-12-16	https://jobs.dev.by/vacancies/21403	Finstek Удалённо
 2020-12-21	https://www.vjober.org/job/middle-senior-full-stack-developer-php-js/	СпурАйТи, ЧУП
-2020-12-10	https://careers.epam.by/careers/job-listings/job.57317	EPAM Systems
-2020-12-10	https://careers.epam.by/careers/job-listings/job.57316	EPAM Systems
-2021-01-15	https://ludi.by/job/biznes-analitik/	Лакокраска
+2021-01-18	https://ludi.by/job/biznes-analitik/	Лакокраска
 2021-01-11	https://www.moyareklama.by/single/vacancy/210347243	ООО "Эксперт в деталях"
 2020-12-21	https://jobs.dev.by/vacancies/21419	INFOBRAIN AG Удалённо
 2020-12-18	https://jobs.dev.by/vacancies/21418	MEG Analytics Удалённо
@@ -228,7 +223,6 @@
 2020-12-18	https://jobs.dev.by/vacancies/21414	GP Solutions Удалённо
 2020-12-16	https://joblab.by/vac317663.html	ООО "Системный администратор"
 2020-12-30	http://gsz.gov.by/registration/employer/vacancy/8916/detail-public/	Государственное учреждение образования "Рассветовская средняя школа"
-2020-12-18	https://www.vjober.org/job/programmist-c-j-m-middle-senior/	Кредо-Диалог
 2021-01-13	https://jobs.dev.by/vacancies/20562	SolbegSoft
 2021-01-13	https://jobs.dev.by/vacancies/20561	SolbegSoft
 2021-01-06	https://www.vjober.org/job/kategorijnyj-menedzher-2/	ОМА
@@ -253,41 +247,52 @@
 2020-12-29	https://www.vjober.org/job/php-developer-2/	Онилаб
 2020-12-30	https://careers.epam.by/careers/job-listings/job.52059	EPAM Systems
 2020-12-17	https://www.moyareklama.by/single/vacancy/209846795	ООО "Карандаш Агентство"
-2021-01-11	https://riv.by/minsk/svyaz-it-internet/vakansiya-66988.html	Ваумэйкинг
 2021-01-11	https://www.vjober.org/job/net-developer-senior-level/	Дигитеум
+2021-01-18	https://riv.by/minsk/svyaz-it-internet/vakansiya-66988.html	Ваумэйкинг
 2020-12-28	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/163441/	ООО АскерВеб
 2021-01-04	http://gsz.gov.by/registration/employer/vacancy/43223/detail-public/	Государственное учреждение образования "Гимназия г. Пружаны"
 2021-01-05	https://www.vjober.org/job/junior-php-developer-2/	МагСоюз плюс
 2020-12-18	http://gsz.gov.by/registration/employer/vacancy/77748/detail-public/	Белтелеком
-2020-12-13	https://riv.by/pinsk/svyaz-it-internet/vakansiya-54642.html	Креативная студия АникА
 2021-01-04	http://gsz.gov.by/registration/employer/vacancy/83486/detail-public/	Государственное научное учреждение "НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ЭКОНОМИЧЕСКИЙ ИНСТИТУТ МИНИСТЕРСТВА ЭКОНОМИКИ РЕСПУБЛИКИ БЕЛАРУСЬ"
 2020-12-14	https://riv.by/udalennaya-rabota/svyaz-it-internet/vakansiya-76558.html	TravelAsk
+2021-01-18	https://jobs.dev.by/vacancies/21608	IT X100 Удалённо
+2021-01-18	https://jobs.dev.by/vacancies/21607	Texode Technologies
+2021-01-18	https://jobs.dev.by/vacancies/21606	Wargaming.net
+2021-01-18	https://jobs.dev.by/vacancies/21605	Admitad Удалённо
 2020-12-18	https://jobs.dev.by/vacancies/17592	Dual Lab
 2021-01-11	https://www.vjober.org/job/middle-senior-business-analyst-2/	Элилинк Консалтинг
 2020-12-30	https://careers.epam.by/careers/job-listings/job.52060	EPAM Systems
 2021-01-04	http://gsz.gov.by/registration/employer/vacancy/78387/detail-public/	Ошмянская центральная районная больница
 2020-12-21	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/44656/	БелХард Девелопмент
+2021-01-18	https://jobs.dev.by/vacancies/21609	Admitad Удалённо
 2020-12-30	https://careers.epam.by/careers/job-listings/job.52062	EPAM Systems
 2020-12-30	https://careers.epam.by/careers/job-listings/job.52061	EPAM Systems
 2020-12-30	https://careers.epam.by/careers/job-listings/job.52063	EPAM Systems
+2021-01-18	https://jobs.dev.by/vacancies/21604	Admitad Удалённо
 2020-12-28	https://www.vjober.org/job/programmist-1s-5/	ПКБ Витебск
 2021-01-12	http://gsz.gov.by/registration/employer/vacancy/44305/detail-public/	Государственное учреждение образования "Дотишская средняя школа"
+2021-01-18	https://jobs.dev.by/vacancies/21603	Admitad Удалённо
+2021-01-18	https://jobs.dev.by/vacancies/21602	Admitad Удалённо
 2020-12-28	https://www.vjober.org/job/qa-engineer/	Innowise Group / Фабрика инноваций и решений
 2021-01-10	https://www.vjober.org/job/veb-programmist/	Частное предприятие БаксарНЕТ
-2021-01-15	https://careers.epam.by/careers/job-listings/job.57758	EPAM Systems
+2021-01-18	https://careers.epam.by/careers/job-listings/job.57758	EPAM Systems
 2021-01-15	https://careers.epam.by/careers/job-listings/job.57757	EPAM Systems
 2020-12-28	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/163440/	ООО АскерВеб
 2021-01-13	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/160391/	Искусство созидания
 2021-01-13	https://jobs.dev.by/vacancies/19783	SolbegSoft
 2021-01-11	https://jobs.dev.by/vacancies/18444	EIS Удалённо
+2021-01-18	https://jobs.dev.by/vacancies/21611	Forte Group Удалённо
+2021-01-18	https://jobs.dev.by/vacancies/21610	IT X100 Удалённо
 2020-12-21	https://www.vjober.org/job/testirovshhik-qa/	Софтмакс системы телеметрии
+2021-01-14	http://gsz.gov.by/registration/employer/vacancy/89607/detail-public/	Государственное учреждение образования "Рясненская средняя школа"
 2021-01-13	https://jobs.dev.by/vacancies/20525	SolbegSoft
+2021-01-18	https://jobs.dev.by/vacancies/21612	Twistellar
 2021-01-05	https://www.vjober.org/job/glavnyj-specialist-upravlenija-vnedrenija-i-razvitija-bankovskih-sistem/	Банк Белагропромбанк
 2021-01-11	https://www.belrabota.by/vacancy/marketing-reklama-pr/143147/	Wowmaking
 2021-01-04	https://www.vjober.org/job/dizajner-designer-mobilnyh-prilozhenij-ios-android/	Яроцкий Е. В.
 2021-01-06	http://gsz.gov.by/registration/employer/vacancy/85808/detail-public/	Учреждение здравоохранения "Климовичский районный центр гигиены и эпидемиологии"
 2021-01-11	https://www.vjober.org/job/system-administrator/	ИнтэксСофт
-2021-01-15	https://ludi.by/job/rukovoditel-otdela-reklamy/	ЗападМоторс
+2021-01-18	https://ludi.by/job/rukovoditel-otdela-reklamy/	ЗападМоторс
 2021-01-04	http://gsz.gov.by/registration/employer/vacancy/63616/detail-public/	Государственное учреждение образования "Гимназия №75 г. Минска имени Масленикова П.В."
 2021-01-12	https://vitebsk.biz/rabota/vacancy/43513/	ЧТУП «Доктор Моторс»
 2021-01-13	https://www.vjober.org/job/hr-menedzher-menedzher-po-personalu-3/	Белсотбит
@@ -299,8 +304,9 @@
 2021-01-06	https://jobs.dev.by/vacancies/16115	IdeaSoft Удалённо
 2021-01-12	https://www.vjober.org/job/ios-developer-swift-objc/	Реслив
 2021-01-04	http://gsz.gov.by/registration/employer/vacancy/5513/detail-public/	Учреждение образования "Полоцкий государственный медицинский колледж имени Героя Советского Союза З.М.Туснолобовой-Марченко"
-2021-01-11	https://riv.by/minsk/svyaz-it-internet/vakansiya-68828.html	Ваумэйкинг
+2021-01-18	https://riv.by/minsk/svyaz-it-internet/vakansiya-68828.html	Ваумэйкинг
 2020-12-14	http://gsz.gov.by/registration/employer/vacancy/22339/detail-public/	Могилевдрев
+2021-01-18	https://www.moyareklama.by/single/vacancy/210210193	ГУ "Центр повышения квалификации"
 2021-01-04	https://www.vjober.org/job/android-developer/	Тачлайн
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/89902/detail-public/	АСБ Беларусбанк
 2020-12-30	https://jobs.dev.by/vacancies/17456	Белый кИТ РнД Удалённо
@@ -312,6 +318,8 @@
 2020-12-22	http://gsz.gov.by/registration/employer/vacancy/28099/detail-public/	Открытое акционерное общество "140 ремонтный завод"
 2021-01-06	https://www.vjober.org/job/2d-artist-2d-hudozhnik-2/	СтаркГеймз
 2021-01-13	https://www.vjober.org/job/sistemnyj-administrator-7/	Алкопак
+2021-01-18	https://jobs.dev.by/vacancies/20838	Runa Systems Удалённо
+2021-01-18	https://jobs.dev.by/vacancies/20837	Runa Systems Удалённо
 2021-01-13	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/160763/	Искусство созидания
 2021-01-12	https://jobs.dev.by/vacancies/18752	Flatlogic Удалённо
 2021-01-06	https://www.vjober.org/job/net-developer-middle/	XPGraph
@@ -321,6 +329,7 @@
 2020-12-27	https://riv.by/mogilev/svyaz-it-internet/vakansiya-76805.html	АскерВЕБ
 2021-01-12	http://gsz.gov.by/registration/employer/vacancy/67938/detail-public/	Государственное учреждение образования "Прудковская средняя школа Мозырского района"
 2021-01-14	https://www.vjober.org/job/menedzher-po-rabote-s-klientami-35/	Викинг спорт
+2021-01-18	https://riv.by/vitebsk/svyaz-it-internet/vakansiya-77223.html	Телерадиокомпания Витебск
 2021-01-05	https://www.vjober.org/job/stazher-po-internet-marketingu-v-biznes-shkolu-videomontazher-seo-smm/	Дубовик В.Н.
 2021-01-08	https://www.vjober.org/job/php-programmist/	Хата бай
 2021-01-06	http://gsz.gov.by/registration/employer/vacancy/52876/detail-public/	Филиал "Жлобинавтотранс" открытого акционерного общества "Гомельоблавтотранс"
@@ -351,8 +360,8 @@
 2021-01-05	https://www.vjober.org/job/operator-call-centra-specialist-po-prodazham-v-internet-magazin/	Лефро / kit.by
 2020-12-17	https://www.vjober.org/job/arhitektor-it-sistem/	Мобильные ТелеСистемы
 2020-12-15	https://jobs.dev.by/vacancies/18990	On The Spot Development
-2021-01-13	https://riv.by/baranovichi/svyaz-it-internet/vakansiya-76852.html	Искусство созидания
 2021-01-15	https://www.moyareklama.by/single/vacancy/210351201	ИП Кравченко Д.И.
+2021-01-18	https://riv.by/baranovichi/svyaz-it-internet/vakansiya-76852.html	Искусство созидания
 2021-01-15	http://gsz.gov.by/registration/employer/vacancy/90878/detail-public/	Общество с ограниченной ответственностью "АскерВЕБ"
 2021-01-14	https://www.vjober.org/job/java-developer-2/	АлюсофтБел
 2021-01-04	http://gsz.gov.by/registration/employer/vacancy/83188/detail-public/	Государственное учреждение образования "Средняя школа №3 г.Скидель"
@@ -373,7 +382,7 @@
 2021-01-01	https://www.vjober.org/job/php-programmist-3/	Визутех Плейтинг
 2020-12-31	http://gsz.gov.by/registration/employer/vacancy/67525/detail-public/	Учреждение образования "Житковичский государственный профессиональный лицей"
 2021-01-08	https://www.vjober.org/job/master-po-remontu-mobilnyh-telefonov-noutbukov-v-servisnyj-centr/	Энтер-компьютерс
-2021-01-15	https://ludi.by/job/operator-koll-centra-6/	Смтер-групп
+2021-01-18	https://ludi.by/job/operator-koll-centra-6/	Смтер-групп
 2020-12-21	https://grodno.in/rabota/vacancy/17968/	Гродненский городской филиал ОблПО
 2021-01-13	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/163925/	Zoomos.By
 2020-12-16	http://gsz.gov.by/registration/employer/vacancy/56402/detail-public/	Учреждение образования "Волковысский государственный аграрный колледж"
@@ -417,14 +426,11 @@
 2021-01-14	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/71714/	БелХард Девелопмент
 2020-12-23	https://www.vjober.org/job/senior-ios-developer/	Tango Me
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/58435/detail-public/	АСБ Беларусбанк
-2021-01-16	http://gsz.gov.by/registration/employer/vacancy/91833/detail-public/	Цех металлоизделий
 2020-12-21	https://jobs.dev.by/vacancies/18709	Applied Systems
 2020-12-22	http://gsz.gov.by/registration/employer/vacancy/79150/detail-public/	Открытое акционерное общество "АГАТ-системы управления"- управляющая компания холдинга "Геоинформационные системы управления"
 2021-01-06	https://www.moyareklama.by/single/vacancy/210238943	ЗАО "Х-Крафт"
 2021-01-04	https://www.vjober.org/job/seo-specialist-2/	СтройКонсалтГрупп
 2021-01-05	https://www.vjober.org/job/inzhener-himik-2/	ПроффХим
-2020-12-18	https://www.vjober.org/job/junior-javascript-developer/	Икс-футурум
-2020-12-17	https://www.vjober.org/job/administrative-director-it/	Белка Геймз
 2021-01-05	https://www.vjober.org/job/senior-java-developer/	Instinctools
 2021-01-15	https://www.vjober.org/job/lead-net-developer/	Эксадел
 2020-12-15	http://gsz.gov.by/registration/employer/vacancy/74898/detail-public/	СветомирБай
@@ -433,8 +439,8 @@
 2021-01-12	https://jobs.dev.by/vacancies/18912	BP Mobile Удалённо
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/72666/detail-public/	Учреждение образования "МИНСКИЙ ГОСУДАРСТВЕННЫЙ ПРОФЕССИОНАЛЬНО-ТЕХНИЧЕСКИЙ КОЛЛЕДЖ ТОРГОВЛИ"
 2021-01-04	http://gsz.gov.by/registration/employer/vacancy/82829/detail-public/	Дипсервис
-2020-12-10	https://jobs.dev.by/vacancies/21084	Scand
-2020-12-11	http://gsz.gov.by/registration/employer/vacancy/74073/detail-public/	Научно-производственное республиканское унитарное предприятие белорусских народных ремесел "СКАРБНИЦА"
+2021-01-18	https://ludi.by/job/seo-specialist-3/	Декмол
+2020-12-29	http://gsz.gov.by/registration/employer/vacancy/81056/detail-public/	Коммунальное транспортное унитарное предприятие "Минсктранс"
 2020-12-20	https://vitebsk.biz/rabota/vacancy/43490/	ООО «АскерВеб»
 2020-12-21	https://jobs.dev.by/vacancies/7497	intelex
 2021-01-13	https://riv.by/udalennaya-rabota/svyaz-it-internet/vakansiya-77107.html	Leadsup.Financial
@@ -460,14 +466,15 @@
 2021-01-06	https://www.vjober.org/job/sistemnyj-administrator-linux/	ООО Тэксод Технолоджиз
 2021-01-13	https://www.vjober.org/job/specialist-po-marketingu-7/	Эрнис
 2021-01-05	https://jobs.dev.by/vacancies/11028	SymfonyArt
+2021-01-08	http://gsz.gov.by/registration/employer/vacancy/85931/detail-public/	Учреждение здравоохранения "Кобринская центральная районная больница"
 2020-12-24	https://www.vjober.org/job/regionalnyj-menedzher-po-prodazham-6/	Клопов Андрей
 2021-01-04	https://www.vjober.org/job/middle-php-developer/	Новый Сайт
 2020-12-28	https://www.moyareklama.by/single/vacancy/205831243	Зачетка
 2021-01-04	https://www.vjober.org/job/junior-computational-linguist-junior-qa-engineer/	Дигитеум
-2020-12-28	https://www.vjober.org/job/sistemnyj-administrator-32/	Гомельский домостроительный комбинат
 2020-12-28	https://www.vjober.org/job/ctazhjor-razrabotchik-avtomatizirovannyh-testov-2/	A1QA
+2020-12-28	https://www.vjober.org/job/sistemnyj-administrator-32/	Гомельский домостроительный комбинат
 2021-01-06	https://www.vjober.org/job/master-po-remontu-telefonov-noutbukov/	Частное предприятие АПСервис
-2021-01-14	http://gsz.gov.by/registration/employer/vacancy/90046/detail-public/	Учреждение образования "Минский государственный профессиональный лицей №7 строительства"
+2021-01-18	https://joblab.by/vac320646.html	Е-Пауэр
 2021-01-15	https://www.vjober.org/job/vedushhij-specialist-po-organizacionnomu-razvitiju/	Газпромнефть-Белнефтепродукт
 2020-12-28	https://jobs.dev.by/vacancies/21074	Innovative Future Technologies
 2021-01-06	https://gderabota.by/vac/11626	Филиал БНТУ "Минский государственный технологический колледж"
@@ -475,10 +482,11 @@
 2021-01-04	http://gsz.gov.by/registration/employer/vacancy/52465/detail-public/	Государственное учреждение образования "Гимназия № 9 г.Витебска имени А.П.Белобородова"
 2020-12-20	https://vitebsk.biz/rabota/vacancy/43491/	ООО «АскерВеб»
 2021-01-11	https://www.vjober.org/job/programmist-1c-versija-8/	Панков И.А. и Внуков М.А.
+2021-01-11	https://www.vjober.org/job/inzhener-programmist-v-shkolu/	Средняя школа №43 г.Минска
+2021-01-14	http://gsz.gov.by/registration/employer/vacancy/90039/detail-public/	Государственное учреждение "Дрибинский центр по обеспечению деятельности бюджетных организаций"
 2021-01-04	http://gsz.gov.by/registration/employer/vacancy/72997/detail-public/	Открытое акционерное общество "Чистый исток 1872"
 2021-01-13	https://riv.by/minsk/svyaz-it-internet/vakansiya-72969.html	Средняя школа № 169
 2021-01-15	https://www.vjober.org/job/business-analyst-grodno/	ИнтэксСофт
-2020-12-18	https://www.vjober.org/job/php-programmist-1c-bitrix/	МИТгруп
 2021-01-06	https://www.vjober.org/job/biznes-analitik-1s/	21vek.by
 2020-12-30	https://www.vjober.org/job/verstalshhik-javascript/	ЭВО Электроникс
 2021-01-06	https://www.vjober.org/job/inzhener-programmist-4/	Березинский биосферный заповедник
@@ -490,14 +498,17 @@
 2020-12-26	https://www.vjober.org/job/junior-php-razrabotchik/	Новое решение
 2021-01-15	https://riv.by/minsk/svyaz-it-internet/vakansiya-56709.html	БелХард Девелопмент
 2021-01-12	https://www.vjober.org/job/vedushhij-arhitektor-7/	Строминвест
+2021-01-18	https://jobs.dev.by/vacancies/21058	On The Spot Development
 2021-01-12	https://www.vjober.org/job/specialist-po-servisu-i-podderzhke-sistemy-smart-control/	Алютех
 2020-12-23	https://jobs.dev.by/vacancies/21053	On The Spot Development
+2021-01-18	https://www.moyareklama.by/single/vacancy/210294655	ЧТУП "Руд Буд"
 2021-01-11	https://www.vjober.org/job/inzhener-programmist-3/	Государственное предприятие Брестский мусороперерабатывающий завод
 2020-12-22	http://gsz.gov.by/registration/employer/vacancy/14230/detail-public/	Открытое акционерное общество "2566 завод по ремонту радиоэлектронного вооружения"
 2020-12-31	https://www.vjober.org/job/inzhener-programmist-c-python-mobile-robotics-engineer-junior/	ЛАЦИТ - Лаборатория цифровых технологий
 2021-01-12	https://www.vjober.org/job/specialist-po-marketingu-3/	Еврошоп Бел
 2020-12-16	https://jobs.dev.by/vacancies/19070	АлюсофтБел
 2020-12-28	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/163435/	ООО АскерВеб
+2021-01-18	https://ludi.by/job/web-razrabotchik/	Декмол
 2020-12-29	http://gsz.gov.by/registration/employer/vacancy/81326/detail-public/	Унитарное коммунальное предприятие торговый центр "Потсдам" г Лида
 2020-12-26	https://www.vjober.org/job/android-developer-3/	Бануба Девелопмент
 2020-12-21	https://www.vjober.org/job/pomoshhnik-menedzhera-po-prodazham-9/	Второй дом
@@ -507,8 +518,8 @@
 2020-12-18	https://vitebsk.biz/rabota/vacancy/43460/	BeautyRai.by
 2021-01-15	https://www.vjober.org/job/junior-middle-automation-qa-engineer-grodno/	ИнтэксСофт
 2021-01-11	https://www.vjober.org/job/zamestitel-glavnogo-inzhenera-rukovoditel-proekta/	ПрофПи Менеджмент
-2021-01-06	http://gsz.gov.by/registration/employer/vacancy/63599/detail-public/	Брестоблавтотранс
 2021-01-06	https://www.vjober.org/job/net-developer-3/	СМ Технолоджис
+2021-01-06	http://gsz.gov.by/registration/employer/vacancy/63599/detail-public/	Брестоблавтотранс
 2021-01-13	https://jobs.dev.by/vacancies/20057	Exposit Удалённо
 2021-01-12	https://www.vjober.org/job/kontent-menedzher-5/	Автоспейс
 2020-12-28	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/163434/	ООО АскерВеб
@@ -532,26 +543,24 @@
 2020-12-28	https://gderabota.by/vac/4044	Искусство созидания
 2021-01-13	http://gsz.gov.by/registration/employer/vacancy/65431/detail-public/	Государственное учреждение образования "Рязанцевский учебно-педагогический комплекс детский сад - средняя школа"
 2020-12-15	https://jobs.dev.by/vacancies/21395	Aiolane
-2020-12-10	https://gderabota.by/vac/4048	Искусство созидания
 2020-12-28	https://gderabota.by/vac/4047	Искусство созидания
 2020-12-20	https://www.moyareklama.by/single/vacancy/210072653	ООО "АскерВЕБ"
 2020-12-28	https://gderabota.by/vac/4045	Искусство созидания
 2020-12-28	https://gderabota.by/vac/4049	Искусство созидания
 2021-01-11	https://www.vjober.org/job/ui-ux-designer-2/	iTechArt Group
 2021-01-14	https://www.vjober.org/job/administrator-baz-dannyh-2/	Санта Импэкс Брест
+2021-01-17	https://jobisto.by/v/dapj/gx466j?utm_campaign=aggregators&utm_source=belmeta.com&utm_medium=organic	ИП Гормаш Е.С.
 2021-01-12	https://www.moyareklama.by/single/vacancy/209783415	ООО "УчетАнализАудит"
 2020-12-30	https://www.vjober.org/job/full-stack-net-developer/	Дигитеум
 2021-01-14	https://joblab.by/vac320296.html	ЧУП "Мастер365 групп"
 2021-01-06	https://www.vjober.org/job/smm-menedzher/	Люкрай
 2021-01-04	https://www.vjober.org/job/back-end-java-developer/	IBA Group
 2020-12-28	https://www.vjober.org/job/sistemnyj-administrator-34/	Амтера- сервис
-2020-12-17	https://jobs.dev.by/vacancies/21120	datarockets Удалённо
 2021-01-13	https://www.vjober.org/job/programmist-1c-8/	ДримСофт
 2020-12-30	https://www.vjober.org/job/rukovoditel-otdela-prodazh-3/	Техно-Скай
 2021-01-04	https://www.vjober.org/job/specialist-sluzhby-tehnicheskoj-podderzhki-polzovatelej-po-rabote-s-torgovoj-sistemoj-isfusion/	Бонд стрит
 2021-01-13	https://jobs.dev.by/vacancies/20290	SolbegSoft Удалённо
 2021-01-15	https://jobs.dev.by/vacancies/14845	SK hynix memory solutions Eastern Europe
-2021-01-04	http://gsz.gov.by/registration/employer/vacancy/83003/detail-public/	Общество с ограниченной ответственностью "Белтауэр"
 2021-01-06	https://www.vjober.org/job/junior-middle-business-analyst-2/	ПикселПлекс
 2020-12-29	https://jobs.dev.by/vacancies/21136	On The Spot Development
 2021-01-13	https://jobs.dev.by/vacancies/21378	SolbegSoft
@@ -559,15 +568,13 @@
 2021-01-13	https://jobs.dev.by/vacancies/21377	SolbegSoft
 2021-01-01	https://www.vjober.org/job/senior-middle-business-analyst/	Телесфор Софтваре
 2020-12-31	https://www.vjober.org/job/frontend-developer-angular-2/	2Relocate.com
-2021-01-15	http://gsz.gov.by/registration/employer/vacancy/91007/detail-public/	Государственное учреждение образования "Средняя школа № 2 г.Костюковичи"
 2021-01-12	https://www.vjober.org/job/inzhener-programmist-7/	Мебельная фабрика Пинскдрев-Адриана
 2020-12-28	https://gderabota.by/vac/6484	Искусство созидания
-2020-12-28	https://jobs.dev.by/vacancies/20281	Techvice Удалённо
 2020-12-28	https://gderabota.by/vac/6485	Искусство созидания
+2020-12-28	https://jobs.dev.by/vacancies/20281	Techvice Удалённо
 2020-12-28	https://jobs.dev.by/vacancies/21370	1PT Удалённо
 2021-01-10	https://www.vjober.org/job/middle-c-developer/	ООО Тэксод Технолоджиз
 2020-12-28	https://gderabota.by/vac/6486	Искусство созидания
-2020-12-11	https://jobs.dev.by/vacancies/21375	Itransition Удалённо
 2020-12-29	https://jobs.dev.by/vacancies/21131	Joint - Stock Company “Peleng”
 2020-12-28	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/163439/	ООО АскерВеб
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/79253/detail-public/	АСБ Беларусбанк
@@ -578,13 +585,14 @@
 2021-01-16	https://jobs.dev.by/vacancies/21589	Ciklum
 2021-01-16	https://jobs.dev.by/vacancies/21588	ВОТЕ ООО Удалённо
 2020-12-29	https://www.vjober.org/job/kontent-menedzher-9/	СофтЭфИкс
-2021-01-15	https://ludi.by/job/java-developer/	Virtana
+2021-01-18	https://ludi.by/job/java-developer/	Virtana
 2021-01-06	https://www.vjober.org/job/kontent-menedzher-administrator-sajta/	Драницкий Е.Г
 2021-01-15	http://gsz.gov.by/registration/employer/vacancy/90389/detail-public/	Государственное учреждение дополнительного образования взрослых "Центр повышения квалификации руководящих работников и специалистов управления сельского хозяйства и продовольствия
 2020-12-20	https://vitebsk.biz/rabota/vacancy/43488/	ООО «АскерВеб»
 2021-01-15	https://jobs.dev.by/vacancies/21581	Сonstantrobotics LLC
 2021-01-11	https://gderabota.by/vac/3383	БелХард
 2021-01-15	https://jobs.dev.by/vacancies/21584	OMERTEX Удалённо
+2021-01-18	https://ludi.by/job/sistemnyj-administrator-6/	Торговый дом Восточный
 2021-01-15	https://jobs.dev.by/vacancies/21583	EVOKE Systems
 2021-01-15	https://jobs.dev.by/vacancies/21582	Vigbo
 2020-12-30	https://careers.epam.by/careers/job-listings/job.45853	EPAM Systems
@@ -598,6 +606,7 @@
 2020-12-28	https://www.vjober.org/job/menedzher-po-prodazham-udalenno-2/	Бабанин Р.О.
 2021-01-13	https://jobs.dev.by/vacancies/8411	SolbegSoft
 2021-01-04	https://www.vjober.org/job/menedzher-internet-magazina-9/	Трушинский Е.В.
+2021-01-18	https://jobs.dev.by/vacancies/21597	Klika Tech Удалённо
 2021-01-04	https://www.vjober.org/job/unity-graphics-developer-igrovye-konsoli/	Saber Interactive (Minsk)
 2021-01-15	https://riv.by/minsk/svyaz-it-internet/vakansiya-77183.html	БелГИСС
 2020-12-31	http://gsz.gov.by/registration/employer/vacancy/18651/detail-public/	Государственное учреждение образования "Средняя школа № 15 г. Барановичи"
@@ -606,7 +615,7 @@
 2021-01-16	https://jobs.dev.by/vacancies/21592	Bisc
 2021-01-16	https://jobs.dev.by/vacancies/21591	Bisc
 2021-01-16	https://jobs.dev.by/vacancies/21590	Ciklum
-2020-12-09	https://jobs.dev.by/vacancies/21354	Intetics
+2021-01-18	https://ludi.by/job/sistemnyj-administrator-7/	Леор Пластик
 2021-01-13	https://jobs.dev.by/vacancies/8652	SolbegSoft
 2021-01-16	https://jobs.dev.by/vacancies/21353	CleverLabs Удалённо
 2021-01-15	https://jobs.dev.by/vacancies/20021	GlowByte Consulting
@@ -623,7 +632,6 @@
 2021-01-12	https://jobs.dev.by/vacancies/20476	Flatlogic Удалённо
 2021-01-14	https://jobs.dev.by/vacancies/21569	EIS Удалённо
 2021-01-11	https://jobs.dev.by/vacancies/21326	Netpeak Group Удалённо
-2020-12-29	http://gsz.gov.by/registration/employer/vacancy/81340/detail-public/	Учреждение здравоохранения "Краснопольский районный центр гигиены и эпидемиологии"
 2021-01-14	https://jobs.dev.by/vacancies/21563	Creavi Удалённо
 2021-01-15	https://www.moyareklama.by/single/vacancy/210199980	Гомельский завод Коммунальник
 2021-01-10	https://www.vjober.org/job/head-of-marketing/	Mainsoft
@@ -632,7 +640,7 @@
 2021-01-08	https://www.vjober.org/job/menedzher-internet-magazina-10/	ИП Мулярчук Елена Филипповна
 2021-01-15	https://riv.by/minsk/svyaz-it-internet/vakansiya-70123.html	ДевБрэйн
 2020-12-28	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/163436/	ООО АскерВеб
-2021-01-15	https://ludi.by/job/programmist-7/	Анрэкс
+2021-01-18	https://ludi.by/job/programmist-7/	Анрэкс
 2021-01-15	http://gsz.gov.by/registration/employer/vacancy/90904/detail-public/	Государственное учреждение "Каменецкий территориальный центр социального обслуживания населения"
 2020-12-31	https://www.vjober.org/job/node-js-developer-3/	2Relocate.com
 2021-01-02	https://www.vjober.org/job/net-developer-2/	Девстрим
@@ -646,7 +654,7 @@
 2021-01-12	https://jobs.dev.by/vacancies/21331	Оао "Цнииту"
 2021-01-05	https://www.vjober.org/job/inzhener-administrator-otdela-setevyh-tehnologij-inzhener-tehnicheskoj-podderzhki/	Центр информационных ресурсов и коммуникаций
 2021-01-14	https://www.vjober.org/job/biznes-analitik-analitik-trebovanij-v-it-stazhjor/	Анализ и Дизайн ИТ
-2021-01-05	http://gsz.gov.by/registration/employer/vacancy/84364/detail-public/	МАЗ управляющая компания холдинга БелавтоМАЗ
+2021-01-17	https://www.vjober.org/job/database-developer-pl-sql-middle-crm/	Системные технологии
 2021-01-16	https://www.moyareklama.by/single/vacancy/210324016	Коминтерн
 2020-12-28	https://www.vjober.org/job/rnr-razrabotchik/	Белсотбит
 2020-12-30	https://www.vjober.org/job/etl-razrabotchik/	Andersen
@@ -654,21 +662,22 @@
 2021-01-15	https://www.vjober.org/job/menedzher-onlajn-prodazh-specialist-call-centra/	АйМаркет Трейд
 2020-12-25	https://gderabota.by/vac/7138	Dipgroup.by
 2020-12-14	https://vitebsk.biz/rabota/vacancy/43359/	ВетМедиаСервис
+2020-12-31	http://gsz.gov.by/registration/employer/vacancy/82466/detail-public/	Агрокомбинат Скидельский
+2021-01-18	https://www.moyareklama.by/single/vacancy/210352963	ДСТ 2 г Гомель
 2021-01-14	https://jobs.dev.by/vacancies/21545	SpiralScout Удалённо
 2021-01-14	https://jobs.dev.by/vacancies/21544	SpiralScout Удалённо
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/84108/detail-public/	Областное унитарное информационно-рекламное предприятие "Рэдакцыя газеты "Гродзенская праўда"
 2021-01-13	https://jobs.dev.by/vacancies/21542	SpiralScout Удалённо
 2021-01-15	https://www.belrabota.by/vacancy/avtobiznes-transport/163247/	ЧТУП Доктор Моторс
 2021-01-13	https://jobs.dev.by/vacancies/21548	Andersen Удалённо
-2021-01-16	http://gsz.gov.by/registration/employer/vacancy/91762/detail-public/	Учреждение образования "Малоритский государственный профессиональный лицей сельскохозяйственного производства"
 2020-12-24	http://gsz.gov.by/registration/employer/vacancy/60346/detail-public/	Отдел образования Речицкого районного исполнительного комитета
 2021-01-13	https://jobs.dev.by/vacancies/21546	Andersen Удалённо
 2020-12-15	https://www.vjober.org/job/middle-ruby-developer/	GP Solutions
+2021-01-11	http://gsz.gov.by/registration/employer/vacancy/86978/detail-public/	Общество с ограниченной ответственностью "Мостхим-ЛКМ"
 2021-01-06	http://gsz.gov.by/registration/employer/vacancy/85829/detail-public/	Открытое акционерное общество "Хальч"
 2021-01-13	https://jobs.dev.by/vacancies/21541	SpiralScout Удалённо
 2021-01-13	https://jobs.dev.by/vacancies/21540	SpiralScout Удалённо
 2021-01-14	https://www.vjober.org/job/menedzher-internet-magazina-13/	ИП Голуб Светлана Николаевна
-2020-12-10	https://jobisto.by/v/dapj/5rqq7j?utm_campaign=aggregators&utm_source=belmeta.com&utm_medium=organic	ИП Коголь М.М.
 2020-12-19	https://www.vjober.org/job/python-developer/	2Relocate.com
 2021-01-05	https://www.vjober.org/job/administrator-sajta/	Финансово-инвестиционная компания ИНХО
 2021-01-04	https://www.vjober.org/job/systems-engineer/	Вайзор Геймз
@@ -681,7 +690,6 @@
 2021-01-15	https://jobs.dev.by/vacancies/21553	ITBELCOM Удалённо
 2021-01-16	https://jobs.dev.by/vacancies/21558	CactusSoft Удалённо
 2021-01-15	https://jobs.dev.by/vacancies/21557	Tealium Удалённо
-2020-12-17	https://www.vjober.org/job/biznes-analitik-6/	A1
 2020-12-21	https://www.vjober.org/job/master-po-remontu-kompjutery-televizory-telefony/	СЦпоинт
 2021-01-10	https://www.vjober.org/job/middle-windows-kernel-developer/	ООО Тэксод Технолоджиз
 2021-01-14	https://jobs.dev.by/vacancies/21552	BERSERK GROUP Удалённо
@@ -698,7 +706,6 @@
 2021-01-11	https://jobs.dev.by/vacancies/21523	BelPrime
 2021-01-04	https://www.vjober.org/job/react-native-developer/	Орион Софт
 2021-01-11	https://jobs.dev.by/vacancies/19686	Piplos Media Удалённо
-2021-01-11	https://jobs.dev.by/vacancies/21522	Texode Technologies
 2021-01-06	https://jobs.dev.by/vacancies/16179	AppXite
 2021-01-11	https://jobs.dev.by/vacancies/21521	Texode Technologies
 2021-01-12	https://jobs.dev.by/vacancies/21520	AmpTrack Technologies AB
@@ -706,7 +713,6 @@
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/89906/detail-public/	Учреждение образования "Национальный детский технопарк"
 2021-01-11	http://gsz.gov.by/registration/employer/vacancy/10267/detail-public/	Белорусский культурный центр духовного Возрождения
 2021-01-11	https://jobs.dev.by/vacancies/21524	Intelico
-2020-12-11	http://gsz.gov.by/registration/employer/vacancy/18898/detail-public/	Открытое акционерное общество "Сморгонский завод оптического станкостроения"
 2021-01-10	https://www.vjober.org/job/senior-system-developer-c-c-linux/	ООО Тэксод Технолоджиз
 2021-01-05	http://gsz.gov.by/registration/employer/vacancy/84043/detail-public/	Производственное объединение Белоруснефть
 2021-01-12	https://jobs.dev.by/vacancies/20671	Grymala
@@ -714,7 +720,7 @@
 2021-01-12	https://jobs.dev.by/vacancies/20670	Grymala
 2021-01-12	https://www.vjober.org/job/master-po-remontu-kompjuterov-2/	Сайко Д.В
 2021-01-14	https://www.belrabota.by/vacancy/drugoe/150279/	ИП Старостенко Наталья Алексеевна
-2021-01-15	https://ludi.by/job/inzhener-programmist-asu-tp-udalenno/	Нано Смарт Технолоджи
+2021-01-18	https://ludi.by/job/inzhener-programmist-asu-tp-udalenno/	Нано Смарт Технолоджи
 2021-01-12	https://jobs.dev.by/vacancies/21534	Forte Group
 2021-01-08	https://www.vjober.org/job/administrator-salona-krasoty-9/	Филипчик А. С.
 2021-01-12	https://jobs.dev.by/vacancies/21531	Intetics
@@ -730,7 +736,6 @@
 2020-12-25	https://joblab.by/vac139908.html	Мобайл Сервис
 2021-01-15	https://www.vjober.org/job/senior-business-analyst/	Эксадел
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/492/detail-public/	Государственное учреждение культуры "Новогрудская районная библиотека"
-2020-12-10	https://joblab.by/vac317035.html	ЧУП "Стагира"
 2020-12-28	https://jobs.dev.by/vacancies/11942	Targetprocess
 2021-01-12	https://www.vjober.org/job/middle-web-razrabotchik/	Сенла
 2021-01-15	https://www.vjober.org/job/senior-net-developer-2/	Эксадел
@@ -742,13 +747,14 @@
 2021-01-06	https://jobs.dev.by/vacancies/21506	Teqniksoft Удалённо
 2020-12-16	https://www.vjober.org/job/programmist-ms-sql/	ОМА
 2021-01-11	https://www.vjober.org/job/qa-automation-engineer-python/	ИТС Партнёр
-2021-01-09	https://jobs.dev.by/vacancies/21500	Deriv
 2021-01-06	https://jobs.dev.by/vacancies/20415	Epicmax Удалённо
 2021-01-06	https://jobs.dev.by/vacancies/21504	ActiveCloud Удалённо
 2021-01-13	https://jobs.dev.by/vacancies/20899	SolbegSoft
 2021-01-13	https://jobs.dev.by/vacancies/20898	SolbegSoft
+2021-01-18	https://jobs.dev.by/vacancies/21502	Deriv
 2021-01-16	http://gsz.gov.by/registration/employer/vacancy/91979/detail-public/	Учреждение образования "Пинский государственный профессиональный лицей сельскохозяйственного производства"
 2021-01-09	https://riv.by/udalennaya-rabota/snabzhenie-klient-trade/vakansiya-76992.html	Лоял Клаб
+2021-01-18	https://ludi.by/job/kopirajter/	Декмол
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/89915/detail-public/	Учреждение образования "Национальный детский технопарк"
 2021-01-11	https://jobs.dev.by/vacancies/21519	Track-POD Удалённо
 2020-12-21	https://www.vjober.org/job/vedushhij-inzhener-programmist-4/	Фенокс
@@ -763,10 +769,9 @@
 2021-01-11	https://jobs.dev.by/vacancies/21514	Netpeak Group Удалённо
 2021-01-04	https://www.vjober.org/job/menedzher-po-prodazham-18/	Агрощит
 2021-01-08	https://jobs.dev.by/vacancies/21513	Netpeak Group Удалённо
-2020-12-29	https://www.vjober.org/job/web-razrabotchik-full-stack-web-developer-fulstek-razrabotchik/	Веб Фокус
+2021-01-12	https://www.vjober.org/job/specialist-po-prodazham-zhenskoj-odezhdy/	Авила
 2020-12-28	https://www.vjober.org/job/php-developer/	Гризли Диджитал Компани
 2021-01-04	https://www.vjober.org/job/pomoshhnik-seo-specialista/	Веб Фокус
-2021-01-11	http://gsz.gov.by/registration/employer/vacancy/86865/detail-public/	Государственное учреждение "Ивацевичский территориальный центр социального обслуживания населения"
 2021-01-04	https://www.vjober.org/job/specialist-po-prodazham-31/	Техно-Скай
 2020-12-23	http://gsz.gov.by/registration/employer/vacancy/79401/detail-public/	Закрытое акционерное общество "Артуа Информ"
 2021-01-15	https://www.vjober.org/job/sistemnyj-administrator-3/	Белс
@@ -775,22 +780,22 @@
 2021-01-11	https://jobs.dev.by/vacancies/17223	Applied Systems
 2021-01-04	https://jobs.dev.by/vacancies/19403	Евразийская Процессинговая Компания Удалённо
 2021-01-05	https://joblab.by/vac319298.html	Griffin
+2021-01-18	https://jobs.dev.by/vacancies/18555	ООО "ЭнФэйз Системс" Удалённо
 2021-01-04	https://www.vjober.org/job/kontent-menedzher-3/	Линия комфорта
 2021-01-06	https://vitebsk.biz/rabota/vacancy/43753/	Мясная лавка
 2021-01-15	http://gsz.gov.by/registration/employer/vacancy/91379/detail-public/	Минский метрополитен
 2020-12-22	https://www.vjober.org/job/specialist-sklada-internet-magazina-tc-zamok/	Бонд стрит
 2021-01-11	http://gsz.gov.by/registration/employer/vacancy/81968/detail-public/	Государственное учреждение образования "Бигосовская средняя школа Верхнедвинского района"
 2021-01-05	https://www.moyareklama.by/single/vacancy/210344289	ОДО "Сож Строй"
-2020-12-11	https://www.vjober.org/job/ios-developer-7/	WakeApp
 2020-12-29	https://www.vjober.org/job/junior-net-developer-trainee/	iTechArt Group
 2021-01-04	https://www.vjober.org/job/sistemnyj-analitik-1s/	СофтЛайнБел
 2021-01-12	https://www.vjober.org/job/biznes-analitik-4/	Приорбанк
 2021-01-05	https://www.moyareklama.by/single/vacancy/210344290	ОДО "Сож Строй"
+2021-01-18	https://jobisto.by/v/dlra/58m42j?utm_campaign=aggregators&utm_source=belmeta.com&utm_medium=organic	ООО Панексмаркет
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/89502/detail-public/	Открытое акционерное общество "Мозырский нефтеперерабатывающий завод"
 2021-01-11	https://www.vjober.org/job/unity-developer/	Крейтекс
 2021-01-13	https://jobs.dev.by/vacancies/20885	Exposit Удалённо
 2021-01-15	https://www.vjober.org/job/senior-javascript-developer-angular-cordova-ios/	Эксадел
-2020-12-17	https://www.vjober.org/job/it-business-analyst-system-analyst/	ИООО «АсстрА Менеджмент»
 2021-01-09	https://www.vjober.org/job/programmist-1s-bitriks/	Ам-Трейдер
 2020-12-22	https://jobs.dev.by/vacancies/20887	ООО "ФоксТри"
 2021-01-06	https://www.vjober.org/job/kontent-menedzher-4/	ЧУП Флай Медиа
@@ -818,6 +823,7 @@
 2021-01-15	https://jobs.dev.by/vacancies/19519	SK hynix memory solutions Eastern Europe
 2021-01-05	https://www.vjober.org/job/middle-ios-developer/	Крумоби
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/20227/detail-public/	Банк ВТБ Беларусь
+2021-01-18	https://ludi.by/job/specialist-po-kontekstnoj-reklame/	Декмол
 2021-01-04	https://www.moyareklama.by/single/vacancy/208888606	ООО "Компания Омитекс"
 2021-01-12	https://joblab.by/vac294724.html	ИнформБюро
 2021-01-05	https://www.vjober.org/job/rukovoditel-proektov-po-razrabotke-programmnogo-obespechenija-na-platforme-1s/	Брайт Солюшенз
@@ -832,17 +838,17 @@
 2021-01-04	https://www.vjober.org/job/qa-automation/	Практика Софт
 2021-01-04	https://www.vjober.org/job/junior-php-developer/	Новый Сайт
 2020-12-18	http://gsz.gov.by/registration/employer/vacancy/77361/detail-public/	Государственное учреждение "Гродненский районный центр обеспечения деятельности организаций сферы образования"
-2021-01-11	https://riv.by/minsk/svyaz-it-internet/vakansiya-73714.html	Ваумэйкинг
+2021-01-18	https://riv.by/minsk/svyaz-it-internet/vakansiya-73714.html	Ваумэйкинг
 2020-12-21	https://www.vjober.org/job/middle-unity-developer/	Вайзор Геймз
-2021-01-11	https://jobs.dev.by/vacancies/19981	On The Spot Development
+2021-01-18	https://jobs.dev.by/vacancies/14053	Epicmax Удалённо
 2020-12-23	https://www.vjober.org/job/inzhener-proektirovshhik-jelektrik-3/	Белпромстройпроект Институт
 2020-12-29	https://jobs.dev.by/vacancies/19736	CodeX Software
 2021-01-04	https://www.vjober.org/job/marketolog-rukovoditel-otdela-marketinga/	Бьюти Айз плюс
-2020-12-10	https://joblab.by/vac317033.html	ЧУП "Стагира"
 2020-12-18	https://www.vjober.org/job/biznes-analitik-middle-po-razrabotke-produktov-dlja-korporativnogo-biznesa/	Альфа-Банк
 2020-12-28	https://www.vjober.org/job/stazhjor-testirovshhik-funkcionalnoe-testirovanie/	A1QA
 2020-12-23	https://www.vjober.org/job/lead-2d-artist-vedushhij-2d-hudozhnik-2/	СтаркГеймз
 2021-01-13	https://jobs.dev.by/vacancies/20936	SolbegSoft
+2021-01-11	https://www.vjober.org/job/senior-php-developer/	Вебмарт Групп
 2021-01-11	https://riv.by/minsk/svyaz-it-internet/vakansiya-76327.html	Белмедтехника
 2021-01-11	https://jobs.dev.by/vacancies/18854	SVAPS Systems
 2020-12-31	https://jobs.dev.by/vacancies/19704	Евразийская Процессинговая Компания Удалённо
@@ -853,7 +859,7 @@
 2021-01-11	https://www.vjober.org/job/administrator-baz-dannyh/	Центр прогрессивных разработок
 2021-01-07	https://www.vjober.org/job/pomoshhnik-seo-specialista-seo-optimizator-specialist-po-prodvizheniju-sajtov/	Сосновский А. А. / Agency 97
 2021-01-04	https://www.vjober.org/job/backend-razrabotchik/	Девкрафт
-2020-12-18	https://www.vjober.org/job/pre-sales-menedzher/	Стандарт Хай Тек
+2021-01-18	https://ludi.by/job/inzhener-programmist-14/	Леор Пластик
 2021-01-13	https://jobs.dev.by/vacancies/20705	Storymode Удалённо
 2021-01-04	http://gsz.gov.by/registration/employer/vacancy/13721/detail-public/	Учреждение образования "Приборский государственный профессиональный аграрно-технический лицей"
 2021-01-12	https://www.vjober.org/job/menedzher-po-prodazham-21/	7 Топ
@@ -861,13 +867,11 @@
 2020-12-21	https://www.vjober.org/job/motion-designer-4/	Зоркамоби
 2021-01-04	https://jobs.dev.by/vacancies/18624	Start Matter Удалённо
 2020-12-18	http://gsz.gov.by/registration/employer/vacancy/16485/detail-public/	Национальная библиотека Беларуси
-2021-01-16	http://gsz.gov.by/registration/employer/vacancy/91772/detail-public/	Государственное учреждение образования "Средняя школа № 108 г. Минска "
 2021-01-06	https://jobisto.by/v/qwvo/jyk4n5?utm_campaign=aggregators&utm_source=belmeta.com&utm_medium=organic	Госстройэкспертиза по г. Минску
 2021-01-16	http://gsz.gov.by/registration/employer/vacancy/91996/detail-public/	Общество с ограниченной ответственностью "ЭЛИТСОФТ"
 2020-12-22	https://www.vjober.org/job/unity-developer-4/	Арб Трафик-Солюшинс
 2021-01-14	http://gsz.gov.by/registration/employer/vacancy/21929/detail-public/	Банк ВТБ Беларусь
 2020-12-19	https://www.vjober.org/job/ruby-developer-3/	Кьюликс Системс
-2020-12-24	http://gsz.gov.by/registration/employer/vacancy/80315/detail-public/	Общество с ограниченной ответственностью "ЛинСкэйл Диджитал"
 2021-01-14	https://www.vjober.org/job/unity-developer-unity-razrabotchik/	Рингл технолоджис
 2021-01-05	https://joblab.by/vac319301.html	Griffin
 2020-12-28	https://jobs.dev.by/vacancies/16893	Techvice Удалённо
@@ -875,7 +879,6 @@
 2021-01-07	https://www.vjober.org/job/programmist-1s-8-2/	ТД Комплект
 2021-01-07	https://www.vjober.org/job/senior-lead-unity-developer/	СтаркГеймз
 2021-01-14	https://www.moyareklama.by/single/vacancy/210349691	Ооо "Ивва Групп"
-2021-01-15	http://gsz.gov.by/registration/employer/vacancy/90690/detail-public/	Общество с ограниченной ответственностью "Матрёшка Диджитал Системс"
 2021-01-05	https://joblab.by/vac319300.html	Griffin
 2020-12-27	https://gderabota.by/vac/11316	ООО АскерВеб
 2021-01-04	https://www.vjober.org/job/middle-qa-engineer-3/	Кьюликс Системс
@@ -899,7 +902,7 @@
 2021-01-15	https://joblab.by/vac261539.html	БелГИСС
 2021-01-15	https://www.vjober.org/job/product-manager-2/	Ламира-Фармакар
 2020-12-18	http://gsz.gov.by/registration/employer/vacancy/77497/detail-public/	Унитарное производственное коммунальное предприятие водопроводно-канализационного хозяйства "Могилевоблводоканал"
-2021-01-11	https://riv.by/minsk/svyaz-it-internet/vakansiya-68830.html	Ваумэйкинг
+2021-01-18	https://riv.by/minsk/svyaz-it-internet/vakansiya-68830.html	Ваумэйкинг
 2020-12-29	https://www.vjober.org/job/senior-qa-engineer-mobile-frontend/	Хьюманс АйТи
 2021-01-11	https://www.vjober.org/job/testirovshhik-po-2/	Центр прогрессивных разработок
 2021-01-13	http://gsz.gov.by/registration/employer/vacancy/88506/detail-public/	Государственное учреждение образования "Коровчинская средняя школа"
@@ -917,7 +920,6 @@
 2020-12-31	https://www.vjober.org/job/back-end-php-veb-razrabotchik-2/	АйтиДизайн
 2021-01-06	https://www.vjober.org/job/menedzher-internet-magazina-6/	ИП Савчук Дмитрий Александрович
 2021-01-05	https://joblab.by/vac319295.html	Griffin
-2021-01-12	http://gsz.gov.by/registration/employer/vacancy/74914/detail-public/	Государственное учреждение образования "Бабиничская средняя школа Оршанского района"
 2020-12-21	http://gsz.gov.by/registration/employer/vacancy/78497/detail-public/	Волковысский хлебозавод
 2021-01-11	https://jobs.dev.by/vacancies/20908	ID Finance Удалённо
 2020-12-15	https://vitebsk.biz/rabota/vacancy/42627.e6b70/	Лаборатория Икс
@@ -932,18 +934,18 @@
 2021-01-05	https://joblab.by/vac319299.html	Griffin
 2021-01-10	https://www.vjober.org/job/web-programmist-2/	Итспро
 2021-01-06	https://www.vjober.org/job/menedzher-internet-magazina-8/	ИП Савчук Дмитрий Александрович
+2021-01-14	http://gsz.gov.by/registration/employer/vacancy/90213/detail-public/	Государственное учреждение образования "Гимназия № 5 г. Минска имени героев встречи на Эльбе"
 2021-01-13	https://www.vjober.org/job/middle-react-developer/	Сенла
 2020-12-23	https://www.vjober.org/job/devops/	ИТС Партнёр
 2020-12-29	https://www.vjober.org/job/inzhener-gruppy-avtomatizacii-i-jekspluatacii-onlajn-servisov-jira/	A1
 2020-12-30	https://www.vjober.org/job/middle-senior-qa-engineer/	Евразийская процессинговая компания
-2021-01-16	https://ludi.by/job/sistemnyj-administrator-4/	Витебская лесопилка УП
+2021-01-18	https://ludi.by/job/sistemnyj-administrator-4/	Витебская лесопилка УП
 2020-12-30	http://gsz.gov.by/registration/employer/vacancy/72456/detail-public/	Гродненский государственный университет имени Янки Купалы
 2021-01-13	https://joblab.by/vac320138.html	ООО "ТехноИнновация"
 2020-12-23	https://www.vjober.org/job/razrabotchik-v-gruppu-robotics-process-automation/	EY
 2021-01-14	https://www.vjober.org/job/menedzher-internet-magazina-7/	ИП Голуб Светлана Николаевна
 2020-12-22	https://www.vjober.org/job/vedushhij-sistemnyj-analitik-1s/	НП-Сервис
 2021-01-06	https://www.vjober.org/job/middle-php-programmer/	ИП Гафт Дмитрий Григорьевич
-2020-12-17	https://www.vjober.org/job/react-native-developer-senior/	ZiMAD
 2021-01-05	http://gsz.gov.by/registration/employer/vacancy/35019/detail-public/	Государственное учреждение образования "Смиловичский сельскохозяйственный профессиональный лицей"
 2020-12-28	https://riv.by/minsk/rukovoditeli/vakansiya-73604.html	ИВЦ Минфина
 2020-12-14	https://riv.by/udalennaya-rabota/svyaz-it-internet/vakansiya-76487.html	Стагира
@@ -971,13 +973,11 @@
 2020-12-20	https://bobr.by/job/vacancy2/3681055	null
 2021-01-06	https://www.vjober.org/job/akkaunt-menedzher-account-sales-manager-v-it-web-sajty-ecommerce-online-b2b-servisy-crm-sistemy/	Новый Сайт
 2020-12-29	https://www.vjober.org/job/nachalnik-otdela-informacionnyh-tehnologij/	Западэлектросетьстрой
-2020-12-18	https://www.vjober.org/job/workflow-engineer/	Syberry CIS
 2021-01-04	http://gsz.gov.by/registration/employer/vacancy/42768/detail-public/	Государственное учреждение культуры "Толочинская централизованная библиотечная система"
 2021-01-12	https://www.moyareklama.by/single/vacancy/210229716	ООО "Центр юридической защиты"
 2021-01-12	https://www.vjober.org/job/seo-specialist-so-znaniem-anglijskogo-jazyka/	Бетликс
 2021-01-14	https://jobs.dev.by/vacancies/7179	ТКП-Софт
 2021-01-12	https://jobs.dev.by/vacancies/21168	Плэйтика Бел
-2021-01-11	https://riv.by/pinsk/svyaz-it-internet/vakansiya-54643.html	Креативная студия АникА
 2020-12-21	https://jobs.dev.by/vacancies/21163	PST Labs LLC Удалённо
 2020-12-21	https://jobs.dev.by/vacancies/21160	PST Labs LLC Удалённо
 2021-01-13	https://jobs.dev.by/vacancies/20071	SolbegSoft
