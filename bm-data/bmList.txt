@@ -24,9 +24,7 @@
 2021-05-04	http://gsz.gov.by/registration/employer/vacancy/167301/detail-public/	Инспекция Министерства по налогам и сборам Республики Беларусь по Пуховичскому району
 2021-05-14	https://www.vjober.org/job/business-analyst-5/	АйТиСаппортМи
 2021-05-12	https://www.vjober.org/job/seo-specialist-7/	Гризли Диджитал Компани
-2021-04-28	https://www.vjober.org/job/php-programmist-php-developer-veb-razrabotchik/	Клик Медиа
 2021-05-04	https://belmeta.com/redir?id=8764638	Астомстрой
-2021-04-27	https://www.vjober.org/job/kontent-menedzher-internet-magazina-2/	Бэбимаркет
 2021-05-02	https://careers.epam.by/careers/job-listings/job.53583	EPAM Systems
 2021-04-30	https://evroopt.by/jobs/59426	Евроопт
 2021-05-03	https://www.vjober.org/job/game-designer-gejm-dizajner/	ZiMAD
@@ -37,6 +35,7 @@
 2021-05-14	https://www.vjober.org/job/specialist-punkta-vydachi-zakazov/	7745 Большой Магазин
 2021-04-29	http://gsz.gov.by/registration/employer/vacancy/122943/detail-public/	Государственное природоохранное учреждение "Республиканский ландшафтный заказник "Озёры"
 2021-04-28	https://www.vjober.org/job/business-analyst-4/	Фингерз Медиа
+2021-04-27	https://joblab.by/vac336054.html	ООО "АскерВЕБ"
 2021-05-15	https://www.moyareklama.by/single/vacancy/210414795	КУП "Информационно-вычислительный центр"
 2021-04-30	https://www.vjober.org/job/devops-engineer-2/	Кортлекс Бел
 2021-05-14	https://jobs.dev.by/vacancies/22578	Apalon
@@ -66,7 +65,6 @@
 2021-05-18	https://belmeta.com/redir?id=8523630	Минский метрополитен
 2021-05-12	https://www.vjober.org/job/vedushhij-internet-marketolog-2/	Яценко В. А.
 2021-05-12	http://gsz.gov.by/registration/employer/vacancy/171970/detail-public/	Государственное учреждение "Щучинский районный центр для обеспечения деятельности в сфере образования, спорта и туризма"
-2021-04-28	http://gsz.gov.by/registration/employer/vacancy/163003/detail-public/	Государственное учреждение "Центр по обеспечению деятельности бюджетных организаций и государственных органов Чашникского района"
 2021-05-13	https://www.vjober.org/job/pomoshhnik-sistemnogo-administratora-2/	Мотехсавтозапчасти
 2021-04-29	https://www.vjober.org/job/it-rekruter-7/	IT and Digital
 2021-05-04	https://www.vjober.org/job/seo-specialist-4/	Стрельчик В. В.
@@ -85,7 +83,6 @@
 2021-04-29	https://jobs.dev.by/vacancies/22790	Arateg
 2021-05-06	https://grodno.in/rabota/vacancy/19319/	ООО «Сникер Бар»
 2021-05-04	https://www.belrabota.by/vacancy/drugoe/171186/	Цдбо
-2021-04-28	https://www.moyareklama.by/single/vacancy/210445051	УО "Гомельский городской лицей № 1"
 2021-04-30	https://evroopt.by/jobs/59619	Евроопт
 2021-05-02	https://careers.epam.by/careers/job-listings/job.24810	EPAM Systems
 2021-05-03	https://www.vjober.org/job/seo-specialist-3/	Мегатоп
@@ -100,13 +97,14 @@
 2021-05-04	https://www.vjober.org/job/middle-ios-developer-belarus/	ИнтэксСофт
 2021-05-12	https://www.vjober.org/job/experienced-frontend-developer/	Датарокетс
 2021-05-07	https://www.vjober.org/job/seo-specialist-6/	АйМаркет Трейд
+2021-04-27	https://joblab.by/vac336062.html	ООО "АскерВЕБ"
 2021-04-29	https://jobs.dev.by/vacancies/22778	CleverLabs
 2021-05-08	https://www.vjober.org/job/html-verstalshhik-4/	Угликов А. В.
 2021-05-11	https://www.vjober.org/job/it-rekruter-5/	IT and Digital
 2021-05-04	https://www.vjober.org/job/community-manager-influencer-marketing-specialist/	ДиалМедиа / Buzzguru
-2021-05-17	https://jobs.dev.by/vacancies/22779	Sideways 6
-2021-05-18	https://jobs.dev.by/vacancies/22537	VIAcode
 2021-05-18	https://jobs.dev.by/vacancies/19125	Resliv
+2021-05-18	https://jobs.dev.by/vacancies/22537	VIAcode
+2021-05-17	https://jobs.dev.by/vacancies/22779	Sideways 6
 2021-05-13	https://www.vjober.org/job/ukladchik-upakovshhik-24/	СТРИМ
 2021-04-28	https://jobs.dev.by/vacancies/22774	RozumSystems
 2021-05-02	https://careers.epam.by/careers/job-listings/job.51372	EPAM Systems
@@ -144,6 +142,8 @@
 2021-04-30	https://ostrov-chistoty.by/vakansii/PHP-Web-Developer	ЗападХимТорг
 2021-05-14	https://jobs.dev.by/vacancies/22515	Visutech System Ltd.
 2021-05-07	https://jobs.dev.by/vacancies/22516	Группа компаний ЭтикетСервис
+2021-05-18	https://jobs.dev.by/vacancies/22994	Akveo
+2021-05-18	https://jobs.dev.by/vacancies/22995	BldSoft
 2021-05-18	https://jobs.dev.by/vacancies/22990	Softvoya
 2021-05-18	https://jobs.dev.by/vacancies/22991	SKDO Systems
 2021-05-13	https://jobs.dev.by/vacancies/22750	TangoMe
@@ -274,7 +274,6 @@
 2021-05-02	https://careers.epam.by/careers/job-listings/job.52060	EPAM Systems
 2021-05-14	https://jobs.dev.by/vacancies/22938	Itransition
 2021-05-14	https://jobs.dev.by/vacancies/22939	Social Discovery Ventures
-2021-04-26	https://joblab.by/vac335834.html	ООО "Авинта"
 2021-05-02	https://careers.epam.by/careers/job-listings/job.52062	EPAM Systems
 2021-05-15	https://jobs.dev.by/vacancies/22932	ITSupportMe
 2021-05-02	https://careers.epam.by/careers/job-listings/job.52061	EPAM Systems
@@ -286,6 +285,7 @@
 2021-04-28	https://www.vjober.org/job/back-end-developer/	АДМсолюшн
 2021-04-30	https://issoft.by/vacancies/software-development/python/python-developer-machine-learning/	ISsoft Solutions
 2021-05-02	https://careers.epam.by/careers/job-listings/job.42290	EPAM Systems
+2021-04-27	https://joblab.by/vac336055.html	ООО "АскерВЕБ"
 2021-05-02	https://careers.epam.by/careers/job-listings/job.49910	EPAM Systems
 2021-05-04	https://www.vjober.org/job/help-desk-specialist-1-linija-podderzhki/	Хьюманс АйТи
 2021-05-14	https://www.vjober.org/job/middle-senior-python-developer-2/	Норд-Софт
@@ -361,12 +361,12 @@
 2021-05-13	https://www.vjober.org/job/menedzher-po-prodazham-56/	Вамакс Трейд
 2021-05-03	https://jobs.dev.by/vacancies/21905	IBA Group
 2021-05-15	https://belmeta.com/redir?id=8779751	Минский метрополитен
+2021-05-13	https://riv.by/grodno/ofis/vakansiya-81529.html	Гемма
 2021-04-30	https://issoft.by/vacancies/software-development/mobile/ios-developer-food-delivery-sphere/	ISsoft Solutions
 2021-04-30	https://issoft.by/vacancies/software-development/mobile/android-developer-healthcare-sphere/	ISsoft Solutions
 2021-05-01	https://www.vjober.org/job/embedded-developer/	ЛАЦИТ - Лаборатория цифровых технологий
 2021-05-14	https://jobs.dev.by/vacancies/16558	Luware AG
 2021-05-05	https://www.vjober.org/job/inzhener-konstruktor-38/	Промпривод
-2021-04-28	https://www.vjober.org/job/sdk-razrabotchik/	СейГеймс
 2021-05-02	https://careers.epam.by/careers/job-listings/job.57218	EPAM Systems
 2021-04-27	https://riv.by/grodno/svyaz-it-internet/vakansiya-80976.html	АскерВЕБ
 2021-04-28	https://www.vjober.org/job/inzhener-konstruktor-km-kmd-3/	Энэка
@@ -390,6 +390,7 @@
 2021-05-02	https://careers.epam.by/careers/job-listings/job.60637	EPAM Systems
 2021-05-07	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/149345/	БелХард Девелопмент
 2021-05-12	https://gderabota.by/vac/19393	Филиал "Руденская ГНС" УП "МИНСКОБЛГАЗ"
+2021-04-27	https://joblab.by/vac336061.html	ООО "АскерВЕБ"
 2021-05-17	https://riv.by/vitebsk/svyaz-it-internet/vakansiya-81703.html	Техартгруп
 2021-05-04	https://jobs.dev.by/vacancies/18712	iCode
 2021-05-13	https://www.vjober.org/job/programmist-1s8-2/	Анса-софт
@@ -400,8 +401,6 @@
 2021-05-03	https://www.vjober.org/job/inzhener-programmist-16/	Альфа-Гомель
 2021-05-02	https://careers.epam.by/careers/job-listings/job.48783	EPAM Systems
 2021-05-15	http://gsz.gov.by/registration/employer/vacancy/175087/detail-public/	Республиканское унитарное предприятие "Центр информационных технологий Министерства труда и социальной защиты Республики Беларусь"
-2021-04-28	https://www.moyareklama.by/single/vacancy/210445512	ОАО "УКХ "Белорусские обои"
-2021-04-28	https://www.vjober.org/job/specialist-punkta-vydachi-zakazov-2/	Дистанционная торговля
 2021-05-02	https://careers.epam.by/careers/job-listings/job.43091	EPAM Systems
 2021-05-12	https://jobs.dev.by/vacancies/18968	Resliv
 2021-05-13	https://www.vjober.org/job/kompjuternyj-specialist-4/	Проект-КЦ
@@ -421,7 +420,6 @@
 2021-05-03	https://www.vjober.org/job/menedzher-po-prodazham-sistem-avtomatizacii-restoranov/	Дракарис
 2021-05-03	https://www.vjober.org/job/inzhener-programmist-2/	Государственное предприятие Центр радиотехники НАН Беларуси
 2021-05-15	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/71713/	БелХард Девелопмент
-2021-04-28	https://joblab.by/vac336142.html	АйтиЗнание
 2021-05-02	https://careers.epam.by/careers/job-listings/job.51318	EPAM Systems
 2021-05-02	https://careers.epam.by/careers/job-listings/job.51319	EPAM Systems
 2021-05-07	https://www.vjober.org/job/kopirajter-tehnicheskij-pisatel/	Вейник П. А.
@@ -446,7 +444,6 @@
 2021-04-29	https://riv.by/mogilev/svyaz-it-internet/vakansiya-81046.html	Могилевский филиал Автобусный парк 1 ОАО Могилевоблавтотранс
 2021-05-12	http://gsz.gov.by/registration/employer/vacancy/171162/detail-public/	Учреждение образования "Гродненский государственный профессиональный лицей строителей №1"
 2021-05-14	http://gsz.gov.by/registration/employer/vacancy/174089/detail-public/	Мобильные ТелеСистемы
-2021-04-28	https://www.vjober.org/job/analitik-biznes-processov/	Торвлад
 2021-05-14	https://joblab.by/vac338754.html	ООО "Реформа-Групп"
 2021-05-05	http://gsz.gov.by/registration/employer/vacancy/167787/detail-public/	Учреждение образования "Новомышский государственный профессиональный лицей сельскохозяйственного производства"
 2021-05-06	https://gderabota.by/vac/19125	Artox media
@@ -497,14 +494,15 @@
 2021-05-18	https://riv.by/minsk/svyaz-it-internet/vakansiya-81795.html	БелЭкспортВэй
 2021-04-29	https://www.vjober.org/job/senior-middle-php-developer-2/	Авентус ИТ
 2021-05-13	https://www.vjober.org/job/menedzher-po-prodazham-v-internet-magazin/	Трушинский Е.В.
+2021-05-18	http://gsz.gov.by/registration/employer/vacancy/176823/detail-public/	Филиал Завод Химволокно ОАО Гродно Азот
 2021-04-28	https://www.vjober.org/job/vedushhij-inzhener-konstruktor-km-kmd/	Энэка
 2021-05-04	https://joblab.by/vac337262.html	Белс
 2021-05-02	https://careers.epam.by/careers/job-listings/job.1567	EPAM Systems
 2021-05-02	https://careers.epam.by/careers/job-listings/job.60251	EPAM Systems
 2021-05-02	https://careers.epam.by/careers/job-listings/job.60494	EPAM Systems
 2021-05-11	https://belmeta.com/redir?id=8764651	Астомстрой
-2021-05-12	https://www.vjober.org/job/inzhener-programmist-3/	Средняя школа №180 г.Минска
 2021-05-13	http://gsz.gov.by/registration/employer/vacancy/171986/detail-public/	Волковысский хлебозавод
+2021-05-12	https://www.vjober.org/job/inzhener-programmist-3/	Средняя школа №180 г.Минска
 2021-04-30	https://www.vjober.org/job/ios-developer-middle-senior-2/	ZiMAD
 2021-04-30	https://www.vjober.org/job/3d-vizualizator-dizajner-intererov/	Грин Тайм
 2021-05-06	https://www.moyareklama.by/single/vacancy/210367387	ООО "СтройКонсалтГрупп"
@@ -561,6 +559,7 @@
 2021-05-11	https://jobs.dev.by/vacancies/22692	SoftSwiss
 2021-04-28	https://riv.by/mozyr/snabzhenie-klient-trade/vakansiya-81028.html	Мозырская швейная фабрика Надэкс
 2021-05-03	https://vitebsk.biz/rabota/vacancy/46993/	Витебскэнерго
+2021-05-18	https://www.moyareklama.by/single/vacancy/210462324	ИП Котляр Л. Л.
 2021-05-07	https://issoft.by/vacancies/software-development/front-end/node-js-developer-recruiting-sphere/	ISsoft Solutions
 2021-05-14	https://www.vjober.org/job/hr-menedzher/	Максбитсолюшен
 2021-05-13	http://gsz.gov.by/registration/employer/vacancy/172455/detail-public/	БМРЦ
@@ -578,6 +577,7 @@
 2021-05-02	https://careers.epam.by/careers/job-listings/job.24918	EPAM Systems
 2021-05-15	https://www.vjober.org/job/vedushhij-sistemnyj-administrator/	Еврошоп Бел
 2021-04-30	https://jobs.dev.by/vacancies/22672	Ciklum
+2021-05-18	https://jobs.dev.by/vacancies/21583	EVOKE Systems
 2021-05-12	https://www.vjober.org/job/sistemnyj-administrator-15/	АбразивХимСбыт
 2021-04-30	https://www.vjober.org/job/growth-manager/	Apalon
 2021-04-29	https://riv.by/minsk/svyaz-it-internet/vakansiya-81091.html	Белагропромбанк
@@ -626,7 +626,6 @@
 2021-05-15	https://www.vjober.org/job/sistemnyj-administrator-13/	МосПродуктСервис
 2021-05-12	https://www.vjober.org/job/inzhener-programmist-asu-tp-3/	АСУ-Техно
 2021-05-07	https://riv.by/udalennaya-rabota/svyaz-it-internet/vakansiya-81406.html	ИП Винокуров В. И.
-2021-04-28	https://www.vjober.org/job/dizajner-5/	БелСтенд
 2021-04-28	https://www.vjober.org/job/unity-developer-technical-artist/	АйконГеймс
 2021-04-30	https://issoft.by/vacancies/software-development/data-and-analytics/data-engineer-fitness-app/	ISsoft Solutions
 2021-04-29	http://gsz.gov.by/registration/employer/vacancy/116067/detail-public/	Государственное учреждение образования "Гродненское областное кадетское училище"
@@ -638,11 +637,12 @@
 2021-04-30	https://jobisto.by/v/dlra/5n6pog?utm_campaign=aggregators&utm_source=belmeta.com&utm_medium=organic	ИП Шныркевич И. В.
 2021-05-01	https://www.vjober.org/job/kategorijnyj-menedzher-specialist-po-zakupkam-bytovaja-tehnika/	Сеть Магазинов ATLANT
 2021-05-05	https://www.vjober.org/job/vedushhij-inzhener-programmist-gruppy-razrabotki/	Научно-производственный центр многофункциональных беспилотных комплексов Национальной академии наук Беларуси
+2021-04-27	https://joblab.by/vac336058.html	ООО "АскерВЕБ"
 2021-05-05	https://jobisto.by/v/qykk/g7xoq5?utm_campaign=aggregators&utm_source=belmeta.com&utm_medium=organic	ООО Промпривод
 2021-05-18	https://ludi.by/job/sistemnyj-administrator-9/	Санаторий Альфа Радон
-2021-04-28	http://gsz.gov.by/registration/employer/vacancy/163115/detail-public/	Государственное учреждение образования "Гимназия N8 г.Минска"
 2021-05-11	https://www.vjober.org/job/rnr-razrabotchik/	Белсотбит
 2021-05-07	https://jobs.dev.by/vacancies/22878	Forte Group
+2021-04-27	https://joblab.by/vac336057.html	ООО "АскерВЕБ"
 2021-05-07	https://jobs.dev.by/vacancies/22879	Forte Group
 2021-05-02	https://careers.epam.by/careers/job-listings/job.55230	EPAM Systems
 2021-05-04	http://gsz.gov.by/registration/employer/vacancy/166538/detail-public/	Учреждение образования "Витебский государственный индустриально-технологический колледж"
@@ -684,6 +684,7 @@
 2021-04-30	https://www.vjober.org/job/ui-ux-dizajner-2/	Браймонсофт
 2021-05-03	https://www.vjober.org/job/master-po-remontu-kompjuterov-2/	Поляков инк
 2021-05-06	https://www.vjober.org/job/specialist-po-vizualizacii/	Алютех
+2021-04-27	https://joblab.by/vac336060.html	ООО "АскерВЕБ"
 2021-05-07	https://www.vjober.org/job/sistemnyj-administrator-17/	ЮнайтедТиМ
 2021-05-13	https://www.belrabota.by/vacancy/drugoe/150279/	ИП Старостенко Наталья Алексеевна
 2021-05-18	https://ludi.by/job/sistemnyj-administrator-nachalnik-sluzhby-asu/	Завод эффективных промышленных конструкций
@@ -721,7 +722,6 @@
 2021-05-12	https://jobs.dev.by/vacancies/21500	Deriv
 2021-05-05	https://jobs.dev.by/vacancies/22835	Smartym Pro
 2021-04-28	https://jobs.dev.by/vacancies/20415	Epicmax
-2021-05-05	https://jobs.dev.by/vacancies/22830	Neklo
 2021-05-12	https://www.vjober.org/job/it-recruiter-6/	Инженерика групп
 2021-05-02	https://careers.epam.by/careers/job-listings/job.57858	EPAM Systems
 2021-05-02	https://careers.epam.by/careers/job-listings/job.57857	EPAM Systems
@@ -762,6 +762,7 @@
 2021-05-04	https://jobs.dev.by/vacancies/21722	JetThoughts
 2021-05-03	https://jobs.dev.by/vacancies/22812	Kaseya
 2021-05-13	https://www.vjober.org/job/middle-front-end-developer-react-angular/	Экспозит
+2021-05-18	https://jobs.dev.by/vacancies/19403	Евразийская процессинговая компания
 2021-04-28	https://jobs.dev.by/vacancies/21967	Eis
 2021-05-03	https://jobs.dev.by/vacancies/22814	GP Solutions
 2021-05-13	https://www.vjober.org/job/junior-unity-developer/	БР Мобайл
@@ -794,6 +795,7 @@
 2021-05-03	http://gsz.gov.by/registration/employer/vacancy/118300/detail-public/	Государственное учреждение образования "Жупранская средняя школа имени Ф.К.Богушевича"
 2021-05-18	https://ludi.by/job/sistemnyj-administrator-14/	Санаторий Альфа Радон
 2021-05-07	https://www.vjober.org/job/influencer-marketing-manager/	BGSoft
+2021-04-27	https://joblab.by/vac336056.html	ООО "АскерВЕБ"
 2021-05-12	https://www.vjober.org/job/tehnik-programmist/	Висем
 2021-05-07	https://www.vjober.org/job/vedushhij-menedzher-po-prodazham-5/	Сто Продаж
 2021-04-30	https://issoft.by/vacancies/other/it-recruiter-2/	ISsoft Solutions
@@ -881,7 +883,6 @@
 2021-05-05	https://www.vjober.org/job/prepodavatel-programmist-3/	Мандрик В. С.
 2021-05-07	https://careers.epam.by/careers/job-listings/job.61603	EPAM Systems
 2021-05-14	https://www.vjober.org/job/middle-senior-front-end-developer-2/	Instinctools
-2021-04-28	https://www.vjober.org/job/programmist-1s-8-2/	Хьюмен Систем
 2021-05-02	https://careers.epam.by/careers/job-listings/job.60761	EPAM Systems
 2021-05-04	https://www.vjober.org/job/sistemnyj-administrator-pomoshhnik/	Ростинг
 2021-05-12	https://www.vjober.org/job/product-manager-3/	Виайпи Айти
@@ -928,6 +929,7 @@
 2021-05-02	https://careers.epam.by/careers/job-listings/job.51205	EPAM Systems
 2021-04-29	https://www.vjober.org/job/middle-senior-net-razrabotchik/	Крук А.С.
 2021-05-14	https://www.belrabota.by/vacancy/informatsionnye-tekhnologii-svyaz-internet-po/inzhener-6/162691/	Леангрупп
+2021-04-27	https://joblab.by/vac336059.html	ООО "АскерВЕБ"
 2021-05-04	https://www.vjober.org/job/vedushhij-specialist-po-tehnicheskomu-soprovozhdeniju-processov-roznichnoj-torgovli/	Белвест
 2021-05-13	https://www.vjober.org/job/php-razrabotchik-web-master/	Заяц Ю.Э.
 2021-04-30	https://issoft.by/vacancies/software-development/dot-net/net-architect-digital-marketing-sphere/	ISsoft Solutions
@@ -949,7 +951,6 @@
 2021-05-13	https://www.vjober.org/job/c-net-middle-developer/	Штайнпильц Бел / Steinpilz Bel
 2021-05-15	https://www.vjober.org/job/menedzher-internet-magazina-menedzher-koll-centra/	Ксистор / Xistore
 2021-05-07	http://gsz.gov.by/registration/employer/vacancy/170041/detail-public/	Национальное кадастровое агентство
-2021-04-28	http://gsz.gov.by/registration/employer/vacancy/162981/detail-public/	Республиканское унитарное сервисное предприятие "БЕЛТЕХОСМОТР"
 2021-05-14	http://gsz.gov.by/registration/employer/vacancy/174105/detail-public/	АСБ Беларусбанк
 2021-05-06	http://gsz.gov.by/registration/employer/vacancy/134361/detail-public/	Акционерное общество "Атомтехэкспорт" Российская Федерация
 2021-05-13	https://jobs.dev.by/vacancies/17920	Credentially
@@ -981,7 +982,6 @@
 2021-04-30	https://issoft.by/vacancies/software-development/java/java-developer-medical-quality-management/	ISsoft Solutions
 2021-05-11	https://www.vjober.org/job/desktop-c-developer/	Viber
 2021-04-30	https://jobs.dev.by/vacancies/22257	100Soft
-2021-04-28	https://www.vjober.org/job/junior-middle-full-stack-net-angular-developer/	Snapio
 2021-05-02	https://careers.epam.by/careers/job-listings/job.60120	EPAM Systems
 2021-05-18	https://jobs.dev.by/vacancies/22498	Corevist
 2021-05-02	https://careers.epam.by/careers/job-listings/job.16208	EPAM Systems
